@@ -32,7 +32,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
-     - name: Commit and Push Logs & State
+      - name: Commit and Push Logs & State
         run: |
           git config --global user.name "budi-bot"
           git config --global user.email "bot@budi.world"
