@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179285,
+  "cycle_id": 179286,
   "last_updated": "2026-10-23",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.48,
+    "emotional_load": 0.16,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_aje_meeting",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio stiklinis vestibiulis",
-      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+      "id": "fragment_vauris_dechloris",
+      "chapter": "Budi liūdesys",
+      "character_id": "vauris",
+      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
+      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
     },
-    "real_world_fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
-    "emotional_load": 0.48
+    "real_world_fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+    "emotional_load": 0.16
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 58,
+        "fatigue": 55,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 43,
+        "fatigue": 40,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 68,
+        "fatigue": 65,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 28,
+        "fatigue": 25,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 48,
+        "fatigue": 45,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 33,
+        "fatigue": 30,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -255,6 +255,12 @@
       "cycle": 179285,
       "fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
       "summary": "Plazminis ekranas vestibiulyje turėjo išdegusį kairįjį kampą — keturi šimtai pikselių ten švytėjo nuolatine fosforo violetine dėme. Už organinio stiklo pulto sėdėjo Aja. Berėmiai a..."
+    },
+    {
+      "cycle": 179286,
+      "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "fragment_id": "fragment_vauris_dechloris",
+      "summary": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusios geležies miestas. Senajame dechlorizacijos bokšte, Budi pakraštyje, Vaurio dienos slinko lėtai, kaip rytais per venti..."
     }
   ]
 }

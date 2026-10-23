@@ -102,3 +102,25 @@ Aja tik linktelėjo, jos žvilgsnis vėl nuslydo į mirgantį plazminį skydą, 
 
 ---
 
+## [ CIKLAS 179286 ] — 2026-10-23
+- **Faktas:** "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.16 | **Sentimentas:** neutral_drift
+
+Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusios geležies miestas. Senajame dechlorizacijos bokšte, Budi pakraštyje, Vaurio dienos slinko lėtai, kaip rytais per ventiliacijos šachtas besisunkiantis ir drėgmėje tirštėjantis rūkas. Buveinės centre monotoniškai šnypštė propano-azoto rūgšties židinys. Žalsva liepsnos briauna laižė keraminį degiklį, degino deguonį ir palaikė patalpoje stabilią aštuoniolikos laipsnių šilumą, slopindama buką praeities ilgesį.
+
+Vauris sėdėjo ant apsilaupiusios plastiko dėžės, pirštais braukdamas per elektrinio skuterio akseleratoriaus movą. Guma buvo sukietėjusi, sutrūkinėjusi ties keturiasdešimtuoju laipsniu. Šalia stovėjo portatyvas. Nusidėvėjusiame ekrane blykčiojo monolitinis tekstas: tolimojo ryšio mazgas kas dvylika sekundžių kartojo pranešimą iš Žemės sektoriaus.
+
+Taifūnas „Champi“ kirto Taivano pakrantės perimetrą. Keturi šimtai dvidešimt septyni suborbitiniai ir atmosferiniai reisai anuliuoti. Starto aikštelės užpiltos sūriu vandeniu, drenažo siurbliai perkrauti keturiasdešimt penkiais procentais, magnetinės pakabos bėgiai atjungti dėl trumpojo jungimo pavojaus. Žemė buvo toli, tačiau jos vėjai vėlavo krovinių grafikuose čia, Budi pramoninėje zonoje.
+
+Portatyvo relė trakštelėjo. IRC kanale `#budi` pasirodė Bauderio eilutė:
+*<bau> taivanas po vandeniu. silicio tirpalo papildymas c4 moduliams vėluos mažiausiai tris paras. kava ataušo, geriu šaltą.*
+
+Vauris neatrašė. Jis buvo atpratęs dėlioti žodžius į klaviatūros matricas. Jo izoliacijos indeksas siekė aštuoniasdešimt penkis balus, ir kiekvienas papildomas simbolis reikalavo bereikalingo raumenų įtempimo. Vietoj to jis paėmė kuro talpą, patikrino manometro adatą. Slėgis buvo nukritęs trimis atmosferomis žemiau normos. Židiniui reikėjo papildymo, tačiau užeiti pas Bauderį reiškė stumdytis dumbležose palei 206-ąją paralelę, kur sintetinių vaivorykščių šviesoje trynėsi išsekę darbininkai.
+
+Tolumoje, virš viešbučio šešioliktojo aukšto kontūro, suvirpėjo signalinė lempa. Ten Pijus tikriausiai vėl stebėjo indišką tarakoną, ropojantį per dulkėtą plazminio ekrano rėmą, ir degė alyvomis kvepiančią RIP cigaretę, kol karterio vožtuvai koridoriuose varvėjo ant seno linoleumo.
+
+Vauris atsistojo. Sąnariai trakštelėjo kartu su atšalusia židinio apsaugine grotele. Jis užmovė kuro žarną ant papildymo kaklelio. Židinio liepsna trumpam sumirksėjo, išmesdama aštrų, cheminį sieros dvelksmą, ir vėl nusistovėjo į tolygų, kurtų šnypštimą. Švininis dangus už lango nesikeitė. Tai buvo rami, pamatuota inercija, kurioje vėluojantys Žemės lėktuvai tebuvo nereikšmingas skaitmeninis triukšmas Budi pramoniniame registre.
+
+---
+
