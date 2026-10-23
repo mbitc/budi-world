@@ -50,3 +50,22 @@ Aja net nepakėlė antakių. Ji pasižymėjo parametrą užrašinėje pieštuku 
 
 ---
 
+## [ CIKLAS 179281 ] — 2026-10-23
+- **Faktas:** "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan"
+- **Fragmentas:** 206-oji paralelė link Askezi (`fragment_scooter_206`)
+- **Emocinis krūvis:** 0.16 | **Sentimentas:** neutral_drift
+
+Žalsvai elektrinis dangus virš 206-osios paralelės traukėsi į drumzliną kalkių spalvą. Skuterio prietaisų skydelio diodas mirkčiojo kas tris sekundes, pranešdamas apie kritinį silicio tirpalo stygių – hidraulikos slėgis buvo nukritęs iki vienuolikos barų. Vauris delnu prispaudė grubią vairo rankeną, jausdamas pro suaižėjusią gumą sklindančią žemo dažnio vibraciją. Pavara persijungė su sausu metaliniu spragtelėjimu.
+
+Pakelėje prasidėjo dumbležiai. Žemas, iš pajuodusio šlako ir drėgnų polimerinių plokščių sulipdytas ruožas garavo: rūgštus išmatų tvaikas maišėsi su nekokybiško propano degėsiais. Virš jų, jonizuotame rūke, lūžo trys sintetinės vaivorykštės – netoliese veikiančio dechlorizacijos kolektoriaus išmetamos dujos. Šalikelėje trynėsi figūros nudėvėtais brezentiniais kombinezonais, tačiau Vauris neatitraukė akių nuo kelio dangos. Asfalto plyšiuose turseno suodinas kondensatas.
+
+Portatyvo ekrane, pritvirtintame prie vairo ašies, be perstojo tekėjo logistikos dispečerinės tekstas. Dėl Ramiojo vandenyno sektorių užgriuvusio cikloninio mazgo „Champi“ buvo sustabdyti visi suborbitiniai ir žemutinės atmosferos koridoriai. Šimtai krovinių keltuvų ir tranzitinių baržų liko pririšti prie Taivano uostų betono pamatų; vėjo gūsiai viršijo leistinas turbinų apkrovas, todėl kuro ir reagentų tiekimas kontinentiniams mazgams buvo įšaldytas neapibrėžtam laikui. Tai reiškė viena: papildymo stotys Askezi prieigose liks sausos mažiausiai septyniasdešimt dvi valandas.
+
+Vauris nykščiu spustelėjo ci-di grotuvo mygtuką. Plastikinis diskas sušnypštė lazerio lizde, ausinėse pasigirdo bukas, mechaninis taktas, užgožęs išorinio pasaulio švokštimą. Jo pirštai buvo atšalę. Dechlorizacijos stoties židinio liepsna dabar atrodė tolima, beveik netikra – liko tik šaltas vėjas, pjaunantis veidą per apsauginio skydelio plyšį, ir auto-piloto giroskopas, lėtai koreguojantis kursą link artimiausio mazgo.
+
+Už dvylikos kilometrų, viešbučio šešioliktame aukšte, Pijus sėdėjo melsvame senuolių fotelyje ir stebėjo plazminį monitorių. Ekrane raudonavo atšauktų skrydžių vektoriai, o ant palangės indiškas tarakonas lėtai judino ūsus, reaguodamas į krentantį atmosferos slėgį. Pijus prisidegė „RIP“ cigaretę. Alyvų dūmas pakibo nejudančiame kambario ore. Tranzitas mirė tūkstančiai kilometrų į rytus, bet jo paralyžius čia atsirito kaip tylus, klampus trūkumas: silicis netekėjo, vožtuvai vėso, o kelias per dumbležius darėsi vis sunkesnis.
+
+Vauris sumažino skuterio greitį iki keturiasdešimties. Padangos traškėdamos pjovė kalkių nuosėdas. Reikėjo pasiekti Bauderio krautuvėlę, kol hidraulikos siurbliai galutinai neužstrigo sausoje magistralėje.
+
+---
+
