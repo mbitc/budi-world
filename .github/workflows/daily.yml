@@ -12,29 +12,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Įdiegiame pnpm pasitelkdami oficialų pnpm action
-      - name: Install pnpm
-        uses: pnpm/action-setup@v3
-        with:
-          version: 9
-
-      # 2. Įdiegiame Node.js (be automatinio pnpm store kodo tikrinimo, kad išvengtume workspace klaidos)
+      # 1. Įdiegiame Node.js (npm įsirašo automatiškai)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      # 3. Įdiegiame priklausomybes
+      # 2. Įdiegiame priklausomybes su npm ir ignoruojame peer konfliktuojančias versijas
       - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
+        run: npm install --legacy-peer-deps
 
-      # 4. Paleidžiame Budi simuliaciją
+      # 3. Paleidžiame Budi simuliaciją
       - name: Run Budi Simulation
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
-      # 5. Įrašome ir išsaugojame pakeitimus GitHub'e
+      # 4. Įrašome ir išsaugojame pakeitimus GitHub'e
       - name: Commit and Push updated state & logs
         run: |
           git config --global user.name "budi-bot"
