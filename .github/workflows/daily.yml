@@ -2,9 +2,8 @@ name: BUDI World Daily Simulation
 
 on:
   schedule:
-    # Paleidžiama kasdien 00:00 UTC (arba pasirinktu laiku)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Leidžia paleisti ir rankiniu būdu iš GitHub UI
+  workflow_dispatch:
 
 jobs:
   build-and-simulate:
@@ -13,19 +12,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 1. Įdiegiame pnpm
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      # 2. Įdiegiame Node.js ir įjungiame pnpm cache
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'pnpm'
 
+      # 3. Naudojame tik pnpm su strict-peer-dependencies ignoravimu (jei prireiktų)
       - name: Install dependencies
-        run: pnpm install || npm install
+        run: pnpm install --no-frozen-lockfile
 
+      # 4. Paleidžiame Budi simuliaciją
       - name: Run Budi Simulation
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
+      # 5. Įrašome ir išsaugojame pakeitimus GitHub'e
       - name: Commit and Push updated state & logs
         run: |
           git config --global user.name "budi-bot"
