@@ -69,3 +69,36 @@ Vauris sumažino skuterio greitį iki keturiasdešimties. Padangos traškėdamos
 
 ---
 
+## [ CIKLAS 179285 ] — 2026-10-23
+- **Faktas:** "Musk's Starshield system 'back' in Ukraine, says Trump"
+- **Fragmentas:** Viešbučio stiklinis vestibiulis (`fragment_pijus_aje_meeting`)
+- **Emocinis krūvis:** 0.48 | **Sentimentas:** neutral_drift
+
+Plazminis ekranas vestibiulyje turėjo išdegusį kairįjį kampą — keturi šimtai pikselių ten švytėjo nuolatine fosforo violetine dėme. Už organinio stiklo pulto sėdėjo Aja. Berėmiai akiniai laikėsi ant siauros nosies nugarėlės, fiksuoti dviem silikoniniais spaudikliais, kurie odoje palikdavo apvalias, balkšvas žymes. Jos pirštai kaukšėjo į membraninius klavišus; garsas priminė sausą žvyrą, beriamą ant skardos.
+
+Pijus nusileido liftu, kurio hidraulika kaskart suinkšdavo ties ketvirtuoju lygiu. Jo burnoje dar tvyrojo deginto popieriaus ir sintetinio alyvų ekstrakto kartumas — antroji RIP cigaretė per pastarąjį pusvalandį buvo perteklinė, bet plaučiai reikalavo kieto dūmo pasipriešinimo.
+
+– Šešioliktas blokas stabilizuotas, – tarė Pijus, prieidamas prie skaitiklio. Jo asmens identifikavimo žetonas tyliai trekštelėjo į varinį griovelį.
+
+Aja pakėlė akis. Jos vyzdžiai buvo lėtai besiplečiantys, prisitaikantys prie prasto dienos liuminescencijos režimo.
+
+– Žinau, Pijau. Aš naujoji administratorė. Pakeičiau pamainą septintą trisdešimt, – pasakė ji be moduliatyvaus mandagumo, sausai ir aiškiai. – Užsakymas paruoštas. 
+
+Ji ištraukė iš šiluminės kameros plokščią aliuminio padėklą. Triušio troškinys buvo tirštas, krakmolu surištas sintetinių baltymų pluoštas, paskanintas džiovintais pastarnokais, kvepiantis autoklavuota geležimi. Šalia garavo storasienis keraminis puodelis su tirštu šokoladu; ant paviršiaus jau traukėsi ruda, elastinga plėvelė. 
+
+Virš Ajos galvos plazminis monitorius persijungė į tolimojo ryšio telemetrijos srautą iš Žemės kvadrato. Subtitrai bėgo trūkčiodami, vėluodami keturiasdešimt aštuonias sekundes: *Starshield karinis konvojus vėl pilnai aktyvuotas Rytų sektoriuje; buvusio protektorato administracija patvirtino orbitinį pririšimą.*
+
+Pijus paėmė padėklą. Metalo kraštai nudegino pirštų pagalvėles per ploną odą. 
+
+– Starshield vėl tinkle, – sumurmėjo jis, žiūrėdamas ne į ekraną, o į smulkią dulkių sankaupą ties Ajos apykakle. Šviesa krito taip, kad matėsi kiekvienas medvilnės plaušas. – Vadinasi, senieji siųstuvai vėl svilina jonosferą. Bauderiui kris silicio tiekimo kvotos.
+
+– Tai toli, – atsakė Aja, stropiai brūkštelėdama pieštuku popierinėje registracijos knygoje. Jai nerūpėjo Žemės orbitiniai skydai; jos atsakomybės perimetras baigėsi ties šlifuoto granito slenksčiu ir trimis tūkstančiais vatų vestibiulio šildytuvuose. – Šokoladas atšals per keturias minutes. Cukrus nusės ant dugno.
+
+Pijus linktelėjo. Jo pečiai, suspausti sunkaus milinio švarko, nusileido kelis milimetrus žemyn. Keliolika sekundžių jis tiesiog stovėjo, jausdamas, kaip troškinio šiluma kyla į smakrą, o akyse vėl ima plaukioti tas pats vaizdinys: švarus stalas be skaitiklių, lėtas kramtymas, langas be dulkių filtro ir jokių relinių jungiklių traškėjimo koridoriaus lubose. Tik grynas, neapskaičiuotas maistas ir moters ranka, nepaliečianti jokio mechanizmo.
+
+– Paimsiu į šešioliktą, – tarė jis. 
+
+Aja tik linktelėjo, jos žvilgsnis vėl nuslydo į mirgantį plazminį skydą, kurio violetinė dėmė lėtai rijo tolimos planetos karo pranešimus.
+
+---
+

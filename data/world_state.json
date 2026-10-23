@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179284,
+  "cycle_id": 179285,
   "last_updated": "2026-10-23",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.73,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.48,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_16th_floor",
+      "id": "fragment_pijus_aje_meeting",
       "chapter": "Šešioliktas Pijaus aukštas",
       "character_id": "pijus",
-      "setting": "Viešbučio 16-as aukštas",
-      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
     },
-    "real_world_fact": "Nugent-Hopkins returns as Oilers top Hurricanes",
-    "emotional_load": 0.73
+    "real_world_fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
+    "emotional_load": 0.48
   },
   "characters": [
     {
@@ -250,6 +250,11 @@
       "cycle": 179281,
       "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
       "summary": "Žalsvai elektrinis dangus virš 206-osios paralelės traukėsi į drumzliną kalkių spalvą. Skuterio prietaisų skydelio diodas mirkčiojo kas tris sekundes, pranešdamas apie kritinį sili..."
+    },
+    {
+      "cycle": 179285,
+      "fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
+      "summary": "Plazminis ekranas vestibiulyje turėjo išdegusį kairįjį kampą — keturi šimtai pikselių ten švytėjo nuolatine fosforo violetine dėme. Už organinio stiklo pulto sėdėjo Aja. Berėmiai a..."
     }
   ]
 }
