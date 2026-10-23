@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-and-simulate:
     runs-on: ubuntu-latest
@@ -12,27 +15,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Įdiegiame Node.js (npm įsirašo automatiškai)
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'pnpm'
 
-      # 2. Įdiegiame priklausomybes su npm ir ignoruojame peer konfliktuojančias versijas
       - name: Install dependencies
-        run: npm install --legacy-peer-deps
+        run: pnpm install --frozen-lockfile
 
-      # 3. Paleidžiame Budi simuliaciją
       - name: Run Budi Simulation
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
-      # 4. Įrašome ir išsaugojame pakeitimus GitHub'e
       - name: Commit and Push updated state & logs
         run: |
-          git config --global user.name "budi-bot"
-          git config --global user.email "bot@budi.world"
+          git config user.name "budi-bot"
+          git config user.email "bot@budi.world"
           git add data/ output/
           git commit -m "chore(simulation): auto-generated cycle episode [skip ci]" || exit 0
           git push
