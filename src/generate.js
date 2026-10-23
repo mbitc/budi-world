@@ -68,8 +68,8 @@ UŽDUOTIS:
 </body>
 </html>`;
 
-  fs.mkdirSync('output', { recursive: true });
-  fs.writeFileSync('output/index.html', htmlContent);
+  fs.mkdirSync('docs', { recursive: true });
+  fs.writeFileSync('docs/index.html', htmlContent); 
   console.log('✅ Epizodas sugeneruotas: output/index.html');
 }
 

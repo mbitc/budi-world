@@ -32,10 +32,15 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
-      - name: Commit and Push updated state & logs
+     - name: Commit and Push Logs & State
         run: |
-          git config user.name "budi-bot"
-          git config user.email "bot@budi.world"
-          git add data/ output/
-          git commit -m "chore(simulation): auto-generated cycle episode [skip ci]" || exit 0
-          git push
+          git config --global user.name "budi-bot"
+          git config --global user.email "bot@budi.world"
+          
+          # Pridedame duomenų logus, archyvą ir GitHub Pages /docs katalogą
+          git add data/ output/ docs/
+          
+          # Jei nėra naujų pakeitimų, skriptas nesulūžta, o ramiai baigia darbą
+          git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]" || exit 0
+          
+          git push 
