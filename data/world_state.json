@@ -1,0 +1,250 @@
+{
+  "cycle_id": 179277,
+  "last_updated": "2026-10-23",
+  "narrative_arc": {
+    "title": "Askezi: Budi ir Marso fragmentai",
+    "current_milestone_index": 0,
+    "milestones": [
+      {
+        "id": "phase_1_silicon_and_mars",
+        "objective": "Silicio tirpalo resursų stoka Budi mieste bei Marso bandzinų plantacijų paieška.",
+        "status": "in_progress"
+      },
+      {
+        "id": "phase_2_hotel_and_matrix",
+        "objective": "Pijaus viešbučio 16-ojo aukšto izoliacija ir naujosios administratorės Ajos atvykimas.",
+        "status": "pending"
+      },
+      {
+        "id": "phase_3_garlet_and_wau_ku",
+        "objective": "Garleto P. atvykimas į Majų administracijos centrą ir susitikimas su Ponia Wau Ku (Iliu).",
+        "status": "pending"
+      }
+    ]
+  },
+  "telemetry": {
+    "emotional_load": 0.5,
+    "dominant_sentiment": "neutral_drift"
+  },
+  "external_signal": {
+    "pulse": -0.3,
+    "peakLabel": "ELEVATED",
+    "activeTitle": "Paprastas dreifas ir tylos būsena mazge",
+    "emotional_load": 0.5,
+    "sentiment": "neutral_drift"
+  },
+  "current_episode": {
+    "fragment": {
+      "id": "fragment_pijus_aje_meeting",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+    },
+    "real_world_fact": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
+    "emotional_load": 0.5
+  },
+  "characters": [
+    {
+      "id": "vauris",
+      "name": "Vauris",
+      "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
+      "location": "senoji_dechlorizacijos_stotis",
+      "dynamic_state": {
+        "fatigue": 47,
+        "isolation_index": 85,
+        "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
+      },
+      "behavioral_traits": [
+        "ilgai tyli ir stebi liepsną",
+        "atpratęs nuo bendravimo",
+        "spaudžia dūzgiančio skuterio vairą"
+      ],
+      "inventory": [
+        "elektrinis_skuteris",
+        "portatyvas",
+        "ci_di_grotuvas",
+        "kuro_talpa"
+      ]
+    },
+    {
+      "id": "bauder",
+      "name": "Bauderis (Bau)",
+      "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
+      "location": "bauder_and_co_krautuvele",
+      "dynamic_state": {
+        "fatigue": 32,
+        "isolation_index": 40,
+        "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
+      },
+      "behavioral_traits": [
+        "pasiūlo karšto šokolado ar kavos",
+        "juokiasi iš perspausto rimtumo",
+        "dairosi į Marso stiklinį stogą"
+      ],
+      "inventory": [
+        "silicio_tirpalo_uzpildymo_sistema",
+        "kavos_aparatas",
+        "portatyvas_su_irc"
+      ]
+    },
+    {
+      "id": "pijus",
+      "name": "Pijus",
+      "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
+      "location": "viesbucio_16_aukstas",
+      "dynamic_state": {
+        "fatigue": 57,
+        "isolation_index": 90,
+        "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
+      },
+      "behavioral_traits": [
+        "seka pavienio tarakono judėjimą",
+        "spokso į lubas arba pro langą",
+        "rūko lengvą RIP cigaretę su alyvų aromatu"
+      ],
+      "inventory": [
+        "kompiuteris_su_plazminiu_monitoriumi",
+        "melsvas_senuoliu_fotelis",
+        "asmens_identifikavimo_zetonas",
+        "rip_cigaretes"
+      ]
+    },
+    {
+      "id": "aje",
+      "name": "Aja",
+      "archetype": "Naujoji viešbučio administratorė",
+      "location": "viesbucio_vestibiulis_ir_kavinuke",
+      "dynamic_state": {
+        "fatigue": 17,
+        "isolation_index": 30,
+        "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
+      },
+      "behavioral_traits": [
+        "stropiai užsirašinėja nurodymus",
+        "šypsosi kerinčia šypsena",
+        "gurkšnoja karštą šokoladą"
+      ],
+      "inventory": [
+        "beremiai_akinukai",
+        "padėklas_su_triušio_troškiniu",
+        "užrašinė"
+      ]
+    },
+    {
+      "id": "garletas_p",
+      "name": "Garletas P.",
+      "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
+      "location": "maju_administracijos_centras",
+      "dynamic_state": {
+        "fatigue": 37,
+        "isolation_index": 50,
+        "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
+      },
+      "behavioral_traits": [
+        "tikrina kostiumo siūlių tiesumą",
+        "klauso acid jazz per portatyvą",
+        "koreguoja rankinį laikrodį į Marso laiką"
+      ],
+      "inventory": [
+        "kelioninis_krepšys",
+        "portatyvas_su_ausinėmis",
+        "pateikimo_dokumentai"
+      ]
+    },
+    {
+      "id": "wau_ku",
+      "name": "Ponia Wau Ku (Ilis)",
+      "archetype": "Aukštojo rango Majų administracijos vadovė",
+      "location": "maju_administracijos_centras",
+      "dynamic_state": {
+        "fatigue": 22,
+        "isolation_index": 35,
+        "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
+      },
+      "behavioral_traits": [
+        "švelniai liečia pašnekovo petį manikiūruotais pirštais",
+        "šypsosi su raudonų plaukų aureole",
+        "kalba ramia aukštuomenės maniera"
+      ],
+      "inventory": [
+        "administracijos_prieigos_koda",
+        "raudoni_plaukai",
+        "stiklinė_užeigos_staliuko_prieiga"
+      ]
+    }
+  ],
+  "spaces": [
+    {
+      "id": "senoji_dechlorizacijos_stotis",
+      "name": "Senoji dechlorizacijos stotis (Vaurio gūžta)",
+      "entropy": 45,
+      "atmosphere": "Švininis dangus, propano-azoto rūgšties židinio šnypštimas, rūkas",
+      "active_quirks": [
+        "liepsnos vilnijimas ramina protą",
+        "centrinis monitorius praneša apie silicio stoką"
+      ]
+    },
+    {
+      "id": "paralelis_206_dumblezai",
+      "name": "206-oji paralelė ir dumbležai",
+      "entropy": 70,
+      "atmosphere": "Išmatų, pelėsių ir nekokybiško kuro degėsių tvaikas, sintetinės vaivorykštės",
+      "active_quirks": [
+        "gašlios merginos siūlo meilę šaligatviuose",
+        "virtualūs reklamų stendai apie Marso bandzinus"
+      ]
+    },
+    {
+      "id": "bauder_and_co_krautuvele",
+      "name": "Bauderio ir Ko. klientų priimamasis",
+      "entropy": 20,
+      "atmosphere": "Vėsu, nepriekaištingas kondicionierius, smėliavo plastiko plokštės, melsvas barhatas",
+      "active_quirks": [
+        "užpildymo mechanizmas pypsi skaičiuodamas skystį",
+        "groja didžėjaus parinkta muzika"
+      ]
+    },
+    {
+      "id": "viesbucio_16_aukstas",
+      "name": "Pijaus 16-as aukštas ir kavinukė",
+      "entropy": 35,
+      "atmosphere": "Spengianti tyla, dulkės saulės spindulyje kaip žvaigždutės, RIP cigarečių alyvų dūmas",
+      "active_quirks": [
+        "kriauklėje tiksliai laša čiaupas",
+        "sienomis ropoja vienišas indiškas tarakonas"
+      ]
+    },
+    {
+      "id": "marso_maju_plantacijos",
+      "name": "Majų bandzinų plantacijos ir C4 kvadratas",
+      "entropy": 50,
+      "atmosphere": "Raudona dykuma, didžiuliai žali apskritimai, gelžbetoninis pastatas su stikliniu stogu",
+      "active_quirks": [
+        "Deimas ir Fobas naktiniame danguje",
+        "743 biopradų stebėsenos sistemos dzvingtelėjimas"
+      ]
+    },
+    {
+      "id": "maju_administracijos_centras",
+      "name": "Majų administracijos centro vestibiulis",
+      "entropy": 30,
+      "atmosphere": "Sausas Marso oras, zujantys robotai, švieslentės, biogenomai kampuose",
+      "active_quirks": [
+        "sisteminiai automatai kvaksi pateikdami informaciją"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "cycle": 179276,
+      "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "summary": "Vandens lašas atitrūko nuo surūdijusio žalvarinio čiaupo snapo kas keturiasdešimt aštuonias sekundes. Garso impulsas atsimušė į emaliuotą, kalkėmis apgraužtą kriauklės dugną: sausa..."
+    },
+    {
+      "cycle": 179277,
+      "fact": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
+      "summary": "Lifto kabina nusileido su metaliniu trūktelėjimu; 32 milimetrų plieno lynas subrazdėjo kreipiančiosiose ties šeštuoju bloku, palikdamas ore nudildytos gumos ir suodžių kvapą. Pijus..."
+    }
+  ]
+}
