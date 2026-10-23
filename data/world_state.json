@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179279,
+  "cycle_id": 179280,
   "last_updated": "2026-10-23",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.73,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.48,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_wau_ku_meeting",
-      "chapter": "Bioprimatų streikas",
-      "character_id": "wau_ku",
-      "setting": "Majų administracijos centro vestibiulis ir užeigėlė",
-      "text": "Zujant robotams ir kvaksint automatams, Garleto petį palietė manikiūruoti pirštai. Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis raudonais plaukais. Sėdint užeigėlėje prie besileidžiančios saulės, pokalbis liejosi bendromis formuluotėmis apie transformaciją ir Marso realybę."
+      "id": "fragment_vauris_dechloris",
+      "chapter": "Budi liūdesys",
+      "character_id": "vauris",
+      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
+      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
     },
-    "real_world_fact": "Nugent-Hopkins returns as Oilers top Hurricanes",
-    "emotional_load": 0.73
+    "real_world_fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
+    "emotional_load": 0.48
   },
   "characters": [
     {
