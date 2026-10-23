@@ -1,0 +1,25 @@
+# Priklausomybės
+node_modules/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Aplinkos kintamieji ir slapti raktai
+.env
+.env.local
+.env.*.local
+
+# Build / Output laikini failai
+dist/
+build/
+.cache/
+
+# Operacinių sistemų ir redaktorių šiukšlės
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
