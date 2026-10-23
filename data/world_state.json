@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179281,
+  "cycle_id": 179282,
   "last_updated": "2026-10-23",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.16,
+    "emotional_load": 0.5,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_scooter_206",
+      "id": "fragment_bauder_reception",
       "chapter": "Budi liūdesys",
       "character_id": "vauris",
-      "setting": "206-oji paralelė link Askezi",
-      "text": "Ankstyvo pavasario rytą žalsvai elektriniam dangui pranešus apie silicio tirpalo stoką, Vauris atsisėdo ant dūzgiančio skuterio. Pakelėje pasimatė dumbležiai, dvokiantys išmatomis ir prasto kuro degėsiais, o viršuje žaižaravo sintetinės vaivorykštės. Skuterį perjungęs į auto pilotą, Vauris pasinėrė į ci-di grotuvo garsus."
+      "setting": "Bauderio ir Ko. klientų priimamasis",
+      "text": "Askezyje knibždantis skruzdėlynas konvulsiškai valdė ramybės siekiančius žmones. Vauris įžengė į Bauderio ir Ko. priimamąjį, kur smėliavo plastiko plokštės saulėje virto melsvo barhato fantazija. Įsmukęs į minkštą krėslą su karštu šokoladu, iš pasąmonės išritino klausimą apie Marso bandzinų plantacijas."
     },
-    "real_world_fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-    "emotional_load": 0.16
+    "real_world_fact": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
+    "emotional_load": 0.5
   },
   "characters": [
     {
