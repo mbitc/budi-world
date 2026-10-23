@@ -13,9 +13,21 @@ export async function updateWorldState() {
   const world = JSON.parse(fs.readFileSync(worldStatePath, 'utf8'));
   world.cycle_id += 1;
 
-  // 1. Parenkame naratyvinį fragmentą
-  const fragmentIndex = world.cycle_id % NARRATIVE_FRAGMENTS.length;
-  const activeFragment = NARRATIVE_FRAGMENTS[fragmentIndex];
+  // 1. Parenkame naratyvinį fragmentą dinamiškai (atmetant neseniai naudotus)
+  let activeFragment;
+  const history = world.history || [];
+  const recentFragmentIds = history.slice(-3).map(h => h.fragment_id); // Žiūrim paskutinius 3
+  
+  // Randame fragmentus, kurie nebuvo naudojami neseniai
+  let availableFragments = NARRATIVE_FRAGMENTS.filter(f => !recentFragmentIds.includes(f.id));
+  
+  // Jei visus jau išnaudojome, leidžiame rinktis iš viso sąrašo
+  if (availableFragments.length === 0) {
+    availableFragments = NARRATIVE_FRAGMENTS;
+  }
+  
+  // Atsitiktinis parinkimas iš galimų
+  activeFragment = availableFragments[Math.floor(Math.random() * availableFragments.length)]; 
 
   // 2. Nuskaitome naujienų logus iš GitHub
   let selectedFact = { title: "Tylos būsena mazge", load: 0.0 };
@@ -112,11 +124,12 @@ ${storyText}
   world.history.push({
     cycle: world.cycle_id,
     fact: world.current_episode.real_world_fact,
+    fragment_id: world.current_episode.fragment.id, // Svarbu! Įsimename ID
     summary: storyText.substring(0, 180) + '...'
   });
 
   if (world.history.length > 5) world.history.shift();
-  fs.writeFileSync(worldStatePath, JSON.stringify(world, null, 2));
+  fs.writeFileSync(worldStatePath, JSON.stringify(world, null, 2)); 
 
   console.log(`📜 Epizodas įrašytas į žurnalus: data/episodes_log.jsonl ir output/episodes_archive.md`);
 }
