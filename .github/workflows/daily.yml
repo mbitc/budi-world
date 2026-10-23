@@ -12,20 +12,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Įdiegiame pnpm
+      # 1. Įdiegiame pnpm pasitelkdami oficialų pnpm action
       - name: Install pnpm
         uses: pnpm/action-setup@v3
         with:
           version: 9
 
-      # 2. Įdiegiame Node.js ir įjungiame pnpm cache
+      # 2. Įdiegiame Node.js (be automatinio pnpm store kodo tikrinimo, kad išvengtume workspace klaidos)
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'pnpm'
 
-      # 3. Naudojame tik pnpm su strict-peer-dependencies ignoravimu (jei prireiktų)
+      # 3. Įdiegiame priklausomybes
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
 
