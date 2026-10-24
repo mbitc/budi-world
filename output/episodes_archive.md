@@ -124,3 +124,30 @@ Vauris atsistojo. Sąnariai trakštelėjo kartu su atšalusia židinio apsaugine
 
 ---
 
+## [ CIKLAS 179287 ] — 2026-10-24
+- **Faktas:** "Trial of terminally ill cancer patient who found ¥22 million on the street and kept it ends"
+- **Fragmentas:** Marso PMD plantacijos, C4 kvadratas (`fragment_bauder_mars_c4`)
+- **Emocinis krūvis:** 0.42 | **Sentimentas:** neutral_drift
+
+Gelžbetoninio C4 punkto lubos vibravo nuo vėjo trinties. Pro armuotą stiklinį stogą Marso naktis atrodė plokščia ir sausa; Deimas su Fobu kabojo virš horizonto kaip du netaisyklingi, dulkėti žvyro luitai, apšviesti tolimos saulės atšvaito. Septyniolikmetis Bauderis laikė sunkius darbinius batus užkėlęs ant alavuoto skirstomojo pulto. Po jo padais kas aštuonias sekundes spragsėjo rėlės: 743 biopradų gyvybiniai parametrai Majų bandzinų plantacijoje tekėjo žaliais stulpeliais. 
+
+Kondensatas nuo stiklo rėmo lašėjo tiesiai į tuščią aušinimo skysčio skardinę. Garsas buvo ritmiškas – vienas smūgis kas penkiolika sekundžių.
+
+Bauderio portatyvas rodė atvertą IRC kanalą `#budi`. Linija traškėjo nuo statinio krūvio, tekstas vėlavo tris minutes. Šalia privataus susirašinėjimo lango monitoriaus kampe sukosi Majų administracijos teismo biuletenis. Žemas katodinis mirgėjimas metė melsvus šešėlius ant šiurkščios betono sienos. 
+
+Biuletenis pranešė apie bylos pabaigą 206-ojoje paralelėje. Ketvirtos stadijos plaučių sarkoma sergantis senosios Žemės rekrutas, kuriam biologinės priežiūros kvota baigėsi prieš septynis mėnesius, drenažo griovyje po dumbležų nuotėkio vamzdžiu buvo radęs pramoninį konteinerį su 22 milijonais grynųjų Tokijo emisijos jenų. Senis nepranešė revizoriams. Jis paslėpė cinkuotą dėžę po savo gultu šachtininkų barake ir leido laikui ėsti audinius, kol administracinis aparatas derino turto konfiskavimo sankcijas. 
+
+Šiandien 05:14 teismo procesas oficialiai nutrauktas. Subjektas nustojo kvėpuoti atliekų perdirbimo cecho tarpinėje zonoje; medicininis protokolas užfiksavo visišką plaučių audinio nekrozę, o konfiskuoti banknotai pripažinti neturinčiais vertės dėl pasibaigusio fiskalinio sertifikato galiojimo. 22 milijonai popieriaus liko gulėti administracijos sandėlio karantino dėžėje kaip radioaktyvus balastas.
+
+Bauderis trumpai krestelėjo galvą, krapštydamas dulkėtą kombinezono apykaklę, kur sintetinė vilna trynė kaklą iki raudonio. 
+
+– Idiotai, – ištarė jis į tuščią gelžbetonio dėžę. Balsas nuskambėjo dusliai, be aido.
+
+Jis pasilenkė į priekį, kėdės vyriams sausai sugirgždėjus. Riebaluotu nykščiu spustelėjo IRC konsolės klavišą, siųsdamas paketą į tuštumą:
+
+`<Bau> ar kas nors gyvas? c4 lygis stabilus, 743 vienetai ėda azotą. vėl tie patys lavonai žiniose.`
+
+Ekrano eilutė sublinkčiojo ir pakibo laukimo režime. Bauderis nuspaudė kavos aparato svirtį; siurblys sudejavo, vamzdeliu sutekėjo drumzlinas, degintais miežiais dvokiantis skystis. Už lango Fobas lėtai slinko per geležingą dangaus tamsą, nejudindamas nė vieno dulkių sluoksnio ant hermetiškų bandzinų kupolų.
+
+---
+

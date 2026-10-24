@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179286,
-  "last_updated": "2026-10-23",
+  "cycle_id": 179287,
+  "last_updated": "2026-10-24",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.16,
+    "emotional_load": 0.42,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_vauris_dechloris",
-      "chapter": "Budi liūdesys",
-      "character_id": "vauris",
-      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
-      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
+      "id": "fragment_bauder_mars_c4",
+      "chapter": "Bauderio klajonės",
+      "character_id": "bauder",
+      "setting": "Marso PMD plantacijos, C4 kvadratas",
+      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
     },
-    "real_world_fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-    "emotional_load": 0.16
+    "real_world_fact": "Trial of terminally ill cancer patient who found ¥22 million on the street and kept it ends",
+    "emotional_load": 0.42
   },
   "characters": [
     {
@@ -237,11 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179276,
-      "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "summary": "Vandens lašas atitrūko nuo surūdijusio žalvarinio čiaupo snapo kas keturiasdešimt aštuonias sekundes. Garso impulsas atsimušė į emaliuotą, kalkėmis apgraužtą kriauklės dugną: sausa..."
-    },
-    {
       "cycle": 179277,
       "fact": "Politics in 'materialist terms': Gen Z in Albania, Italy, France and India protesting for 'fairness'",
       "summary": "Lifto kabina nusileido su metaliniu trūktelėjimu; 32 milimetrų plieno lynas subrazdėjo kreipiančiosiose ties šeštuoju bloku, palikdamas ore nudildytos gumos ir suodžių kvapą. Pijus..."
@@ -261,6 +256,12 @@
       "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
       "fragment_id": "fragment_vauris_dechloris",
       "summary": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusios geležies miestas. Senajame dechlorizacijos bokšte, Budi pakraštyje, Vaurio dienos slinko lėtai, kaip rytais per venti..."
+    },
+    {
+      "cycle": 179287,
+      "fact": "Trial of terminally ill cancer patient who found ¥22 million on the street and kept it ends",
+      "fragment_id": "fragment_bauder_mars_c4",
+      "summary": "Gelžbetoninio C4 punkto lubos vibravo nuo vėjo trinties. Pro armuotą stiklinį stogą Marso naktis atrodė plokščia ir sausa; Deimas su Fobu kabojo virš horizonto kaip du netaisykling..."
     }
   ]
 }
