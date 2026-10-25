@@ -151,3 +151,24 @@ Ekrano eilutė sublinkčiojo ir pakibo laukimo režime. Bauderis nuspaudė kavos
 
 ---
 
+## [ CIKLAS 179288 ] — 2026-10-25
+- **Faktas:** "Vanessa Trump says she is cancer-free six months after revealing diagnosis"
+- **Fragmentas:** Transporteris link Majų centro (`fragment_garlet_broker_mars`)
+- **Emocinis krūvis:** 0.85 | **Sentimentas:** industrial_paranoia
+
+Transporterio „K-14“ karkasas drebėjo 42 hercų dažniu. Garletas P. jautė tą vibraciją per nusitrynusį dermatiną tiesiai į kryžkaulį. Kairiajame ausies kanale traškėjo sintezuotas acid jazz – trys pasikartojantys boso taktai ir cypiantis varinis cimbolas, skirtas užgožti išretinto Marso oro švilpimą pro durų sandariklį. Garleto pirštai, sukietėję nuo senų Žemės biržos klaviatūrų, pasuko mechaninio laikrodžio galvutę: trylika spragtelėjimų į priekį, fiksuojant trisdešimt devynių minučių paros poslinkį. Marso laikas.
+
+Priekiniame stikle, padengtame smulkiagrūdėmis geležies oksido dulkėmis, ryškėjo Majų administracijos centro kupolas. Po juo, C4 sektoriuje, žaliavo taisyklingi bandzinų plantacijų koncentrai – drėgni, riebūs dumblių ir silikatų hibridai, perdirbantys uolieną į pramoninį aliejų. Kiekvienas kvadratinis metras ten reiškė du šimtus aštuoniasdešimt skystųjų kreditų per parą.
+
+Garletas išsitraukė asmens identifikavimo žetoną. Vėsus vario lydinys atvėso kišenėje. Ekrane mirkčiojo medicininis autorizacijos spaudas: lygiai šeši mėnesiai po ląstelių suirimo diagnozės. Pusmetis pigios chemoterapinės emulsijos ir sieros druskų inhaliacijų Žemės priemiesčių šachtose. Šįryt centralizuotas biosensorius galutinai patvirtino: piktybinis audinio vešėjimas sustabdytas, ląstelių proliferacijos indeksas nukrito iki nulinės padalos. Kūnas buvo švarus. Šeši mėnesiai baimės išgaravo į sausą laboratorinį protokolą, palikdami tik metalo prieskonį burnoje ir teisę gauti Marso kolonisto leidimą. Jis nebuvo brokuota biomasė; jis buvo funkcinis vienetas su švariais plaučiais.
+
+Transporteris kirto šliuzą. Slėgio kompensatoriai nusmelkė ausis hidrauliniu smūgiu. Vestibiulio grindys buvo išlietos iš šviesiai pilko šlako, sudrėkintos dezinfekantais, dvokiančiais jodu. Švieslentėse virš automatinių priimamojo vartų bėgo pranešimai apie bioprimatų normatyvus, o greta – Žemės aukštuomenės naujienų srautas: Vanesos Trump organizmas po pusmečio terapijos pripažintas laisvu nuo navikų. Garletas kreivai šyptelėjo. Net ir viršutinių ešelonų kūnai puvo lygiai taip pat, skyrėsi tik filtravimo aparatų kaina ir klinikos marmuro storis.
+
+– Garletas P., – sumurmėjo ponia Wau Ku, pasitikdama jį prie stiklinio terminalo. Jos raudonų plaukų aureolė metė varinį atspindį ant matinio plastiko. Manikiūruotas pirštas prilietė jo kelioninį krepšį. – Jūsų bioparametrai atvyko anksčiau už jus. Audiniai sterilūs. Toks atsparumas šiais laikais – reta prekė.
+
+– Šeši mėnesiai kantrybės ir trys litrai švino druskų, ponia, – sausai atsakė Garletas, tiesindamas kostiumo atlapą, ant kurio vis dar matėsi Žemės drėgmės paliktos druskų dėmės. – Mano žetonas paruoštas. Duokite man C4 sektoriaus koordinates ir bandzinų daigyną. Kol plaučiai laiko slėgį, aš turiu išsunkti iš šitos raudonos uolienos savo dalį.
+
+Ponia Wau Ku linktelėjo, jos lūpų kampučiai vos krustelėjo. Terminalo rėlė sukliksėjo, patvirtindama sandorį, ir į Garleto žetoną įsirėžė pirmieji skaitmeniniai plantacijos rėžiai.
+
+---
+
