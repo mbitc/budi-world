@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179288,
-  "last_updated": "2026-10-25",
+  "cycle_id": 179289,
+  "last_updated": "2026-10-26",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.85,
+    "emotional_load": 0.69,
     "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_garlet_broker_mars",
-      "chapter": "Bandzinai–Marso ateitis / Bioprimatų streikas",
-      "character_id": "garlet_p",
-      "setting": "Transporteris link Majų centro",
-      "text": "Senas Žemės makleris Garletas P. perskaitė apie Marse dalinamus sklypus ir bandzinų derlių. Persistatęs rankinį laikrodį į Marso laiką ir ausinėse pasileidęs acid jazz, jis skrodė raudonąją atmosferą transporteriu, pasiruošęs kurti kreditus savo žetone."
+      "id": "fragment_scooter_206",
+      "chapter": "Budi liūdesys",
+      "character_id": "vauris",
+      "setting": "206-oji paralelė link Askezi",
+      "text": "Ankstyvo pavasario rytą žalsvai elektriniam dangui pranešus apie silicio tirpalo stoką, Vauris atsisėdo ant dūzgiančio skuterio. Pakelėje pasimatė dumbležiai, dvokiantys išmatomis ir prasto kuro degėsiais, o viršuje žaižaravo sintetinės vaivorykštės. Skuterį perjungęs į auto pilotą, Vauris pasinėrė į ci-di grotuvo garsus."
     },
-    "real_world_fact": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-    "emotional_load": 0.85
+    "real_world_fact": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
+    "emotional_load": 0.69
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 59,
+        "fatigue": 61,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 44,
+        "fatigue": 46,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 69,
+        "fatigue": 71,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 29,
+        "fatigue": 31,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 49,
+        "fatigue": 51,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 34,
+        "fatigue": 36,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,11 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179281,
-      "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "summary": "Žalsvai elektrinis dangus virš 206-osios paralelės traukėsi į drumzliną kalkių spalvą. Skuterio prietaisų skydelio diodas mirkčiojo kas tris sekundes, pranešdamas apie kritinį sili..."
-    },
-    {
       "cycle": 179285,
       "fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
       "summary": "Plazminis ekranas vestibiulyje turėjo išdegusį kairįjį kampą — keturi šimtai pikselių ten švytėjo nuolatine fosforo violetine dėme. Už organinio stiklo pulto sėdėjo Aja. Berėmiai a..."
@@ -263,6 +258,12 @@
       "fact": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "fragment_id": "fragment_garlet_broker_mars",
       "summary": "Transporterio „K-14“ karkasas drebėjo 42 hercų dažniu. Garletas P. jautė tą vibraciją per nusitrynusį dermatiną tiesiai į kryžkaulį. Kairiajame ausies kanale traškėjo sintezuotas a..."
+    },
+    {
+      "cycle": 179289,
+      "fact": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
+      "fragment_id": "fragment_scooter_206",
+      "summary": "Dangus virš 206-osios paralelės turėjo praskiesto vitriolio atspalvį – žalsva elektrinė prošvaistė rodė aštrų silicio tirpalo trūkumą atmosferos garintuvuose. Skuterio rėmas virpėj..."
     }
   ]
 }

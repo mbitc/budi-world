@@ -172,3 +172,24 @@ Ponia Wau Ku linktelėjo, jos lūpų kampučiai vos krustelėjo. Terminalo rėl�
 
 ---
 
+## [ CIKLAS 179289 ] — 2026-10-26
+- **Faktas:** "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead"
+- **Fragmentas:** 206-oji paralelė link Askezi (`fragment_scooter_206`)
+- **Emocinis krūvis:** 0.69 | **Sentimentas:** industrial_paranoia
+
+Dangus virš 206-osios paralelės turėjo praskiesto vitriolio atspalvį – žalsva elektrinė prošvaistė rodė aštrų silicio tirpalo trūkumą atmosferos garintuvuose. Skuterio rėmas virpėjo ties keturiasdešimties hercų dažniu. Vauris sėdėjo ant suskeldėjusios dermantino sėdynės, pirštinėmis apglėbęs vairalazdę. Dešinįjį kelį maudė nuo drėgmės ir 61 procento bendro kūno nuovargio; kaulas trynėsi į girnelę be reikiamo tepalo. 
+
+Prietaisų skydelyje pulsavo įspėjimas: slėgis kuro sistemoje nukrito iki 1,1 baro. Per mažai, kad pasiektų Askezi gilumą be papildymo.
+
+Pakelės grioviuose kunkuliavo dumbležiai. Iš jų kilo tirštas, sunkus tvaikas – šlapia organika, suirusios fekalijos ir prasto naftos distiliato degėsiai. Viršuje, ties surūdijusiais pilonais, optiniai emiteriai vis dar piešė sintetines vaivorykštes; pigus pramoninis laužimas maskavo radioaktyvių dulkių sluoksnį. Vauris nykščiu stumtelėjo svirtį, perjungdamas skuterį į autopilotą. Pjezovariklis tyliai sužviegė, hidraulika perėmė kursą palei aptrupėjusią betono briauną.
+
+Į ausį įstatytas ci-di grotuvas subraškėjo. Nusitrynusi lazerio galvutė peršoko takelį ir pagavo tolimą, per retransliatorius klydinėjantį Žemės archyvų srautą. 
+
+Tarp baltojo triukšmo ir relinių jungiklių spragtelėjimų prasiveržė sausas diktoriaus balsas: Viskonsino „Brewers“ devintajame kėlinyje perlaužė eigą – Frelikas ir Pratas smūgiais išplėšė pergalę 5–4 prieš „Rays“, serijos persvara išaugo iki 2–0. Įrašytas minios riaumojimas ausinėje aidėjo plokščiai, lyg suspausto oro nuotėkis pro kiaurą sklendę. Skaičiai 5 ir 4 neturėjo jokios biologinės vertės 206-ojoje paralelėje, tačiau tolimo stadiono triumfo impulsas – sterilus 0,69 balo emocinis pliūpsnis – trumpam atsimušė į Vaurio sąmonę, palikdamas keistą, sausą degėsių skonį burnoje.
+
+Jis išsitraukė portatyvą. Ekrane mirkčiojo #budi kanalas. Bauderis prieš tris minutes buvo palikęs įrašą apie atvežtą tirpalo partiją ir veikiantį kavos aparatą smėliavo plastiko užeigoje. 
+
+Vauris vėl sugniaužė dūzgiančio skuterio rankeną, nutildydamas senosios planetos beisbolo džiaugsmą. Horizonto linijoje, pro dumbležių garą, išniro kampuotas Bauderio krautuvėlės siluetas. Skuterio grandinė sausai sužvangėjo į karterį, skaičiuodama paskutinius metrus iki dekompresijos šliuzo.
+
+---
+
