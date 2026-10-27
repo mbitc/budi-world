@@ -44,4 +44,6 @@ jobs:
           # Jei nėra naujų pakeitimų, skriptas nesulūžta, o ramiai baigia darbą
           git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]" || exit 0
           
-          git push 
+          git pull origin main --rebase || true
+    
+          git push origin main 

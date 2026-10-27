@@ -34,9 +34,36 @@ UŽDUOTIS:
 3. Jokio sauso instruktažo – tik sodri, grubi, lėta ir klampi *Askezi* proza.
 `;
 
-  const response = await ai.models.generateContent({
-    model: 'gemini-3.8-flash',
-    contents: prompt,
+  async function callGeminiWithRetry(apiCallFn, maxRetries = 3, delayMs = 3000) {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      // Vykdome Gemini API užklausą
+      return await apiCallFn();
+    } catch (error) {
+      const status = error?.status || error?.statusCode || error?.response?.status;
+      
+      // Tikriname, ar klaida laikina (503 Service Unavailable, 429 Rate Limit arba tinklo klaidelė)
+      const isTransient = status === 503 || status === 429 || !status;
+
+      if (attempt === maxRetries || !isTransient) {
+        console.error(`❌ Gemini API galutinai palūžo po ${maxRetries} bandymų.`);
+        throw error;
+      }
+
+      // Eksponentinis laukimas: 3s, 6s, 12s...
+      const waitTime = delayMs * Math.pow(2, attempt - 1);
+      console.warn(`⚠️ Gauta ${status || 'tinklo'} klaida. Bandymas ${attempt}/${maxRetries} nepavyko. Kartojame po ${Math.round(waitTime / 1000)}s...`);
+      
+      await new Promise((resolve) => setTimeout(resolve, waitTime));
+    }
+  }
+}
+
+  const response = await callGeminiWithRetry(async () => { 
+    return await ai.models.generateContent({
+      model: 'gemini-3.8-flash',
+      contents: prompt,
+    });
   });
 
   const storyText = response.text.trim();
