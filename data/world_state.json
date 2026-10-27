@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179289,
-  "last_updated": "2026-10-26",
+  "cycle_id": 179290,
+  "last_updated": "2026-10-27",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.69,
+    "emotional_load": 0.63,
     "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_scooter_206",
-      "chapter": "Budi liūdesys",
-      "character_id": "vauris",
-      "setting": "206-oji paralelė link Askezi",
-      "text": "Ankstyvo pavasario rytą žalsvai elektriniam dangui pranešus apie silicio tirpalo stoką, Vauris atsisėdo ant dūzgiančio skuterio. Pakelėje pasimatė dumbležiai, dvokiantys išmatomis ir prasto kuro degėsiais, o viršuje žaižaravo sintetinės vaivorykštės. Skuterį perjungęs į auto pilotą, Vauris pasinėrė į ci-di grotuvo garsus."
+      "id": "fragment_pijus_aje_meeting",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
     },
-    "real_world_fact": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
-    "emotional_load": 0.69
+    "real_world_fact": "Lula wins fourth term in dramatic Brazil election comeback",
+    "emotional_load": 0.63
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 61,
+        "fatigue": 63,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 46,
+        "fatigue": 48,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 71,
+        "fatigue": 73,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 31,
+        "fatigue": 33,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 51,
+        "fatigue": 53,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 36,
+        "fatigue": 38,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
