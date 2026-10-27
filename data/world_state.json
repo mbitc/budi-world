@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179290,
+  "cycle_id": 179291,
   "last_updated": "2026-10-27",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.63,
+    "emotional_load": 0.64,
     "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_aje_meeting",
+      "id": "fragment_pijus_16th_floor",
       "chapter": "Šešioliktas Pijaus aukštas",
       "character_id": "pijus",
-      "setting": "Viešbučio stiklinis vestibiulis",
-      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+      "setting": "Viešbučio 16-as aukštas",
+      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
     },
-    "real_world_fact": "Lula wins fourth term in dramatic Brazil election comeback",
-    "emotional_load": 0.63
+    "real_world_fact": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
+    "emotional_load": 0.64
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 63,
+        "fatigue": 65,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 48,
+        "fatigue": 50,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 73,
+        "fatigue": 75,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 33,
+        "fatigue": 35,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 53,
+        "fatigue": 55,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 38,
+        "fatigue": 40,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,11 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179285,
-      "fact": "Musk's Starshield system 'back' in Ukraine, says Trump",
-      "summary": "Plazminis ekranas vestibiulyje turėjo išdegusį kairįjį kampą — keturi šimtai pikselių ten švytėjo nuolatine fosforo violetine dėme. Už organinio stiklo pulto sėdėjo Aja. Berėmiai a..."
-    },
-    {
       "cycle": 179286,
       "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
       "fragment_id": "fragment_vauris_dechloris",
@@ -264,6 +259,12 @@
       "fact": "Frelick, Pratt lift Brewers to 5-4 comeback win over Rays and 2-0 World Series lead",
       "fragment_id": "fragment_scooter_206",
       "summary": "Dangus virš 206-osios paralelės turėjo praskiesto vitriolio atspalvį – žalsva elektrinė prošvaistė rodė aštrų silicio tirpalo trūkumą atmosferos garintuvuose. Skuterio rėmas virpėj..."
+    },
+    {
+      "cycle": 179291,
+      "fact": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
+      "fragment_id": "fragment_pijus_16th_floor",
+      "summary": "Šešiolikto aukšto betonas vėso lėčiau nei metalinės vandentiekio alkūnės. Čiaupas varvėjo kas aštuoniasdešimt keturias sekundes: kietas, kalkėtas lašas atsimušdavo į emaliuotą skar..."
     }
   ]
 }

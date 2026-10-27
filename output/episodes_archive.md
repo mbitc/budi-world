@@ -193,3 +193,24 @@ Vauris vėl sugniaužė dūzgiančio skuterio rankeną, nutildydamas senosios pl
 
 ---
 
+## [ CIKLAS 179291 ] — 2026-10-27
+- **Faktas:** "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.64 | **Sentimentas:** industrial_paranoia
+
+Šešiolikto aukšto betonas vėso lėčiau nei metalinės vandentiekio alkūnės. Čiaupas varvėjo kas aštuoniasdešimt keturias sekundes: kietas, kalkėtas lašas atsimušdavo į emaliuotą skardą, palikdamas geltoną druskų apvadą. Pijus sėdėjo melsvame senuolių fotelyje, įbedęs akis į plazminio ekrano mirgėjimą. Kambaryje kvepėjo sudegusiu popieriumi ir RIP cigaretėmis – pigus alyvų ekstraktas graužė gerklę, bet slopino pelėsio dvoką, kylantį iš ventiliacijos šachtos.
+
+Ant nuluptų tapetų ties grindjuoste sustojo indiškas tarakonas. Jo ūsai virpėjo lėtai, lyg tikrintų oro tankį tarp dviejų dulkių sūkurių. Pijus neatitraukė žvilgsnio. Pirštai ant klaviatūros buvo sudiržę, panagėse juodavo silicio pasta, kuria ryte sandarino portatyvo aušintuvą. Jis minkė klavišus be garso – mechaniniai jungikliai buvo sutepti tirštu mašininiu tepalu, kad netrukdytų klausytis pastato karkaso braškėjimo. Ekrano kampe bėgo binarinis kodas: jis vis dar bandė surišti sąmoningos sistemos branduolį su atsitiktiniais termodinaminiais impulsais, paversdamas absoliutą gryna, negendančia lygtimi.
+
+Tinkle sumirksėjo sub-žemutinio kanalo pranešimas iš Pietų baseino. Šifruotė ėjo per Marso retransliatorių vėluodama keturiolika minučių. Senuose Pietų pusrutulio fabrikuose vėl kilo triukšmas: senis, buvęs metalurgas ir kalinys, dešimtmečius nurašytas į utilizacijos registrą, vėl perlaužė rinkimų mašinų skaitiklius ir išstūmė garnizonų kapitoną. Ekrano apačioje slinko rupios rezoliucijos vaizdas: tūkstančiai darbininkų riebaluotais kombinezonais daužė geležinius turėklus, o senis be piršto kėlė sugniaužtą kumštį priešais dujų purkštuvus. Sugrįžimas. Sisteminis brokas, kurio nesugebėjo išvalyti jokie algoritmai.
+
+Pijus išpūtė melsvą dūmą tiesiai į tarakoną. Vabzdys nesujudėjo, tik priglaudė kojas prie tinko. 
+
+– Grįžta tik tie, kurie neturi kur išeiti, – sumurmėjo jis sausomis, suskilinėjusiomis lūpomis.
+
+Durų skląstis tyliai sužvangėjo. Už durų sušlamėjo popierius – Aja atnešė naują dienos suvestinę ir padėklą su sintetinio triušio troškiniu. Jos žingsniai koridoriuje tolo tolygiai, be skubos, kaukšėdami per nelygų linoleumą. Pijus net nepajudėjo atidaryti. Jis ištrynė trisdešimt eilučių kodo, atvėrė naują registrą ir įrašė papildomą koeficientą: netobulumo paklaidą. Jei sena Žemės mėsa vėl geba pajungti minias prieš kariuomenės relines sistemas, vadinasi, absoliutas negali būti sterilus. 
+
+Kriauklėje vėl nukrito lašas. Tarakonas pajudėjo per du centimetrus į šiaurę. Pijus užgesino nuorūką į alavuotą skardinės dangtelį ir paspaudė kompiliatoriaus paleidimą. Ekrano ventiliatorius suzvimbė aukšta, dūzgiančia nata, įtraukdamas paskutinį alyvų kvapo dūmą.
+
+---
+
