@@ -214,3 +214,30 @@ Kriauklėje vėl nukrito lašas. Tarakonas pajudėjo per du centimetrus į šiau
 
 ---
 
+## [ CIKLAS 179292 ] — 2026-10-28
+- **Faktas:** "Israel elections: voter turnout reaches 55% by 4pm local time"
+- **Fragmentas:** Viešbučio stiklinis vestibiulis (`fragment_pijus_aje_meeting`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Plazminio ekrano dešiniajame kampe pulsavo atnaujinamas telemetrijos srautas: Žemės pietų apygardos rinkimų aktyvumas 16:00 vietos laiku pasiekė 55 procentus. Skaičius mirkčiojo kas tris sekundes, persidengdamas su dešimtosios aušinimo linijos slėgio kreive. Pasaulyje už hermetiško stiklo žmonės vis dar ėjo prie balsadėžių, bruko plastikines korteles į plyšius ir laukė patvirtinimo diodų signalo. Čia, viešbučio vestibiulyje, tas skaičius tebuvo bevertis impulsas nusidėvėjusio koaksialinio kabelio gysloje.
+
+Pijaus batai sunkiai kaukšėjo į poliruotą betoną. Kiekvienas žingsnis atsimušė pakaušyje buku, 75 procentų nuovargio dūžiu. Šešiolikto aukšto liftas nusileido su metaliniu traškesiu, palikdamas viršuje vienišą indišką tarakoną, lėtai judantį palei grindjuostę, ir atvėsusią RIP cigaretės nuorūką su sintetinio alyvų kvapo likučiu.
+
+Už administracijos pulto sėdėjo nauja figūra. Šatenė. Jos berėmiai akinukai laužė melsvą monitoriaus šviesą, paversdami akis dviem plokščiais, nepermatomais ovalais. 
+
+– Aš Aja, – pasakė ji. Balsas buvo sausas, nupoliruotas kaip naujas guolis, be trinties. – Nuo šios pamainos – administratorė.
+
+Ant stalviršio iš matinio kompozito ji pastatė padėklą. Judesiai buvo tikslūs, ekonomiški, be nereikalingų centimetrų ore. Dubenėlyje garavo triušio troškinys: tirštas, krakmolingas padažas, morkų kubeliai ir smulkūs kaulai, atidavę taukus sintetiniam sultiniui. Greta stovėjo briaunota stiklinė su tamsiu, klampiu karštu šokoladu. Garas kilo tiesia linija, kol jį suardė ventiliacijos trauka.
+
+Pijus paėmė štampuotą aliuminio šaukštą. Metalas buvo šaltas, vėliau staigiai atšilo nuo pirštų. Troškinio kvapas turėjo sunkų, gyvulinį atspalvį, retai pasitaikantį šituose aukštuose. 
+
+– Virtuvės autoklavas suderintas, – pridūrė Aja, stropiai pažymėdama kažką skaitmeninėje užrašinėje. Jos manikiūras buvo trumpas, praktiškas, skirtas mechaninėms klaviatūroms.
+
+Pijus nurijo pirmą kąsnį. Karštis nudegino liežuvį, ir ta trumpa skausmo banga akimirkai prasklaidė spengiančią tylą. Keistas, ne vietoje atsiradęs vaizdinys suvirpėjo smegenų žievėje: švari lėkštė ant medinio stalo, langas be dulkių filtro, moteris anapus stalo, pjaustanti duoną be jokio normavimo žetono. Buitinė idilė, kurios jis niekada nebuvo matęs gyvai – tik senuose deimantinio laikotarpio žurnaluose. Fantazija truko tris sekundes, kol monitoriuje vėl persijungė pranešimas.
+
+Turnout: 55.1%. 
+
+Aja gurkštelėjo šokolado iš savo puodelio. Jos lūpų kampučiuose šmėstelėjo trumpa, vos pastebima šypsena – ne jam, o tvarkingai užpildytai ataskaitos eilutei. Pijus kramtė kietą triušieną, jausdamas, kaip tarp dantų girgžda smulki kremzlė, ir laukė, kada relinis mazgas lubose vėl atjungs vestibiulio šildymą.
+
+---
+

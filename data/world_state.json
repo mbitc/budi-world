@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179291,
-  "last_updated": "2026-10-27",
+  "cycle_id": 179292,
+  "last_updated": "2026-10-28",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.64,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.5,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_16th_floor",
+      "id": "fragment_pijus_aje_meeting",
       "chapter": "Šešioliktas Pijaus aukštas",
       "character_id": "pijus",
-      "setting": "Viešbučio 16-as aukštas",
-      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
     },
-    "real_world_fact": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
-    "emotional_load": 0.64
+    "real_world_fact": "Israel elections: voter turnout reaches 55% by 4pm local time",
+    "emotional_load": 0.5
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179286,
-      "fact": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-      "fragment_id": "fragment_vauris_dechloris",
-      "summary": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusios geležies miestas. Senajame dechlorizacijos bokšte, Budi pakraštyje, Vaurio dienos slinko lėtai, kaip rytais per venti..."
-    },
-    {
       "cycle": 179287,
       "fact": "Trial of terminally ill cancer patient who found ¥22 million on the street and kept it ends",
       "fragment_id": "fragment_bauder_mars_c4",
@@ -265,6 +259,12 @@
       "fact": "Comeback kid: How did Brazil veteran-leader Lula upset Bolsonaro?",
       "fragment_id": "fragment_pijus_16th_floor",
       "summary": "Šešiolikto aukšto betonas vėso lėčiau nei metalinės vandentiekio alkūnės. Čiaupas varvėjo kas aštuoniasdešimt keturias sekundes: kietas, kalkėtas lašas atsimušdavo į emaliuotą skar..."
+    },
+    {
+      "cycle": 179292,
+      "fact": "Israel elections: voter turnout reaches 55% by 4pm local time",
+      "fragment_id": "fragment_pijus_aje_meeting",
+      "summary": "Plazminio ekrano dešiniajame kampe pulsavo atnaujinamas telemetrijos srautas: Žemės pietų apygardos rinkimų aktyvumas 16:00 vietos laiku pasiekė 55 procentus. Skaičius mirkčiojo ka..."
     }
   ]
 }
