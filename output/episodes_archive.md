@@ -241,3 +241,26 @@ Aja gurkštelėjo šokolado iš savo puodelio. Jos lūpų kampučiuose šmėstel
 
 ---
 
+## [ CIKLAS 179293 ] — 2026-10-29
+- **Faktas:** "Tanzania celebrates first natural gas discovery in more than 10 years"
+- **Fragmentas:** Marso PMD plantacijos, C4 kvadratas (`fragment_bauder_mars_c4`)
+- **Emocinis krūvis:** 0.85 | **Sentimentas:** industrial_paranoia
+
+Gelžbetonio perdanga virš C4 kvadrato buvo atšalusi iki minus keturiasdešimt dviejų laipsnių. Stiklinis stogas traškėjo nuo terminio susitraukimo – mikroskopiniai silicio trūkiai leido vos girdimą sausą caksėjimą, panašų į lūžtančius kaulus. 
+
+Septyniolikmetis Bauderis sėdėjo atvertęs nugarą į pagrindinį valdymo pultą. Jo auliniai batai, aplipę rūdžių spalvos bazalto dulkėmis, ilsėjosi ant frezuoto plieno stalviršio šalia atidarytos silicio tirpalo talpos. Ekrane mirgėjo 743 biopradų gyvybinės kreivės. Septyni šimtai keturiasdešimt trys šiltnamio kapsulės, įkastos į raudonągruntį, pumpavo sintetinę celiuliozę ir reikalavo stabilios metano frakcijos. Slėgis magistralėje krito trimis hektopaskaliais per pamainą. Vožtuvai kalkėjo.
+
+Portatyvo ekrane, IRC kanale `#budi`, žalia eilutė bėgo lėtai, praleisdama paketus per vėluojantį Žemės retransliatorių. Bauderis kramtė sintetinio kofeino gumulą, jausdamas geležies skonį ant dantenų. Pro stiklą danguje kabojo Deimas – netaisyklingas, pajuodęs akmens luitas, šalia jo Fobas brėžė aštrią šešėlio briauną per plantacijos žiedus.
+
+Žinučių sraute sužibo tolimo mazgo telemetrija. Žemės sektoriaus informacinis kanalas išmetė prioritetinį pranešimą: Tanzanijos šelfe, po vienuolikos metų bergždžio gręžimo, atvertas pirmasis komercinis gamtinių dujų telkinys. Dešimtmetį trukusi tyla pietiniame pusrutulyje sprogo slėgio šuoliu – šeši šimtai barų iš keturių kilometrų gylio, pramoninis triumfas, vietiniai operatoriai sveikina vieni kitus per drėgną, karštą tropikų eterį. 
+
+Bauderis trumpai nusijuokė pro nosį. Garsas nuskambėjo tuščiai didžiulėje gelžbetonio dėžėje. Ten, apačioje, pelkėse ir vandenyne, jie džiaugėsi angliavandenilių pliūpsniu, lyg būtų išradę ugnį iš naujo. Čia, C4 kvadrate, kiekvienas kubinis centimetras metano buvo suskaičiuotas iki ketvirto skaičiaus po kablelio. Jei biopradai negautų azoto ir anglies mišinio per artimiausias šešiasdešimt minučių, sintetinė masė plantacijose sukrešėtų į kietą, nenaudingą dervą.
+
+Bauderis pirštu pastūmė portatyvo klavišą, atidarydamas IRC įvesties lauką:
+
+`<Bau> Žemėje atrado dujų. Vėl keps mėsą ant atviros ugnies. Pas mus C4 sekcijoje trūksta trijų litrų propano, kad neužšaltų tryliktas biopradas. Kas budi prie chlorinimo stoties?`
+
+Kanale kabojo spengianti tyla. Tolumoje, už tūkstančių kilometrų raudonos dykumos, Vaurio stotyje galbūt šnypštė propano-azoto degiklis, bet atsakymo nebuvo. Tik relinis skaitiklis prie lubų sausai spragtelėjo, fiksuodamas Fobo poslinkį per du lanko laipsnius, ir stiklas virš galvos vėl tyliai atsiduso nuo šalčio.
+
+---
+
