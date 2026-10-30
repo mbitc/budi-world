@@ -264,3 +264,24 @@ Kanale kabojo spengianti tyla. Tolumoje, už tūkstančių kilometrų raudonos d
 
 ---
 
+## [ CIKLAS 179294 ] — 2026-10-30
+- **Faktas:** "Brewers beat Rays 4-1 in Game 5 to win first World Series title in franchise history"
+- **Fragmentas:** Transporteris link Majų centro (`fragment_garlet_broker_mars`)
+- **Emocinis krūvis:** 0.87 | **Sentimentas:** industrial_paranoia
+
+Transporterio kabinos hermetizacija šnypštė 1,2 baro pertekliumi. Garletas P. krumpliu patikrino apykaklės standumą: vilnonis Žemės audinys Marso 0,38 g gravitacijoje klostėsi nenatūraliai, lyg netekęs savo tikrojo svorio. Rankinis laikrodis rodė trisdešimt devynias minutes po vietinio vidurdienio; mechaninis mechanizmas, pritaikytas ilgesniam soliui, smilkiniuose aidėjo lyg sausas bronzinės įvorės klibėjimas. Ausinėse suko kompresuotą *acid jazz* kilpą – monotoniškas sintezatoriaus bosas maskavo dešiniojo traukos guolio virpesius.
+
+Portatyvo ekrane, šalia gelžbetoninių Majų plantacijų C4 sektoriaus koordinačių, sušvito vėluojantis Žemės telemetrijos paketas. Informacinis srautas, perrėžęs jonosferą per Fobo retransliatorių, išmetė sporto archyvo santrauką: *„Brewers“ įveikė „Rays“ 4:1 penktose rungtynėse; pirmasis franšizės titulas istorijoje.* Garletas spoksojo į skaitmenis: 4:1. Keturi taškai prieš vieną. Kažkur Viskonsino pramoninėse žemumose minia rėkė į šaltą naktį, taškydama prastą miežinį alų ant šlapio asfalto, o čia, už dvigubo organinio stiklo, raudonos dulkės dengė nejudrius bandzinų gumbus. Penkios rungtynės užbaigti ciklą. Žemė vis dar šventė pergales, kurių baigtis buvo aiški dar prieš signalui pasiekiant Marso orbitą.
+
+Transporteris kirto administracinio kupolo šliuzą. Pneumatika sudejavo, išmesdama kondensato čiurkšlę ant betoninių grindų. 
+
+Vestibiulyje tvyrojo sausas, perdirbto deguonies ir skysto vaško tvaikas. Kampuose kvaksėjo biurokratiniai automatai, rūšiuojantys bioprimatų darbo valandas. Garletas suspausdamas pirštais pajuto plastikinį asmens žetoną – jame trūko aštuonių šimtų kreditų iki minimalaus grunto nuomos limito. 
+
+Prie stiklinio užeigos terminalo stovėjo ponia Wau Ku. Raudonų plaukų aureolė krito ant pilko neopreno švarko apykaklės, kontrastuodama su sterilia salės šviesa. Ji lėtai pakėlė ranką; manikiūruotas pirštas palietė Garleto kelioninio krepšio diržą ties raktikauliu. Prisilietimas buvo tikslus, dozuotas, be nereikalingos šilumos.
+
+– Pavėlavote keturias minutes pagal Solį, Garletai, – ištarė ji ramiu, prislopintu aukštuomenės balsu, nenukreipdama akių nuo jo apykaklės. – Žemės rinka krenta. Jūsų 4:1 balansas nieko nereiškia, jei bandzinų šaknys C4 kvadrate nespės išleisti sulčių iki smėlio audros.
+
+Garletas išjungė ausines. Ausyse liko tik tolimas siurblių pulsavimas ir spengianti, sunki Marso administracijos tyla. Žetono briauna įsirėžė į delno odą, palikdama aštrų, taisyklingą įspaudą.
+
+---
+
