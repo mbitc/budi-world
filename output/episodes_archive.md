@@ -285,3 +285,22 @@ Garletas išjungė ausines. Ausyse liko tik tolimas siurblių pulsavimas ir spen
 
 ---
 
+## [ CIKLAS 179295 ] — 2026-10-31
+- **Faktas:** "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.59 | **Sentimentas:** neutral_drift
+
+Po švininiu dangumi rūdys neturėjo kvapo, tik skonį – geležies druskų apnašas ant dantenų. Senoji dechlorizacijos stotis Budi pakraštyje vibravo 48 hercų dažniu. Buveinės viduryje propano-azoto rūgšties židinys šnypštė geltonai žalia liepsna, degindamas orą iki sauso, dūriais juntamo kosulio. Vauris sėdėjo ant apsilaupiusios transformatoriaus dėžės. Jo pirštai, sukietėję nuo techninio vazelino ir šalčio, lėtai glostė elektrinio skuterio gazo rankeną. Akumuliatorių blokas vėso lėtai; metalas spragsėjo traukdamasis ir skleisdamas perdegusio fenolio smarvę.
+
+Portatyvo ekrane, aplipusiame pilkšva kalkių danga, pulsavo siauro pralaidumo srautas. IRC mazgas #budi fiksavo anomaliją: Oleškų žemumos dumbležuose, kur po pramuštų rezervuarų išsiliejęs pramoninis vanduo siekė barakų stogus, paskelbta keturiasdešimties minučių ugnies pauzė. Retas, protokoliškai patvirtintas paliaubų langas tarp okupacinio kontingento sunkiųjų baterijų ir pelkėse įstrigusių sektorių.
+
+Monitoriaus eilutėse evakuacija virto sausa telemetrija. Keli šimtai gyvų kūnų, ištrauktų iš apsemtų rusių ir chemikalais užterštų gelžbetonio ertmių, buvo keliami į plokščiadugnius krovinių pontonus. Sisteminiai davikliai registravo vidutinį evakuojamųjų tankį – keturi vienetai į kvadratinį metrą, drėgmės lygis drabužiuose – 94 procentai, bendras hipotermijos koeficientas kritinis. Pontonų dyzeliai karkė dusliai, vilkdami perkrautas platformas per drumzliną, vandenilio sulfidu putojančią dumbležų masę, kol tolimieji pakrantės pabūklai garavo atvėsinimo režimu.
+
+Bauderio pranešimas ekrane iššoko be skyrybos ženklų: *„oleškų dumbležus semia / leido trauktis / išveža keturis šimtus galvų / jeigu vauri lįsi pro 206 paralelę saugokis pontonų bangos“*.
+
+Vauris neatrašė. Nuovargis spaudė pakaušį kaip 74 vienetų švino svarmuo. Jo izoliacijos indeksas stoties konsolėje mirksėjo ties 85 procentais – riba, ties kuria svetimas išlikimas tampa tik foniniu triukšmu, panašiu į sugedusio kondensatoriaus zvimbimą. Jis tik pasilenkė arčiau židinio, stebėdamas, kaip azoto rūgšties mikrolašas sušnypščia ant įkaitusios ketaus sklendės. Pasaulis ten, apačioje, buvo per skystas, per daug permirkęs dvoku, dumblu ir trumpalaike viltimi, kurią po pusvalandžio vėl sutrupins artilerijos salvės.
+
+Tolumoje, už šlako pylimų, sukliksėjo reliniai saugikliai. Paliaubų laikas baigėsi. Vauris nuspaudė seno ci-di grotuvo mygtuką; mechanizmas sužvangėjo, lazeris užkliuvo už subraižyto aliuminio disko, ir stoties tyloje vėl liko tik liepsnos šnypštimas bei vėstantis skuterio karkasas.
+
+---
+
