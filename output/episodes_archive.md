@@ -304,3 +304,32 @@ Tolumoje, už šlako pylimų, sukliksėjo reliniai saugikliai. Paliaubų laikas 
 
 ---
 
+## [ CIKLAS 179297 ] — 2026-11-01
+- **Faktas:** "Coventry win leaves Man United on brink of Premier League relegation zone"
+- **Fragmentas:** Majų administracijos centro vestibiulis ir užeigėlė (`fragment_wau_ku_meeting`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Majų administracijos vestibiulio recirkuliuotas oras turėjo perkaitusio teflono ir ozono poskonį. Garletas P. pirštų galais patikrino švarko atlapo siūlę: sintetinė vilna elektrinosi, traškėjo prie kiekvieno krestelėjimo. Portatyvo ausinėje dusliai pulsavo Žemės acid džiazo sintezatorius, o kairiojo riešo mechaninis ciferblatas rodė dešimties minučių neatitikimą vietiniam Marso laikrodžiui. 
+
+Prie terminalų stoviniavo tranzitiniai krovikai, o tarp jų ratukais zvimbė valymo agregatai, guminiais šepečiais braukdami raudonas dulkes nuo poliruoto šlako grindų.
+
+Tada petį palietė penki nagai. Ilgi, lakuoti tamsiu pigmentu, su preciziškai nukirptais kampais. Prisilietimas buvo kietas, be jokio biologinio minkštumo.
+
+– Garletai. Tu vis dar su tuo pačiu lagaminu.
+
+Jis atsisuko. Priešais stovėjo ponia Wau Ku. Raudoni plaukai krito ant pečių tankia, dirbtinai pasunkinta banga, skleisdami silpną formalino ir pigių kvepalų tvaiką. Po oda ties kairiuoju žandikauliu pulsavo administracinio žetono mikroschema – maža, žaliai švytinti dėmelė. Tai buvo Ilis. Vaikystės Ilis iš pramoninio šiaurės doko, dabar rekonstruotas į trečios klasės funkcionierių su neribota prieiga prie bandzinų kvotų.
+
+Jie nuėjo į užeigėlę vestibiulio kampe. Staliukas iš pigaus presuoto silikato vibravo nuo po grindimis dirbančių kompresorių. Už dvigubo kvarcinio lango leidosi saulė – mažas, aštrus diskas, nudažantis rūdžių lauką pilkšvai violetine spalva.
+
+Virš pigaus maisto dozatoriaus mirgėjo skystųjų kristalų švieslentė. Šalia bandzinų ekstrakto kainų bėgo Žemės telekso santrauka, atsiliekanti dvidešimt dvi minutes: *Coventry pergalė palieka Man United ties iškritimo riba*. Sieninis aparatas sukvaksėjo, perskaičiuodamas pranešimo prioriteto koeficientą į nulį. Sena Žemės hierarchija puvo: gigantai ritosi į apatinius registrus lygiai taip pat, kaip Garleto investiciniai lakštai.
+
+– Trys tūkstančiai bioprimatų sustabdė C4 sektorių, – pasakė Ilis, lėtai braukdama manikiūru per stalo briauną. Jos balsas po balso stygų kalibracijos skambėjo per lygiai, be nuovargio vibracijų. – Jie reikalauja druskos normos padidinimo keturiais gramais. Administracija nesiderės. Mes tiesiog sumažinsime deguonies slėgį iki šešiasdešimt aštuonių procentų.
+
+– Tai sulėtins bandzinų fermentaciją, – sausai pastebėjo Garletas. Jo ranka nevalingai suspaudė kelioninį krepšį tarp kelių. Popieriniai planai viduje buvo beverčiai, jei C4 stiklas aprasotų lavonų garais.
+
+– Fermentacija palauks, – šyptelėjo Wau Ku. Jos dantys buvo per balti Marso šviesai. – Viskas transformuojasi, Garletai. Pažvelk į Žemę ekrane. Ten net kamuolio nebegali paspirti be bankroto procedūros. O čia mes turime gruntą. Ir mes turime vožtuvus.
+
+Garletas gurkštelėjo sintetinio toniko iš automato. Skystis buvo drungnas, su kalkių nuosėdomis dugne.
+
+---
+
