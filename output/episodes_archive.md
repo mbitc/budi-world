@@ -333,3 +333,30 @@ Garletas gurkštelėjo sintetinio toniko iš automato. Skystis buvo drungnas, su
 
 ---
 
+## [ CIKLAS 179298 ] — 2026-11-02
+- **Faktas:** "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.87 | **Sentimentas:** industrial_paranoia
+
+Čiaupas leido kas vieną kablelis keturiasdešimt dvi sekundės. Švino ir kalkių nuosėdomis apaugusi kriauklė skaidė šešioliktojo aukšto tylą į vienodus, 70 decibelų spragtelėjimus. Kiekvienas lašas atsimušdavo į surūdijusį dugną su metaliniu aidu, matuodamas beprasmį viešbučio pūvimą.
+
+Pijus nejudėjo melsvame senuolių fotelyje. Jo oda buvo sausa, patamsėjusi nuo prasto apšvietimo ir recirkuliuoto azoto mišinio. Pirštai, sustingę virš riebaluotų klaviatūros klavišų, priminė atvėsusius kabelius. Sienos plyšyje, ties atsilupusio linoleumo briauna, slinko indiškas tarakonas. Šeši nariuoti segmentai, lėtas antenų virpėjimas – vabzdys judėjo 45 laipsnių kampu link tinko trupinio, neturėdamas jokio supratimo apie dėsnius ar Absoliutą. Pijus sekė jį drumzlinu žvilgsniu. Nuovargio indeksas siekė devyniasdešimt vieną procentą; smilkiniuose tvinksėjo nuolatinis mažaamperis skausmas.
+
+Plazminis monitorius sučirškė, relė suveikė su sausu barkštelėjimu. Ekrane, per vėluojančio Žemės tranzito liniją, prasiveržė nefiltruotas telemetrijos paketas. Švieslentėje trūkčiojo pranešimas: *„Brazilijos pergalė planetai ir demokratijai: septynios pamokos po Lulos laimėjimo.“* Sistemos filtras emocinį krūvį fiksavo ties 0,87 žyma – absurdiškai tirštas, kone vulgari organinės vilties koncentracija sausame Marso sektoriuje. Monitorius braižė San Paulo gatvių minias, žalius Amazonijos baseino rekuperacijos žemėlapius, pažadus stabdyti kirtimus ir sugrąžinti balsą plebėjams. Pasaulis ten vis dar alsavo drėgnu dumblu ir tankia lapija, kol čia viskas virto dulkėmis.
+
+Pijus prisidegė „RIP“ cigaretę. Sintetinis alyvų aromatas trumpam nuslopino drėgno betono ir tepalo tvaiką.
+
+– Savireguliacija per iliuziją, – sausai ištarė jis į spengiantį kambarį. – Biomasė bando perrašyti savo klaidų registrą.
+
+Durų skląstis nusileido. Į kambarį įėjo Aja. Jos beremiai akinukai atspindėjo žalsvą ekrano šviesą. Ji nešė padėklą: sintetinis triušio troškinys dubenėlyje jau traukėsi riebalų plėvele, šalia garavo karštas šokoladas. 
+
+– Šešioliktas aukštas vėl degina per daug kilovatų, Pijau, – ramiai pasakė ji, padėdama padėklą šalia asmens identifikavimo žetono. Jos judesiai buvo grakštūs, mechaniškai tikslūs, tačiau lūpų kampučiuose slypėjo gyvas nuovargis. – Iš kur ištraukei Žemės konsolių srautą? 
+
+– Tai atspirties taškas, – Pijus nepakėlė akių nuo monitoriaus. Pirštu nuspaudė klavišą, versdamas Brazilijos dekretus į binarinį kodą. – Septynios taisyklės, kaip atitolinti entropiją be jėgos. Jei sujungsiu tai su tarakono navigacija, mano sistema įgis sąmonę. Ji nustos bijoti pabaigos.
+
+Aja pažvelgė į grindimis bėgantį vabzdį, tada į Pijaus veidą. Jos šypsena buvo mandagi, beprasmiškai švari.
+
+– Valgyk, kol neatšalo, – tarė ji. – Tavo tarakonas neturi vilties, bet vis tiek ėda kalkes. Tu irgi privalai.
+
+---
+
