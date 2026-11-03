@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BUDI</title>
+<script>try{if(sessionStorage.getItem('budiIntro')&&location.search.indexOf('intro')<0)location.replace('docs/index.html')}catch(e){}</script>
+<noscript><meta http-equiv="refresh" content="0;url=docs/index.html"></noscript>
+<link rel="prefetch" href="docs/index.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@0;1&display=swap" rel="stylesheet">
+
+<style>
+#budi-intro{
+  --lead:#23272b; --rust:#8a4526; --ash:#d9d3c7;
+  position:fixed; inset:0; z-index:99999; overflow:hidden;
+  background:var(--lead); color:var(--ash);
+  font-family:'Gentium Book Plus',Georgia,'Palatino Linotype',serif;
+  transition:opacity 1.2s ease;
+}
+#budi-intro.out{opacity:0; pointer-events:none}
+#budi-intro canvas{position:absolute; inset:0; width:100%; height:100%}
+#budi-intro .grain{position:absolute; inset:-60px; opacity:.11; mix-blend-mode:overlay}
+#budi-intro .room{position:absolute; inset:0; opacity:0; overflow:hidden; transition:opacity 2.8s ease}
+#budi-intro .room.on{opacity:1}
+#budi-intro .pan{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:max(100vw,calc(100vh*1.7917)); aspect-ratio:1376/768}
+#budi-intro .zoom{position:absolute; inset:0; transform:scale(1.02); transform-origin:62% 40%;
+  filter:brightness(.82) saturate(1.05)}
+#budi-intro .room.on .zoom{transform:scale(1.3); transition:transform 9s cubic-bezier(.35,.1,.25,1)}
+#budi-intro .zoom img{display:block; width:100%; height:100%}
+#budi-intro .zoom canvas{position:absolute; inset:0; width:100%; height:100%}
+#budi-intro .g{position:absolute; border-radius:50%; mix-blend-mode:screen; filter:blur(16px);
+  animation:budifl 3.7s infinite}
+@keyframes budifl{0%,100%{opacity:.55}6%{opacity:.12}8%{opacity:.75}48%{opacity:.6}51%{opacity:.2}53%{opacity:.7}}
+#budi-intro .lines{transition:opacity 1.8s ease}
+#budi-intro .lines.gone{opacity:0}
+@media (prefers-reduced-motion:reduce){#budi-intro .g{animation:none} #budi-intro .room.on .zoom{transition:none}}
+#budi-intro .scan{position:absolute; inset:0; pointer-events:none;
+  background:repeating-linear-gradient(to bottom, rgba(0,0,0,.18) 0 1px, transparent 1px 3px)}
+#budi-intro .vig{position:absolute; inset:0; pointer-events:none;
+  background:radial-gradient(ellipse at 50% 45%, transparent 35%, rgba(5,4,4,.78) 100%)}
+#budi-intro .lines{position:absolute; left:50%; top:44%; transform:translate(-50%,-50%);
+  width:min(880px,88vw); text-align:center}
+#budi-intro .l{margin:0 0 1.15em; opacity:0; line-height:1.35;
+  transition:opacity 1.4s ease, color 1.4s ease; text-wrap:balance}
+#budi-intro .l.on{opacity:1}
+#budi-intro .l.dim{opacity:.3}
+#budi-intro .l.old{font-style:italic; font-size:clamp(15px,2.1vw,20px); letter-spacing:.02em}
+#budi-intro .l.lt{font-size:clamp(25px,4.6vw,46px); margin:1.4em 0 0; color:#efe8da;
+  text-shadow:0 0 28px rgba(150,72,34,.45)}
+#budi-intro .w{display:inline-block; white-space:nowrap}
+#budi-intro .u{color:var(--rust); opacity:.75}
+#budi-intro button{position:absolute; left:50%; bottom:max(28px,env(safe-area-inset-bottom));
+  transform:translateX(-50%); background:none; border:0; color:#8d887e;
+  font:inherit; font-size:15px; padding:.6em 1.2em; cursor:pointer; opacity:.7}
+#budi-intro button:hover{opacity:1; color:var(--ash)}
+#budi-intro button:focus-visible{outline:1px solid var(--rust); outline-offset:3px; opacity:1}
+</style>
+
+<style>
+html,body{margin:0; height:100%; background:#0c0d0e}
+</style>
+</head>
+<body>
+
+<div id="budi-intro" role="dialog" aria-label="Budi įžanga">
+  <canvas class="sky"></canvas>
+  <div class="room"><div class="pan"><div class="zoom">
+    <img src="intro-room.jpg" alt="">
+    <i class="g" style="left:75%;top:28%;width:12%;height:8%;background:#ff3d8b"></i>
+    <i class="g" style="left:72.5%;top:53%;width:7%;height:7%;background:#ff4d6d;animation-delay:-1.4s"></i>
+    <i class="g" style="left:46.5%;top:19%;width:4%;height:24%;background:#ff3fa4;animation-delay:-2.3s"></i>
+    <i class="g" style="left:22%;top:14%;width:13%;height:10%;background:#c77dff;animation-delay:-.7s"></i>
+    <i class="g" style="left:80%;top:4%;width:6%;height:9%;background:#35d6ff;animation-delay:-3s"></i>
+    <canvas class="rain"></canvas>
+  </div></div></div>
+  <canvas class="grain" width="160" height="160"></canvas>
+  <div class="scan"></div><div class="vig"></div>
+  <div class="lines" aria-live="polite"></div>
+  <button type="button">Praleisti</button>
+</div>
+
+<script>
+(function(){
+  var root=document.getElementById('budi-intro');
+  if(!root) return;
+
+  /* Kitas puslapis (generuojamas) ir laikai milisekundėmis */
+  var NEXT='docs/index.html', HOLD_LT=1800, ROOM_MS=7500;
+
+  var reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var done=false, raf=0, timers=[];
+  
+  /* ---------- Tekstas ---------- */
+  var LINES=[
+    {c:'old', t:'Ὑπὸ μολιβδίνῳ οὐρανῷ ἡ σιδηρᾶ πόλις, ἰῷ κατεδηδεσμένη, διετείνετο.'},
+    {c:'old', t:'Sub caelo plumbeo urbs ferrea, rubigine consumpta, se extendebat.'},
+    {c:'old', t:'Beneath a leaden sky, the rusted city of iron stretched out.'},
+    {c:'lt',  t:'Po švininiu dangumi driekėsi surūdijęs geležies miestas.'}
+  ];
+  var box=root.querySelector('.lines'), els=[];
+  LINES.forEach(function(L){
+    var p=document.createElement('p'); p.className='l '+L.c; box.appendChild(p); els.push(p);
+  });
+
+  var GLYPHS='░▒▓╳╬#%&§¶†‡∆∇≈≠';
+  function glyph(){ return GLYPHS.charAt(Math.floor(Math.random()*GLYPHS.length)); }
+
+  /* Raidės „atsiskleidžia" iš triukšmo */
+  function decode(el, text, dur){
+    return new Promise(function(res){
+      el.textContent='';
+      var chars=[], words=text.split(' ');
+      words.forEach(function(w,wi){
+        var ws=document.createElement('span'); ws.className='w';
+        for(var i=0;i<w.length;i++){
+          var s=document.createElement('span'); s.className='u'; s.textContent=glyph();
+          ws.appendChild(s); chars.push({s:s, ch:w.charAt(i), ok:false});
+        }
+        el.appendChild(ws);
+        if(wi<words.length-1) el.appendChild(document.createTextNode(' '));
+      });
+      var n=chars.length;
+      chars.forEach(function(c,i){ c.at=(i/n)*dur*0.78 + Math.random()*dur*0.22; });
+      el.classList.add('on');
+      if(reduce||dur===0){ chars.forEach(function(c){c.s.textContent=c.ch; c.s.className='';}); return res(); }
+      var t0=performance.now(), last=0;
+      (function tick(now){
+        if(done) return res();
+        var e=now-t0, left=0;
+        if(now-last>55){
+          last=now;
+          chars.forEach(function(c){
+            if(c.ok) return;
+            if(e>=c.at){ c.ok=true; c.s.textContent=c.ch; c.s.className=''; }
+            else { c.s.textContent=glyph(); left++; }
+          });
+        } else { left=chars.filter(function(c){return !c.ok;}).length; }
+        if(left>0) requestAnimationFrame(tick); else res();
+      })(t0);
+    });
+  }
+  function wait(ms){ return new Promise(function(r){ timers.push(setTimeout(r, reduce?0:ms)); }); }
+
+  async function run(){
+    await wait(900);
+    for(var i=0;i<3&&!done;i++){
+      await decode(els[i], LINES[i].t, 1800);
+      await wait(1100);
+      els[i].classList.add('dim');
+    }
+    if(done) return;
+    await decode(els[3], LINES[3].t, 2800);
+    if(reduce){ await wait(4000); close(); return; }
+    await wait(HOLD_LT);
+    if(done) return;
+    stageRoom();
+    await wait(ROOM_MS);
+    close();
+  }
+
+  /* ---------- Antras etapas: kambarys su langu į miestą ---------- */
+  var room=root.querySelector('.room'), rc=root.querySelector('.rain'), rx=rc.getContext('2d');
+  var RX0=.455, RX1=.855, RY0=.03, RY1=.70, drops=[], craft=[], rw=0, rh=0, rraf=0, bgOff=false;
+  function rsize(){ rw=rc.width=rc.offsetWidth; rh=rc.height=rc.offsetHeight; }
+  function stageRoom(){
+    rsize();
+    for(var i=0;i<170;i++) drops.push({x:RX0+Math.random()*(RX1-RX0), y:Math.random(), l:.012+Math.random()*.03, v:.006+Math.random()*.01});
+    var cols=['#ff5a7a','#7fd8ff','#ffd27a','#ff5a7a','#7fd8ff'];
+    for(var j=0;j<5;j++) craft.push({x:RX0+Math.random()*(RX1-RX0), y:.1+j*.1, v:(.00012+Math.random()*.0002)*(j%2?-1:1), c:cols[j], p:Math.random()*6});
+    box.classList.add('gone');
+    room.classList.add('on');
+    setTimeout(function(){ bgOff=true; },3200);
+    rraf=requestAnimationFrame(rainLoop);
+  }
+  function rainLoop(now){
+    if(done) return;
+    var s=rw/1376, t=now/1000;
+    rx.clearRect(0,0,rw,rh);
+    rx.save(); rx.beginPath(); rx.rect(RX0*rw,RY0*rh,(RX1-RX0)*rw,(RY1-RY0)*rh); rx.clip();
+    rx.strokeStyle='rgba(190,210,240,.3)'; rx.lineWidth=Math.max(1,s*1.1); rx.beginPath();
+    drops.forEach(function(d){
+      d.y+=d.v; if(d.y>RY1+.05){ d.y=RY0-.05; d.x=RX0+Math.random()*(RX1-RX0); }
+      rx.moveTo(d.x*rw, d.y*rh); rx.lineTo((d.x-d.l*.12)*rw, (d.y+d.l)*rh);
+    });
+    rx.stroke();
+    craft.forEach(function(c){
+      c.x+=c.v; if(c.x>RX1+.03) c.x=RX0-.03; if(c.x<RX0-.03) c.x=RX1+.03;
+      var a=.55+.45*Math.sin(t*3+c.p);
+      rx.shadowColor=c.c; rx.shadowBlur=14*s*2; rx.fillStyle=c.c; rx.globalAlpha=a;
+      rx.beginPath(); rx.arc(c.x*rw, c.y*rh, 2.4*s*1.5, 0, 6.283); rx.fill();
+      rx.globalAlpha=.25*a; rx.fillRect(c.x*rw-(c.v>0?24:0)*s, c.y*rh-s*.6, 24*s, s*1.2);
+    });
+    rx.restore();
+    rraf=requestAnimationFrame(rainLoop);
+  }
+
+  /* ---------- Fonas: švino dangus, rūdžių miestas ---------- */
+  var cv=root.querySelector('.sky'), cx=cv.getContext('2d'), W,H,dpr,far,near,clouds;
+  function rng(s){ return function(){ s=(s*16807)%2147483647; return s/2147483647; }; }
+  function skyline(seed,span,hMin,hMax,lit){
+    var r=rng(seed), b=[], x=0;
+    while(x<span){
+      var w=20+r()*76, h=hMin+r()*(hMax-hMin), o={x:x,w:w,h:h,pipe:null,win:[]};
+      if(r()<.3) o.pipe={dx:r()*w*.7, h:22+r()*70, w:3+r()*4};
+      if(lit) for(var k=0;k<3;k++) if(r()<.35) o.win.push({dx:4+r()*(w-10), dy:10+r()*(h-20)});
+      b.push(o); x+=w+(r()<.3?r()*22:0);
+    }
+    return {b:b, span:x};
+  }
+  function size(){
+    dpr=Math.min(devicePixelRatio||1,2); W=innerWidth; H=innerHeight;
+    cv.width=W*dpr; cv.height=H*dpr; cx.setTransform(dpr,0,0,dpr,0,0);
+    var span=Math.max(W*1.6,1800);
+    far=skyline(7,span,H*.1,H*.26,false); near=skyline(21,span,H*.16,H*.38,true);
+    var r=rng(5); clouds=[];
+    for(var i=0;i<7;i++) clouds.push({x:r()*W*1.6, y:H*(.06+r()*.5), rx:W*(.25+r()*.3), ry:H*(.05+r()*.07), a:.16+r()*.16});
+  }
+  function layer(L,off,y0,fill,lit,t){
+    cx.fillStyle=fill;
+    for(var sx=-off; sx<W; sx+=L.span){
+      L.b.forEach(function(o){
+        var x=sx+o.x; if(x>W||x+o.w<0) return;
+        var top=y0-o.h;
+        cx.fillRect(x,top,o.w+1,H-top);
+        if(o.pipe) cx.fillRect(x+o.pipe.dx,top-o.pipe.h,o.pipe.w,o.pipe.h+1);
+        if(lit&&o.win.length){
+          cx.save();
+          o.win.forEach(function(w,i){
+            var f=.45+.3*Math.sin(t*.7+x*.05+i*2);
+            cx.fillStyle='rgba(176,92,48,'+f.toFixed(2)+')';
+            cx.fillRect(x+w.dx, top+w.dy, 2, 3);
+          });
+          cx.restore(); cx.fillStyle=fill;
+        }
+      });
+    }
+  }
+  function draw(t){
+    var hz=H*.8, g=cx.createLinearGradient(0,0,0,H);
+    g.addColorStop(0,'#181b1f'); g.addColorStop(.5,'#3a4045'); g.addColorStop(.8,'#6a574a'); g.addColorStop(1,'#1a1412');
+    cx.fillStyle=g; cx.fillRect(0,0,W,H);
+    var rg=cx.createRadialGradient(W*.62,hz,0,W*.62,hz,W*.65);
+    rg.addColorStop(0,'rgba(160,78,36,.38)'); rg.addColorStop(1,'rgba(160,78,36,0)');
+    cx.fillStyle=rg; cx.fillRect(0,0,W,H);
+    clouds.forEach(function(c){
+      var x=((c.x+t*5)%(W*1.6+c.rx*2))-c.rx;
+      var cg=cx.createRadialGradient(x,c.y,0,x,c.y,c.rx);
+      cg.addColorStop(0,'rgba(18,20,23,'+c.a+')'); cg.addColorStop(1,'rgba(18,20,23,0)');
+      cx.save(); cx.translate(0,c.y); cx.scale(1,c.ry/c.rx); cx.translate(0,-c.y);
+      cx.fillStyle=cg; cx.fillRect(x-c.rx,c.y-c.rx,c.rx*2,c.rx*2); cx.restore();
+    });
+    layer(far, (t*7)%far.span,  hz,        'rgba(52,42,38,.92)', false, t);
+    layer(near,(t*16)%near.span, hz+H*.07, '#120e0d',            true,  t);
+  }
+
+  /* Grūdėtumas (film grain) */
+  var gc=root.querySelector('.grain'), gx=gc.getContext('2d');
+  function noise(){
+    var id=gx.createImageData(160,160), d=id.data;
+    for(var i=0;i<d.length;i+=4){ var v=Math.random()*255; d[i]=d[i+1]=d[i+2]=v; d[i+3]=255; }
+    gx.putImageData(id,0,0);
+  }
+
+  var frame=0, t0=performance.now();
+  function loop(now){
+    if(done) return;
+    var t=(now-t0)/1000;
+    if(!bgOff) draw(t);
+    if(frame++%3===0){ noise(); gc.style.transform='translate('+(Math.random()*40-20)+'px,'+(Math.random()*40-20)+'px)'; }
+    raf=requestAnimationFrame(loop);
+  }
+
+  /* ---------- Pabaiga ---------- */
+  function close(){
+    if(done) return; done=true;
+    timers.forEach(clearTimeout);
+    try{ sessionStorage.setItem('budiIntro','1'); }catch(e){}
+    root.classList.add('out');
+    setTimeout(function(){ cancelAnimationFrame(raf); cancelAnimationFrame(rraf); location.replace(NEXT); }, reduce?0:1250);
+  }
+  root.querySelector('button').addEventListener('click',function(e){ e.stopPropagation(); close(); });
+  root.addEventListener('click',close);
+  addEventListener('keydown',function(e){ if(e.key==='Escape'||e.key==='Enter') close(); });
+  addEventListener('resize',function(){ size(); if(reduce) draw(0); if(rw) rsize(); });
+
+  size();
+  if(reduce){ draw(0); noise(); }
+  else raf=requestAnimationFrame(loop);
+  root.querySelector('button').focus({preventScroll:true});
+  run();
+})();
+</script>
+</body>
+</html>
