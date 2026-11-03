@@ -34,32 +34,41 @@ UŽDUOTIS:
 3. Jokio sauso instruktažo – tik sodri, grubi, lėta ir klampi *Askezi* proza.
 `;
 
-  async function callGeminiWithRetry(apiCallFn, maxRetries = 3, delayMs = 3000) {
+ async function callGeminiSafely(apiCallFn, maxRetries = 4, baseDelayMs = 4000) {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
-      // Vykdome Gemini API užklausą
       return await apiCallFn();
     } catch (error) {
-      const status = error?.status || error?.statusCode || error?.response?.status;
+      const errString = error?.toString() || '';
+      const status = error?.status || error?.statusCode || error?.response?.status || 0;
       
-      // Tikriname, ar klaida laikina (503 Service Unavailable, 429 Rate Limit arba tinklo klaidelė)
-      const isTransient = status === 503 || status === 429 || !status;
+      // Patikriname ar tai 503, 429, rate limit, ar serverio perkrovimas tekste
+      const isTransient = 
+        status === 503 || 
+        status === 429 || 
+        status >= 500 ||
+        errString.includes('503') || 
+        errString.includes('Service Unavailable') || 
+        errString.includes('overloaded') ||
+        errString.includes('RESOURCE_EXHAUSTED');
 
       if (attempt === maxRetries || !isTransient) {
-        console.error(`❌ Gemini API galutinai palūžo po ${maxRetries} bandymų.`);
+        console.error(`❌ Gemini API galutinai nepavyko po ${maxRetries} bandymų. Paskutinė klaida:`, errString);
         throw error;
       }
 
-      // Eksponentinis laukimas: 3s, 6s, 12s...
-      const waitTime = delayMs * Math.pow(2, attempt - 1);
-      console.warn(`⚠️ Gauta ${status || 'tinklo'} klaida. Bandymas ${attempt}/${maxRetries} nepavyko. Kartojame po ${Math.round(waitTime / 1000)}s...`);
+      // Eksponentinis pauzės ilgis su mažytiu atsitiktiniu "jitter" intervalu
+      const jitter = Math.random() * 1000;
+      const waitTime = baseDelayMs * Math.pow(2, attempt - 1) + jitter;
+      
+      console.warn(`⚠️ Gemini serverio trukdis (bandymas ${attempt}/${maxRetries}). Laukiame ${Math.round(waitTime / 1000)}s ir bandome vėl...`);
       
       await new Promise((resolve) => setTimeout(resolve, waitTime));
     }
   }
-}
+} 
 
-  const response = await callGeminiWithRetry(async () => { 
+  const response = await callGeminiSafely(async () => { 
     return await ai.models.generateContent({
       model: 'gemini-3.8-flash',
       contents: prompt,
