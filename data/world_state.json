@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179300,
+  "cycle_id": 179301,
   "last_updated": "2026-11-03",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -35,13 +35,13 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_bauder_mars_c4",
-      "chapter": "Bauderio klajonės",
-      "character_id": "bauder",
-      "setting": "Marso PMD plantacijos, C4 kvadratas",
-      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
+      "id": "fragment_garlet_broker_mars",
+      "chapter": "Bandzinai–Marso ateitis / Bioprimatų streikas",
+      "character_id": "garlet_p",
+      "setting": "Transporteris link Majų centro",
+      "text": "Senas Žemės makleris Garletas P. perskaitė apie Marse dalinamus sklypus ir bandzinų derlių. Persistatęs rankinį laikrodį į Marso laiką ir ausinėse pasileidęs acid jazz, jis skrodė raudonąją atmosferą transporteriu, pasiruošęs kurti kreditus savo žetone."
     },
-    "real_world_fact": "US midterms: Americans vote in polls seen as referendum on Trump",
+    "real_world_fact": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
     "emotional_load": 0.5
   },
   "characters": [
