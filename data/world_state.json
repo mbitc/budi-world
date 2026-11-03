@@ -1,5 +1,5 @@
 {
-  "cycle_id": 179299,
+  "cycle_id": 179300,
   "last_updated": "2026-11-03",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.69,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.5,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -41,8 +41,8 @@
       "setting": "Marso PMD plantacijos, C4 kvadratas",
       "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
     },
-    "real_world_fact": "LA communities kick out Big Oil",
-    "emotional_load": 0.69
+    "real_world_fact": "US midterms: Americans vote in polls seen as referendum on Trump",
+    "emotional_load": 0.5
   },
   "characters": [
     {
