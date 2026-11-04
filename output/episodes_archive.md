@@ -360,3 +360,26 @@ Aja pažvelgė į grindimis bėgantį vabzdį, tada į Pijaus veidą. Jos šypse
 
 ---
 
+## [ CIKLAS 179304 ] — 2026-11-04
+- **Faktas:** "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels"
+- **Fragmentas:** Viešbučio stiklinis vestibiulis (`fragment_pijus_aje_meeting`)
+- **Emocinis krūvis:** 0.72 | **Sentimentas:** industrial_paranoia
+
+Šešioliktame aukšte laikas matavosi ne valandomis, o nelygiais vandens lašais, kritusiais į emaliuotą kriauklę iš prasidėjusio kalkėjimo vožtuvo. Pijus sėdėjo melsvame senuolių fotelyje, kurio porankiai jau buvo įsigėrę odos riebalų ir senų RIP cigarečių alyvų dūmo, o jo akys fiksavo vienintelį judantį objektą – indišką tarakoną, lėtai šliaužiantį palei grindjuostę link plazminio monitoriaus laidų raizginio.
+
+Vestibiulyje dvelkė sintetinė tvarka. Aja, vilkėdama griežtą uniformą, palietė berėmių akinukų rėmelį ir pastūmė ant stalo poliruotą metalinį padėklą. Triušio troškinys tviskėjo riebalų plėvele, šalia dūmo stulpeliu kilo karštas šokoladas. 
+
+– Pirminis protokolas baigtas, – pasakė ji, o balsas nuskambėjo pernelyg švariai šioje dulkėto betono erdvėje. – Žemės administracija atsiuntė ataskaitą. Brazilijos sektorinė taryba patvirtino dekarbonizacijos grafikoną. Perėjimas prie nulinės fosilinės taršos... skaičiai patvirtinti.
+
+Pijus netrūktelėjo. Jo nuovargio indeksas siekė devyniasdešimt devynis punktus; kiekvienas kaulas džiūvo lyg išdžiovintas silicis. Jis pakėlė žvilgsnį į plazminį ekraną, kuriame tviskėjo naujosios tvarkos grafikai. Pasaulis buvo nusprendęs išjungti savo senąsias anglies ir naftos venas, pakeisdamas jas steriliais biopradų srautais ir biurokratinėmis formulėmis. Tačiau čia, šešioliktame aukšte, kur sienų tinkas trupėjo nuo vibracijos, o vamzdžiai dainavo metalinį ilgį, šie įsakymai atrodė kaip abstrakčios raidės ant supuvusio popieriaus.
+
+Tuo metu toli pietuose, Bauderio ir Ko. priimamajame, geltonas silicio tirpalo užpildymo sistema pypsėjo kas tris sekundes, matuodama skysčio svorį. Bau, spaudžiantis IRC kanalą `#budi` portatyvo ekrane, kilstelėjo antakius. 
+
+– Žemė vėl žaidžia gelbėtojus, – murmėjo jis, stebėdamas, kaip pro stiklinį Marso stogą prasiskverbia blyški Deimo šviesa. – Atjungia kurą, bet pamiršta, kad šildymo sistemos tebėra suvirintos iš devintojo dešimtmečio plieno.
+
+Vauris, sėdėdamas Senojoje dechlorizacijos stotyje, toli nuo šio miesto triukšmo, spaudė rankose dūzgiančio skuterio guminius vairo rankenėles. Jo veidas buvo padengtas plonu radioaktyvių dulkių sluoksniu. Propano-azoto rūgšties židinys šnypštė, spjaudydamas melsvus kibirkščių purslus į tamsą. Jam nerūpėjo globalūs roadmapai ar Rio de Žaneiro biurokratų parašai. Jam reikėjo tik to, kad liepsna nepastoviai nemirksėtų, nes angliavandenilių epochos pabaiga čia, šiauriniame pakraštyje, reiškė tik viena – lėtą ir užtikrintą šaltį, ateinantį per nesandarias durų gumos tarpines.
+
+Aja palaukė, kol Pijus paims šaukštą, tačiau šis tik stebėjo, kaip karšto šokolado paviršiaus garas maišosi su alyvų dūmu. Pasaulis lėtai keitė degalų rūšį, bet trintis tarp metalo ir žmogaus liko nepakitusi.
+
+---
+
