@@ -33,17 +33,21 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node src/generate.js
 
-      - name: Commit and Push Logs & State
+      - name: Commit and push generated content
         run: |
-          git config --global user.name "budi-bot"
-          git config --global user.email "bot@budi.world"
-          
-          # Pridedame duomenų logus, archyvą ir GitHub Pages /docs katalogą
-          git add data/ output/ docs/
-          
-          # Jei nėra naujų pakeitimų, skriptas nesulūžta, o ramiai baigia darbą
-          git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]" || exit 0
-          
-          git pull origin main --rebase || true
+        git config --global user.name "budi-bot"
+        git config --global user.email "bot@budi.world"
     
-          git push origin main 
+        # Pridedame visus pakeitimus, įskaitant naujus ar pašalintus failus
+        git add -A
+    
+        # Užfiksuojame pakeitimus, jei tokių yra
+        git diff --staged --quiet || git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]"
+    
+        # Rebase su autostash – apsaugo nuo "unstaged changes" klaidos
+        git pull origin main --rebase --autostash || true
+    
+        # Bandome push'inti kelis kartus (jei GitHub išmeta Internal Server Error)
+        for i in {1..3}; do
+        git push origin main && break || sleep 5
+        done
