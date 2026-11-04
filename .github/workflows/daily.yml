@@ -35,19 +35,19 @@ jobs:
 
       - name: Commit and push generated content
         run: |
-        git config --global user.name "budi-bot"
-        git config --global user.email "bot@budi.world"
-    
-        # Pridedame visus pakeitimus, įskaitant naujus ar pašalintus failus
-        git add -A
-    
-        # Užfiksuojame pakeitimus, jei tokių yra
-        git diff --staged --quiet || git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]"
-    
-        # Rebase su autostash – apsaugo nuo "unstaged changes" klaidos
-        git pull origin main --rebase --autostash || true
-    
-        # Bandome push'inti kelis kartus (jei GitHub išmeta Internal Server Error)
-        for i in {1..3}; do
-        git push origin main && break || sleep 5
-        done
+          git config --global user.name "budi-bot"
+          git config --global user.email "bot@budi.world"
+      
+          # Pridedame visus pakeitimus, įskaitant naujus ar pašalintus failus
+          git add -A
+      
+          # Užfiksuojame pakeitimus, jei tokių yra
+          git diff --staged --quiet || git commit -m "chore(simulation): auto-generate cycle logs and docs [skip ci]"
+      
+          # Rebase su autostash – apsaugo nuo "unstaged changes" klaidos
+          git pull origin main --rebase --autostash || true
+      
+          # Bandome push'inti kelis kartus (jei GitHub išmeta Internal Server Error)
+          for i in {1..3}; do
+            git push origin main && break || sleep 5
+          done
