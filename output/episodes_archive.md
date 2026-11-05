@@ -383,3 +383,27 @@ Aja palaukė, kol Pijus paims šaukštą, tačiau šis tik stebėjo, kaip karšt
 
 ---
 
+## [ CIKLAS 179305 ] — 2026-11-05
+- **Faktas:** "Winners, losers, the EU: Five takeaways from the US midterms"
+- **Fragmentas:** Marso PMD plantacijos, C4 kvadratas (`fragment_bauder_mars_c4`)
+- **Emocinis krūvis:** 0.47 | **Sentimentas:** neutral_drift
+
+Marso C4 kvadrate stiklinis stogas traškėjo nuo naktinio temperatūros kritimo. Plieninės konstrukcijos traukėsi, išskirdamos sausą, metalinį tvaiką, maišymuose su biopradų salstelėjusiu kvapu. Septyniasdešimt trečiasis kvadratas pulsavo pagal 0.47 emocinio krūvio algoritmus – rinkimų lentos Žemėje atsiuntė atgarsius per relinius kanalus, o vietinis kapitalo perskirstymas reikalavo naujų parašų ant silicio lakštų.
+
+Bauderis užvertė purvinus batus ant gelžbetoninio stalo krašto. Jo portatyvas, prijungtas prie IRC kanalo `#budi`, be pertraukos dūzgė, siųsdamas pranešimus iš Atlanto vandenyno pakrantės zonos apie nugalėtojus ir pralaimėjusius biurokratus. 
+
+– Nulis taškų pergalės maržai, – prislopintu balsu tarė Bauderis, stebėdamas, kaip virš galvos pro dulkiną stiklą lėtai slenka Fobas. 
+
+Apatiniuose dumbležuose, 206-ojoje paralelėje, Garletas P. tikrino savo kostiumo siūlių tiesumą. Jo odos porose dar tūnojo Žemės oro kondicionierių drėgmė, o portatyve ausinėse toliau grojo monotoniškas *acid jazz*. Garletas pastūmė sunkias Majų administracijos centro duris, kur ponia Wau Ku (Ilis), lengvai palietusi jo rankovę manikiūruotais pirštais, nurodė į terminalą.
+
+– Rinkimų rezultatai atkeliavo per lėtai, Garletai, – jos balse skambėjo plieninis atvėsimas, persipynęs su raudonų plaukų aureolės ramybe. – Bandzinų plantacijų kreditai žetone devalvuoti keturiais procentais. Europos Sąjungos atstovai pasitraukė į C5 sektorių. Mes liekame vieni su savo biopradais.
+
+Tuo tarpu viešbučio 16-ajame aukšte Pijus sviedė nuorūką į pusiau pilną kriauklę. Čiaupas lašėjo tiksliu tridimensiniu intervalu – kas keturiasdešimt sekundžių vandens lašas atsitrenkdavo į emalį. Sienomis, vengdamas melsvo senuolių fotelio, lėtai šliaužė vienišas indiškas tarakonas, atvežtas dar pirmuoju krovininiu laivu iš Prahos. Pijus patrynė akis, kuriose tūnojo devyniasdešimt devynių procentų nuovargio indeksas, ir pasuko plazminio monitoriaus nustatymus į JAV vidurio kadencijos balsavimo suvestines. Algoritmai rodė stabilų nuostolį.
+
+Aja, nešina padėklu su karšto šokolado puodeliu ir triušio troškiniu, tyliai prašneko vestibiulyje:
+– Vauris pranešė iš dechlorizacijos stoties. Jo skuterio grandinė kelyje užsikirto nuo radioaktyvių dulkių.
+
+Senojoje dechlorizacijos stotyje Vauris sėdėjo ant kuro talpos, spausdamas dūzgiančio aparato vairą. Propano-azoto rūgšties židinys šnypštė, liepsnai netaisyklingai laižant betonines sienas. Jo izoliacijos indeksas siekė aštuoniasdešimt penkis punktus. Aplinkui tvyrojo švininė tyla, nutraukiama tik periodinio centrinio monitoriaus pranešimo apie silicio stoką Marso platybėse. Vauris lėtai atsigręžė į portatyvo ekraną, mirksintį Vašingtono antraštėmis, ir koja nustūmė tuščią konservų dėžutę į tamsų kampą. Pasaulis traukėsi iki matomo spindulio, o deimantinio laikotarpio prisiminimai tirpo, palikdami tik sausą, nudegusio silicio skonį burnoje.
+
+---
+

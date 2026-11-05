@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179304,
-  "last_updated": "2026-11-04",
+  "cycle_id": 179305,
+  "last_updated": "2026-11-05",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.72,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.47,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_aje_meeting",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio stiklinis vestibiulis",
-      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+      "id": "fragment_bauder_mars_c4",
+      "chapter": "Bauderio klajonės",
+      "character_id": "bauder",
+      "setting": "Marso PMD plantacijos, C4 kvadratas",
+      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
     },
-    "real_world_fact": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-    "emotional_load": 0.72
+    "real_world_fact": "Winners, losers, the EU: Five takeaways from the US midterms",
+    "emotional_load": 0.47
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179294,
-      "fact": "Brewers beat Rays 4-1 in Game 5 to win first World Series title in franchise history",
-      "fragment_id": "fragment_garlet_broker_mars",
-      "summary": "Transporterio kabinos hermetizacija šnypštė 1,2 baro pertekliumi. Garletas P. krumpliu patikrino apykaklės standumą: vilnonis Žemės audinys Marso 0,38 g gravitacijoje klostėsi nena..."
-    },
-    {
       "cycle": 179295,
       "fact": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "fragment_id": "fragment_vauris_dechloris",
@@ -265,6 +259,12 @@
       "fact": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
       "fragment_id": "fragment_pijus_aje_meeting",
       "summary": "Šešioliktame aukšte laikas matavosi ne valandomis, o nelygiais vandens lašais, kritusiais į emaliuotą kriauklę iš prasidėjusio kalkėjimo vožtuvo. Pijus sėdėjo melsvame senuolių fot..."
+    },
+    {
+      "cycle": 179305,
+      "fact": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "fragment_id": "fragment_bauder_mars_c4",
+      "summary": "Marso C4 kvadrate stiklinis stogas traškėjo nuo naktinio temperatūros kritimo. Plieninės konstrukcijos traukėsi, išskirdamos sausą, metalinį tvaiką, maišymuose su biopradų salstelė..."
     }
   ]
 }
