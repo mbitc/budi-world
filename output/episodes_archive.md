@@ -407,3 +407,28 @@ Senojoje dechlorizacijos stotyje Vauris sėdėjo ant kuro talpos, spausdamas dū
 
 ---
 
+## [ CIKLAS 179306 ] — 2026-11-06
+- **Faktas:** "France: More than 600,000 protest as anger grows over cost of living"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Senojo dechlorizacijos bokšto betoninės sienos prakaitavo. Drėgmė rinkosi į storus lašus ir teliūskuodama krito į surūdijusį lataką. Vauris sėdėjo ant apverstos kuro talpos, abiem delnais spausdamas dūzgiančio skuterio vairą. Fatiguotumas – 89 procentai – spaudė smilkinius kaip hidraulinis presas. Buveinės viduryje šnypštė propano-azoto rūgšties židinio liepsna. Jos melsvas liežuvis laižė nerūdijančio plieno purkštuką, degindamas deguonį ir slopindamas praeities ilgesį.
+
+Portatyvas ant stalelio trūktelėjo. Antenos indikatorius sumirksėjo tris kartus, priimdamas paketą iš 206-osios paralelės. Pranešimo slėgis viršijo leistinas ribas: *Paryžius. Šeši šimtai tūkstančių vienetų. Gyvenimo kainos indeksas kirto raudonąją zoną.* Vauris neskaitė teksto giliau – jis žinojo algoritmo sintaksę. Kai kilovatvalandės kaina viršija duonos gramo ekvivalentą, masės pradeda trintis į betoną. Skersai Senosios Žemės gatvių nusidriekė kūnai, reikalaujantys išjungti skaitliukus.
+
+– Šeši šimtai tūkstančių, Bau, – Vauris sumurmėjo į tamsą, nors ryšio linija į Bauderio krautuvėlę buvo atvira tik dalinai.
+
+Bauderis (Bau), sėdėdamas savo priimamajame tarp melsvo barhato plokščių, tuo metu tikrino silicio tirpalo užpildymo sistemą. Jo nuovargis siekė 74 procentus, bet izoliacijos indeksas buvo žemas – tik 40. 
+
+– Tegul rėkia, – atsakė Bauderis per portatyvą, girdėdamas kavos aparato cypimą. – Kol silicio tirpalas laša į bakelius po tris centus litrui, revoliucija yra tik papildoma eilutė biudžeto ataskaitoje. Įpilk man karšto, Vauri. Arba paspoksok į savo liepsną, kol ji neišsikrovė.
+
+Tuo tarpu 16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo nuovargis rodė kritinę ribą – 99 procentus. Ant melsvo senuolių fotelio atlošo gulėjo neišrūkyta RIP cigaretė su alyvų aromatu. Pijus seka akimis vienišą indišką tarakoną, kuris lėtai ropojo per plazminio monitoriaus rėmą. Sienos tyla spengė ausyse. Žemiau, vestibiulyje, Aja beremiais akinukais užrašinėjo naujus tarifus į popierinį bloknotą, o kavinukėje gurkšnojo karštą šokoladą, stebėdama, kaip padėkle džiūsta triušio troškinio likučiai.
+
+Majų administracijos centre Garletas P. tiesinosi kostiumo siūles. Jo portatyve grojo acid jazz, bet mintys sukosi apie bandzinų plantacijų kreditus žetone. Ponia Wau Ku (Ilis), praeidama pro šalį su raudonų plaukų aureole, švelniai prisilietė manikiūruotu pirštu prie jo peties.
+
+– Kainos auga net Marso kvadrante, Garletai, – pasakė ji ramiu, vėsioje patalpoje nuskambėjusiu balsu. – Žemė siunčia mums savo riksmą per subyrėjusius kabelius.
+
+Vauris uždarė portatyvo dangtį. Židinys šnypštė, spjaudydamas azoto purslus ant betono grindų. Centrinis monitorius mirktelėjo, primindamas apie silicio stoką. Dechlorizacijos bokšto orą darsyk persmelkė sunkus, suodinas degėesių kvapas.
+
+---
+
