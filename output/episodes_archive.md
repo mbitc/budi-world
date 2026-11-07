@@ -432,3 +432,26 @@ Vauris uždarė portatyvo dangtį. Židinys šnypštė, spjaudydamas azoto pursl
 
 ---
 
+## [ CIKLAS 179307 ] — 2026-11-07
+- **Faktas:** "Could Trump’s veto stop the Democratic majority?"
+- **Fragmentas:** Majų administracijos centro vestibiulis ir užeigėlė (`fragment_wau_ku_meeting`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Majų administracijos centro vestibiulis tvaikė ozonu ir sausu, perfiltruotu Marso slėgiu. Automatai kampe kvaksėjo metaliniais snapais, išspjaudami geltonus biogenomų talonus. Virš galvų besisukantys ventiliatoriai traškėjo – jų guoliams trūko grafito tepalo.
+
+Garletas P. tikrino kostiumo siūlių tiesumą. Jo portatyve iš ausinių skverbėsi duslus *acid jazz* boso linijos dumblas, susimaišęs su bendros salės ventiliacijos ūžesiu. Dešinėje rankoje jis gniaužė pateikimo dokumentus, kurių popierius buvo nusitrynęs nuo prakaituotų pirštų. Marso laikas ekrane rodomame rankiniame laikrodyje šokinėjo per tris sekundes į priekį – centrinis sinchronizatorius vėl klydo.
+
+Zujant autonominiams valymo robotams, Garleto petį palietė manikiūruoti pirštai. 
+
+Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis. Jos raudonų plaukų aureolė degė dirbtinėje vestibiulio šviesoje, o berėmiai akiniai atspindėjo švieslentes. Viršuje, centriniame valdybos ekrane, be perstojo sukosi naujienų srautas iš Žemės parlamento: *Ar Kongreso veto blokuos daugumos prerogatyvas?* Tekstas šokinėjo raudonomis eilutėmis, pulsuodamas 0.5 procento biudžeto disbalansu.
+
+– Žaidimo taisyklės nesikeičia, Garletai, – tarė Ilis, švelniai prisiliesdama prie jo rankovės. – Veto mechanizmas sukurtas tam, kad stabdytų srautus. Jei dauguma ima judėti per greitai, relės tiesiog išmuša saugiklius. Čia, po stikliniu stogu, principas tas pats. Tik vietoj Kongreso – deguonies limitas.
+
+Sėdint užeigėlėje prie besileidžiančios saulės, pro dulkėtą stiklą matėsi Deimo siluetas. Pokalbis liejosi bendromis formuluotėmis apie transformaciją, Marso realybę ir bandzinų plantacijų maržą. Garletas klapsėjo pirštais į stalo paviršių, galvodamas apie kreditus žetone. 
+
+Tuo metu 16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo plazminis monitorius bukai dūzgė, o melsvame senuolių fotelyje dūmėjo lengva RIP cigaretė su alyvų aromatu. Kriauklėje ritmiškai lašėjo vanduo – *tikt, tikt*. Sienomis lėtai ropojo vienišas indiškas tarakonas, matuodamas savo instinktais kambario entropiją. Pijaus nuovargis siekė devyniasdešimt devynis procentus; jo asmeninis algoritmas jau seniai nebeisjungė minčių apie sisteminį griuvimą.
+
+Toli nuo jų, Senojoje dechlorizacijos stotyje, Vauris stebėjo propano-azoto rūgšties židinio liepsną. Jo izoliacijos indeksas blykčiojo ties aštuoniasdešimt penkiais. Skuterio variklis atvėso, o centrinis monitorius silpna gintarine spalva pranešė apie kritinę silicio stoką. Pasaulis traškėjo per siūles, o veto – nesvarbu, Vašingtone ar Marso administracijoje – tebėra tik dar viena spyna ant surūdijusių durų.
+
+---
+
