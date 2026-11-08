@@ -455,3 +455,26 @@ Toli nuo jų, Senojoje dechlorizacijos stotyje, Vauris stebėjo propano-azoto r�
 
 ---
 
+## [ CIKLAS 179308 ] — 2026-11-08
+- **Faktas:** "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.73 | **Sentimentas:** industrial_paranoia
+
+Šešioliktame aukšte laikas turėjo savo svorį. Jis krito iš čiaupo kas pusantros sekundės: *lašt* — metalinis cinkptelėjimas į emaliuotą kriauklę, *lašt* — drėgmės tvaikas ant silicio plokščių. Pijus tūnojo melsvame senuolių fotelyje, įtraukęs į plaučius lengvą RIP cigaretės alyvų dūmą. Jo regos lauke, ant šviesaus betono grindjuostės, chitininiu šarvu mirtinai lėtai vilktinosi indiškas tarakonas. 
+
+Sesę Ają šiandien buvo užvaldęs struktūrinis tikslumas. Vestibiulyje ji braukė beremiais akinukais per užrašinę, skaičiuodama triušio troškinio porcijas, o portatyvo garsiakalbis plonai siuntė žinias iš Pietų pusrutulio. Tarp dulkėtų betono pertvarų ir sudrėkusio silicio laidų Urugvajaus transliavimo dažnis strigo, trūkinėjo, bet skaitmeninis srautas nepasidavė: daugiau nei keturiasdešimt tūkstančių kūnų sumaitota į vieną masę po atviru storu dangumi. Popiežius Leonas XIV aukojo Mišias. Milžiniškame ekrane, kurio kraštai jau seniai mirgėjo žaliais pikselių dryžiais, judėjo tūkstančiai galvų, kilnotos rankos, monotoniškas giedojimas, persipynęs su statine elektra ir degalų tvaiku.
+
+Pijus nusviedė nuorūką į sausą metalinį indą. Jo pavargusios akys, išmargintos kapiliarų tinklo, grįžo prie monitoriaus. Sąmoningos absoliuto sistemos kodas praleido tris tūkstančius eilučių. Algoritmas reikalavo per daug durenčiųjų kintamųjų, o kranas vis lašėjo.
+
+„Keturiasdešimt tūkstančių gyvų mazgų,“ – prislopintu balsu suburzgė Pijus, pirštais braukdamas per klaviatūros plastiko tarpelius, kur dešimtmečiais kaupėsi pilkos dulkės.
+
+Tuo metu Bauderis (Bau) savo krautuvėlėje Marso C4 kvadrate, stumtelėjęs silicio tirpalo užpildymo sistemą į šalį, gaudė tą patį signalą per IRC kanalą `#budi`. Šviesus melsvas barhatas ant suoliukų sugėrė kondicionieriaus vėsą. Bau gurkšnojo tirštą karštą šokoladą, stebėdamas, kaip jo portatyvo ekrane keičiasi skaičiai.
+
+— Keturiasdešimt tūkstančių... — dantis iššiepė Bauderis, pasilenkęs arčiau stiklinio stogo, virš kurio danguje jau brėžėsi rausvi Deimo ir Fobo kontūrai. — Žemė vis dar perpildyta biologinio kuro. Jiems reikia masinių susirinkimų tam, kad pajustų savo paties pulso pasipriešinimą gravitacijai.
+
+Tylą nutraukė sistemos automatų kvaksėjimas Majų administracijos centre. Ponia Wau Ku, liesdama stiklinio užeigos staliuko prieigą manikiūruotais pirštais, stebėjo Garletą P., kuris nervingai tikrino kostiumo siūlių tiesumą. Jo portatyve tyliai grojo *acid jazz*, bet mintys sukosi apie bandzinų plantacijų kreditus žetone ir viltį, kad net ir tokioje planetoje kaip Marsas pavyks parduoti šiek tiek tikėjimo arba bent jau pelningos statistikos.
+
+O toliau į šiaurę, Senojoje dechlorizacijos stotyje, Vauris sėdėjo ant dūzgiančio skuterio vairo, spardydamas batų nosimis sudrėkusį betoną. Propano-azoto rūgšties židinys šnypštė, spjaudamas melsvą ugnies liežuvį į tamsų patalpos kampą. Jo izoliacijos indeksas siekė 85 procentus. Jam nereikėjo jokių popiežių ar keturiasdešimt tūkstančių tikinčiųjų minių. Jam pakako to, kad liepsna šildė delnus, o silicio trūkumo pranešimas mirksėjo centrinio monitoriaus ekrane lygiai taip pat ritmiškai, kaip lašėjo vanduo Pijaus viešbučio kambaryje. Pasaulis traškėjo relinėmis jungtimis, bet mechanika dar sukinėjosi.
+
+---
+
