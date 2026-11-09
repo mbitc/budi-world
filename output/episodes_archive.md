@@ -478,3 +478,24 @@ O toliau į šiaurę, Senojoje dechlorizacijos stotyje, Vauris sėdėjo ant dūz
 
 ---
 
+## [ CIKLAS 179309 ] — 2026-11-09
+- **Faktas:** "Homes and temples glow across India to mark Diwali"
+- **Fragmentas:** Viešbučio stiklinis vestibiulis (`fragment_pijus_aje_meeting`)
+- **Emocinis krūvis:** 0.8 | **Sentimentas:** industrial_paranoia
+
+Šešioliktajame aukšte oras smirdėjo drėgna vilna ir senu linoleumu. Pijus sėdėjo melsvame senuolių fotelyje, pirštais braukdamas per nušiurusio porankio siūles. Ant plazminio monitoriaus stiklo kybojo vienišas indiškas tarakonas – jo chitinotas, alyvinio atspalvio skydelis pulsuodamas kartojo kompiuterio ventiliatoriaus ciklą. Pijaus nuovargis siekė šimtą procentų; izoliacijos indeksas buvo perkopęs visas ribas, palikdamas tik mechaninį pulso traškėjimą smilkiniuose.
+
+Stikliniame vestibiulyje durų vyriai dūzgė tyliai. Aja stovėjo prie plazminio monitoriaus, pasitaisydama berėmius akinukus. Jos rankose traškėjo emaliuotas padėklas. Ji atnešė triušio troškinį, kurio riebalų plėvelėje atsispindėjo blausios, pulsuojančios švieselės. Žemėje šiandien šventė – *Diwali*. Tūkstančiai diodinių lempučių ir silicio papirusų žibėjo Kalkutos ir Delio dumbležuose, degindami naftos likučius ir valgyklų riebalus. Šviesa kirto orą net per orbitinius retransliatorius, pasiekdama netgi šį Marso stiklo gaubtą. Aja padėjo padėklą ant stalo; metalas atsitrenkė į stiklą su sausu *dzz* garsu.
+
+– Administratorės pasikeitimas užregistruotas, – tarė ji, šypsodamasi siaura, įsitempusia lūpų linija. Ji gurkšnojo karštą šokoladą, tirštą kaip mašininis tepalas. 
+
+Pijus pakėlė akis į stiklinį stogą. Už jo, virš C4 kvadrato, tviskėjo tolimi, sintetiniai žiburiai. Žemės transliacija plūdo per portatyvus: milžiniški laužai ir šventyklų fasadai mirgėjo terminalų ekranuose, imituodami gyvenimą, kurio seniai nebuvo. Pijus užtraukė lengvą RIP cigaretę. Alyvų aromatas susimaišė su deginto triušio kvapu. 
+
+Tuo metu Bauderis savo krautuvėlėje stebėjo tą patį signalą per IRC kanalą `#budi`. Silicio tirpalo užpildymo sistema pranešė apie sumažėjusį slėgį. Ba (fatigue: 81) nusijuokė, trindamas delnu nuskustą pakaušį, ir įpylė dar porciją tirpios kavos. 
+
+– Vėl tie hinduistų diodai, – pasakė jis į tuščią patalpą. – Net dešimtmečius po katastrofos moka deginti elektrą gražiau už mus.
+
+Už dviejų šimtų kilometrų, senojoje dechlorizacijos stotyje, Vauris sėdėjo prie propano-azoto rūgšties židinio. Liepsna šnypštė, spjaudydama žalias kibirkštis ant betoninių grindų. Jo skuterio variklis tebebuvo karštas nuo kelionės per dumbležus. Vauris neskaitė žinių apie jokias šventes; jis tik jautė, kaip švino dulkės lėtai nusėda ant jo striukės peties, o portatyvo ekrane mirguliuoja tie patys tolimi, bereikšmiai mirksniai iš planetos, kurios paviršius jau seniai baigė degti.
+
+---
+
