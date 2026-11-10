@@ -499,3 +499,32 @@ Už dviejų šimtų kilometrų, senojoje dechlorizacijos stotyje, Vauris sėdėj
 
 ---
 
+## [ CIKLAS 179310 ] — 2026-11-10
+- **Faktas:** "France accuses Iran of supermarket fridge hacking"
+- **Fragmentas:** Marso PMD plantacijos, C4 kvadratas (`fragment_bauder_mars_c4`)
+- **Emocinis krūvis:** 0.27 | **Sentimentas:** neutral_drift
+
+Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą kosminę radiaciją, nusėdusią ant stalo dulkėmis. Septyniolikmetis Bauderis užvertė kojas įsispyręs į nutrintus batus ant metalinio paviršiaus. 
+
+– Ir ką jie padarys? – Bauderis dbtelėjo į portatyvo ekraną, kuriame IRC kanale #budi degė mirksintis žymeklis. – Atjungs šaldytuvus? Čia Marsas, seni. Čia viskas šąla be jokių programišių įsikišimų.
+
+Šalia stovinti silicio tirpalo užpildymo sistema sumurmėjo, išspjovusi porą lašų alyvos ant linoleumo. C4 kvadrate 743 biopradai lėtai judėjo po permatomais kupolais, vykdydami azoto apykaitos normatyvus. Deimas ir Fobas virš galvų lėtai keitė padėtis, o viršutiniame kavinukės taške naujoji administratorė Aja dėliojo padėklą su triušio troškiniu, jos beremiai akinukai šiek tiek rasojo nuo karšto garo.
+
+Tuo metu Žemės ryšių kanaluose – Paryžiaus ir Teherano skaitmeninio arbitražo linijose – kunkuliavo sena, bet vėl atgijusi įtampa. Prancūzijos energetikos inspekcija oficialiai pareiškė, kad nuotolinis programinis įsilaužimas sutrikdė prekybos tinklų šaldymo įrenginių kompresorius. Tačiau čia, C4 kvadrate, kompresoriai dūzgė savaip: jų varikliai dildė guolius, o alyva teliuoskavo senose talpose.
+
+– Teheranas ar Paryžius, – pro šalį eidamas sumurmėjo Garletas P., tikrindamas savo kostiumo siūlių tiesumą. Jo portatyve grojo lėtas acid jazz, o rankinis laikrodis jau trečią kartą per valandą bandė prisitaikyti prie Marso gravitacinio laiko. – Visi ieško laimės pelno maržose, o gedimai visada prasideda nuo nusidėvėjusio relinio jungiklio šaldytuvo bloke.
+
+Senojoje dechlorizacijos stotyje Vauris sėdėjo sustingęs. Jo izoliacijos indeksas siekė 85, o nuovargis – 94 procentus. Jis lėtai spaudė dūzgiančio skuterio vairą, stebėdamas, kaip propano-azoto rūgšties židinys mėtė melsvus, kapiliarinius šešėlius ant aprūkusių sienų. Centrinis monitorius vėl pranešė apie kritinę silicio stoką. Vauris tylėjo jau šešias valandas; portatyvo ci-di grotuve sukosi subraižytas diskas, kurio adata šokinėjo tuo pačiu ritmu perdegusio transformatoriaus gausme.
+
+Pijus, sėdėdamas viešbučio 16-ajame aukšte, traukė lengvą RIP cigaretę su alyvų aromatu. Jo melsvas senuolių fotelis girgžtėjo kiekvieną kartą, jam atsikvėpus. Sienomis lėtai, beveik nejuntamai, ropoja vienišas indiškas tarakonas – vienintelė gyva sąmoninga sistema šiame betono ir dulkių blokete, kurio kriauklėje monotoniškai lašėjo čiaupas.
+
+– Tegul laužia tuos šaldytuvus, – Pijus išpūtė melsvą dūmą į saulės spindulį, kurio dulkutės šokinėjo kaip mirusios žvaigždutės. – Kol kompresorius gyvas, tol skaičiai bėga.
+
+Ponia Wau Ku (Ilis) Majų administracijos centre švelniu, manikiūruotu pirštu palytėjo stalinio terminalo ekraną. Jos raudonų plaukų aureolė sužibo po neonine lempa, kai ji patvirtino naują kreditų žetonų transakciją.
+
+– Elegancija nereikalauja atsakymų iš Žemės, – pasakė ji pati sau, stebėdama, kaip sisteminiai automatai koridoriuje kvaksi pateikdami naujas ataskaitas apie bandzinų plantacijų derlių.
+
+Bauderis vėl pasilenkė prie IRC kanalo, užkando skrudinto biskvito ir, stebėdamas pro stiklinį stogą krintančias rausvas Marso dulkes, paspaudė klavišą. Sistema tylesnio ciklo nesiuntė – tik traškėjo laidai ir degė sena, nusidėvėjusi silicio grandinė.
+
+---
+

@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179309,
-  "last_updated": "2026-11-09",
+  "cycle_id": 179310,
+  "last_updated": "2026-11-10",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.8,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.27,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_aje_meeting",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio stiklinis vestibiulis",
-      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+      "id": "fragment_bauder_mars_c4",
+      "chapter": "Bauderio klajonės",
+      "character_id": "bauder",
+      "setting": "Marso PMD plantacijos, C4 kvadratas",
+      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
     },
-    "real_world_fact": "Homes and temples glow across India to mark Diwali",
-    "emotional_load": 0.8
+    "real_world_fact": "France accuses Iran of supermarket fridge hacking",
+    "emotional_load": 0.27
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 96,
+        "fatigue": 94,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 81,
+        "fatigue": 79,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 100,
+        "fatigue": 98,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 66,
+        "fatigue": 64,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 86,
+        "fatigue": 84,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 71,
+        "fatigue": 69,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179305,
-      "fact": "Winners, losers, the EU: Five takeaways from the US midterms",
-      "fragment_id": "fragment_bauder_mars_c4",
-      "summary": "Marso C4 kvadrate stiklinis stogas traškėjo nuo naktinio temperatūros kritimo. Plieninės konstrukcijos traukėsi, išskirdamos sausą, metalinį tvaiką, maišymuose su biopradų salstelė..."
-    },
-    {
       "cycle": 179306,
       "fact": "France: More than 600,000 protest as anger grows over cost of living",
       "fragment_id": "fragment_vauris_dechloris",
@@ -265,6 +259,12 @@
       "fact": "Homes and temples glow across India to mark Diwali",
       "fragment_id": "fragment_pijus_aje_meeting",
       "summary": "Šešioliktajame aukšte oras smirdėjo drėgna vilna ir senu linoleumu. Pijus sėdėjo melsvame senuolių fotelyje, pirštais braukdamas per nušiurusio porankio siūles. Ant plazminio monit..."
+    },
+    {
+      "cycle": 179310,
+      "fact": "France accuses Iran of supermarket fridge hacking",
+      "fragment_id": "fragment_bauder_mars_c4",
+      "summary": "Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą kosminę radiaciją, nusėdusią ant stalo dulkėmis. Septyniolikmetis Bauderis užvert..."
     }
   ]
 }
