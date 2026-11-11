@@ -528,3 +528,28 @@ Bauderis vėl pasilenkė prie IRC kanalo, užkando skrudinto biskvito ir, stebė
 
 ---
 
+## [ CIKLAS 179311 ] — 2026-11-11
+- **Faktas:** "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities"
+- **Fragmentas:** Bauderio ir Ko. klientų priimamasis (`fragment_bauder_reception`)
+- **Emocinis krūvis:** 0.65 | **Sentimentas:** industrial_paranoia
+
+Bauderio ir Ko. klientų priimamajame kondicionierius ūžė tolygiai, spausdamas 20 laipsnių celsijaus šaltį per melsvas plastiko plokštes. Vauris įgriuvo į minkštą barhato krėslą, o jo elektrinis skuteris liko dūgzti lauke, ant suskilinėjusio asfaltbetonio, šalia drėgmės ir tepalų balų. Vaurio nuovargio indeksas siekė 96 punktus – dešinysis delnas tebebuvo aptirpęs nuo propano-azoto rūgšties židinio vibracijų, o švininė danga akyse traukėsi plonu dykumų dulkelių sluoksniu.
+
+Bauderis iš už stiklo plokštės pakėlė akis nuo silicio tirpalo užpildymo sistemos. Jo žvilgsnis slydo per IRC kanalą #budi ekrane, kur rotavo paskutiniai pranešimai iš Žemės logistikos mazgų. 
+
+– Karšto šokolado? – Bau sviedė frazę per patalpą, kurios entropija siekė vos dvidešimt procentų. – Tik atsargiau su puodeliu. Emalė trūksta nuo vibracijos.
+
+Vauris linktelėjo. Jo mintys strigo dulkėtose raukšlėse, tarp senų Marso C4 sektoriaus brėžinių ir dabartinės realybės. Tuo metu portatyvas stalo kampe supypėjo, priimdamas paketo metaduomenis iš Majų administracijos centro, kur ponia Wau Ku ir senasis makleris Garletas P. derino kreditų žetonus. 
+
+Ekrane įsižiebė perimta žinių siunta iš Senojo Pasaulio perėjų. Rafacho koridoriaus vaizdai peršoko į stebėjimo monitorius: dulkėti sunkvežimiai, gelžbetonio nuolaužos ir sportinis bolido numeris, pririštas prie humanitarinės kolonos šono. Lewis Hamilton – britų pilotas, įpratęs prie tūkstantųjų sekundės dalių ir asfalto trinties Monace, – lėtai žingsniavo per metalines riboženklių plokštes, o aplink jį pulsuoja sausa, sacharietiška viltis ir dykumos smėlis. Aja, naujoji viešbučio administratorė, stovėdama greta, stropiai užsirašė skaičius į berėmę užrašinę: *„Penkiolika sunkvežimių. Maisto paketai. Medicininis silicis.“*
+
+– Žiūrėk, – Vauris priglaudė pirštus prie karšto šokolado puodelio, jausdamas keraminio indo šilumą priešingai nei savo odos šalį. – Jie vis dar skaičiuoja tonas. Net po visko. Net kai Askezyje skruzdėlynas valdo kiekvieną ramybės siekiantį nervą.
+
+Bauderis nusijuokė, sausai ir trumpai, barkštelėdamas šaukšteliu į stiklą. 
+
+– Marso bandzinų plantacijoms reikia vandens, Vauri. O ne pilotų pirštinių ant Rafacho betono. Bet sistema veikia. Kol lemputės mirksi, mes egzistuojame.
+
+Priimamojo gilumoje Aja pakėlė padėklą su triušio troškiniu, o tolimame 16-ajame viešbučio aukšte Pijus jau valandas stebėjo vienišą indišką tarakoną, ropojantį plazminio monitoriaus kraštu. Alyvų aromato RIP cigaretės dūmas lėtai kilo prie lubų, kur lašėjo vandens čiaupas, matuodamas sekundes iki kito sisteminio audito.
+
+---
+
