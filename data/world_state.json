@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179311,
-  "last_updated": "2026-11-11",
+  "cycle_id": 179312,
+  "last_updated": "2026-11-12",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.65,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.57,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_bauder_reception",
-      "chapter": "Budi liūdesys",
-      "character_id": "vauris",
-      "setting": "Bauderio ir Ko. klientų priimamasis",
-      "text": "Askezyje knibždantis skruzdėlynas konvulsiškai valdė ramybės siekiančius žmones. Vauris įžengė į Bauderio ir Ko. priimamąjį, kur smėliavo plastiko plokštės saulėje virto melsvo barhato fantazija. Įsmukęs į minkštą krėslą su karštu šokoladu, iš pasąmonės išritino klausimą apie Marso bandzinų plantacijas."
+      "id": "fragment_pijus_16th_floor",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio 16-as aukštas",
+      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
     },
-    "real_world_fact": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-    "emotional_load": 0.65
+    "real_world_fact": "Thousands march to mark Poland’s Independence Day",
+    "emotional_load": 0.57
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 96,
+        "fatigue": 97,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 81,
+        "fatigue": 82,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 66,
+        "fatigue": 67,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 86,
+        "fatigue": 87,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 71,
+        "fatigue": 72,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179307,
-      "fact": "Could Trump’s veto stop the Democratic majority?",
-      "fragment_id": "fragment_wau_ku_meeting",
-      "summary": "Majų administracijos centro vestibiulis tvaikė ozonu ir sausu, perfiltruotu Marso slėgiu. Automatai kampe kvaksėjo metaliniais snapais, išspjaudami geltonus biogenomų talonus. Virš..."
-    },
-    {
       "cycle": 179308,
       "fact": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
       "fragment_id": "fragment_pijus_16th_floor",
@@ -265,6 +259,12 @@
       "fact": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
       "fragment_id": "fragment_bauder_reception",
       "summary": "Bauderio ir Ko. klientų priimamajame kondicionierius ūžė tolygiai, spausdamas 20 laipsnių celsijaus šaltį per melsvas plastiko plokštes. Vauris įgriuvo į minkštą barhato krėslą, o ..."
+    },
+    {
+      "cycle": 179312,
+      "fact": "Thousands march to mark Poland’s Independence Day",
+      "fragment_id": "fragment_pijus_16th_floor",
+      "summary": "Šešioliktas aukštas kvepėjo sudegusiu tekstolitu ir drėgnu tinku. Pijus sėdėjo melsvame senuolių fotelyje, kojos atremtos į radiatoriaus briauną, kurios temperatūra neviršijo trisd..."
     }
   ]
 }

@@ -553,3 +553,32 @@ Priimamojo gilumoje Aja pakėlė padėklą su triušio troškiniu, o tolimame 16
 
 ---
 
+## [ CIKLAS 179312 ] — 2026-11-12
+- **Faktas:** "Thousands march to mark Poland’s Independence Day"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.57 | **Sentimentas:** neutral_drift
+
+Šešioliktas aukštas kvepėjo sudegusiu tekstolitu ir drėgnu tinku. Pijus sėdėjo melsvame senuolių fotelyje, kojos atremtos į radiatoriaus briauną, kurios temperatūra neviršijo trisdešimt keturių laipsnių. Plazminio monitoriaus stiklas rėmėsi į prieblandą, rodydamas ciklinę klaidą: *segmentation fault @ 0xFF81*. Čiaupas kampinėje kriauklėje lašėjo tiksliu, metronominiu dažniu – po vieną lašą kas keturiasdešimt sekundžių. Vanduo riedėjo per kalkių apnašų provėžą, palikdamas žalsvą pėdsaką.
+
+Ant briaunuoto palangės betono tūnojo indiškas tarakonas – jo chitinotas karkasas blizgėjo kaip naujai nuvalytas tepalo filtras. Pijus prisidegė RIP cigaretę su alyvų aromatu. Dūmas nusėdo plonu sluoksniu ant klaviatūros mygtukų.
+
+Per portatyvo garsiakalbį, kurį Aja buvo palikusi vestibiulyje ir kurio signalas prasiskverbė pro senas ventiliacijos angas, skambėjo Varšuvos transliacijos fragmentas. Perdavimo juosta traškėjo nuo statinio krūvio, bet skaičiai buvo tikslūs: dešimtys tūkstančių eina per centrines arterijas, batų padai trina seną asfaltą, nešdami raudonai baltas juostas per švininį lapkričio dangų. Minia judėjo lėtai, kaip tirštas silicio tirpalas vamzdyje, kurio slėgis viršija leistinas ribas. Fizinis masės svoris – trys tonos vienam metrui – spaudė ekranus ir privertė relinius jungiklius trūkinėti.
+
+Pijus pasuko galvą į tarakoną. Vabzdys nejudėjo, tik virpino ilgas antenas, gaudydamas oro vibracijas nuo tolimo radijo signalo.
+
+– Jie eina, – pasakė Pijus tamsiai sienai. Jo balsas skambėjo sausai, lyg smėlis brūžintų stiklą.
+
+Sistemos entropija šešioliktame aukšte siekė trisdešimt penkis procentus. Tuo tarpu Bauderis savo krautuvėlėje Varšuvos gatvėje (dabar jau tik pavadinimas žemėlapyje) valė kavos aparato filtrą, stebėdamas IRC kanalo eilutes, kur tūkstančiai vartotojų skundėsi tuo pačiu – oro drėgmė viršijo devyniasdešimt procentų, o portatyvų baterijos seko greičiau nei pernai. Garletas P., sėdėdamas Majų administracijos centre, tikrino savo rankinio laikrodžio Marso laiką ir vėl lygino kostiumo siūlės tiesumą su horizontu.
+
+Pijus pamerkė akį tarakonui, paspaudė *Enter* klavišą ir laukė, kol absoliuto sistema sugeneruos bent vieną teisingą atsakymą į šios dienos statistika virtusį žygiuojančiųjų triukšmą.
+
+***
+
+**DIENOS ĮRAŠAS: 0514-B**
+- **Lokacija:** Viesbučio 16-as aukštas / Senoji dechlorizacijos stotis
+- **Entropijos koeficientas:** 41.2%
+- **Veikėjų būsenos metrika:** Pijaus izoliacija pakilo iki 92%, Vaurio kuras baigiasi (likutis: 4 litrai), Bauderio silicio tirpalas stabilus.
+- **Pastabos:** Radijo transliacija iš Varšuvos sukėlė rezonansą portatyvų grandinėse. Trūksta 0.5 mm varinių varžtų ventiliacijos tvirtinimui. Lašėjimas kriauklėje sulėtėjo iki penkiasdešimties sekundžių.
+
+---
+
