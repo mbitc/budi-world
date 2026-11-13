@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179312,
-  "last_updated": "2026-11-12",
+  "cycle_id": 179313,
+  "last_updated": "2026-11-13",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.57,
-    "dominant_sentiment": "neutral_drift"
+    "emotional_load": 0.84,
+    "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_16th_floor",
+      "id": "fragment_pijus_aje_meeting",
       "chapter": "Šešioliktas Pijaus aukštas",
       "character_id": "pijus",
-      "setting": "Viešbučio 16-as aukštas",
-      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
     },
-    "real_world_fact": "Thousands march to mark Poland’s Independence Day",
-    "emotional_load": 0.57
+    "real_world_fact": "Misiorowski and Schlittler win MLB Cy Young Awards",
+    "emotional_load": 0.84
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 97,
+        "fatigue": 100,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 82,
+        "fatigue": 86,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 67,
+        "fatigue": 71,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 87,
+        "fatigue": 91,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 72,
+        "fatigue": 76,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179308,
-      "fact": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-      "fragment_id": "fragment_pijus_16th_floor",
-      "summary": "Šešioliktame aukšte laikas turėjo savo svorį. Jis krito iš čiaupo kas pusantros sekundės: *lašt* — metalinis cinkptelėjimas į emaliuotą kriauklę, *lašt* — drėgmės tvaikas ant silic..."
-    },
-    {
       "cycle": 179309,
       "fact": "Homes and temples glow across India to mark Diwali",
       "fragment_id": "fragment_pijus_aje_meeting",
@@ -265,6 +259,12 @@
       "fact": "Thousands march to mark Poland’s Independence Day",
       "fragment_id": "fragment_pijus_16th_floor",
       "summary": "Šešioliktas aukštas kvepėjo sudegusiu tekstolitu ir drėgnu tinku. Pijus sėdėjo melsvame senuolių fotelyje, kojos atremtos į radiatoriaus briauną, kurios temperatūra neviršijo trisd..."
+    },
+    {
+      "cycle": 179313,
+      "fact": "Misiorowski and Schlittler win MLB Cy Young Awards",
+      "fragment_id": "fragment_pijus_aje_meeting",
+      "summary": "Šešioliktame aukšte plazminio monitoriaus stiklas leido melsvą, skystą šviesą į dulkių sluoksnį. Pijus pasuko galvą į kriauklę: varis buvo padengtas žalsvomis apnašomis, o lašas po..."
     }
   ]
 }
