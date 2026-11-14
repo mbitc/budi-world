@@ -609,3 +609,24 @@ Garletas P. pakoregavo rankinį laikrodį į Marso laiką, jo portatyve ausinės
 
 ---
 
+## [ CIKLAS 179314 ] — 2026-11-14
+- **Faktas:** "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission"
+- **Fragmentas:** Majų administracijos centro vestibiulis ir užeigėlė (`fragment_wau_ku_meeting`)
+- **Emocinis krūvis:** 0.8 | **Sentimentas:** industrial_paranoia
+
+Majų administracijos centro vestibiulyje tvyrojo sterilus, suslėgtas Marso oras, praskiestas sintetinių kiliminių danga sugeriama drėgme. Automatai kampe kvaksėjo monotoniškais ciklais, o nikeluoti valymo robotai cypdami sukinėjosi aplink gelžbetonines kolonas, rinkdami dulkes. Ant švieslenčių švietė trumpas pranešimas: *Karantininis stebėjimo periodas baigtas. Antrinio užsikrėtimo koeficientas – 0.00.* Skaičius buvo toks pat sausas ir galutinis kaip Niujorko–Lajoso biologiškai aktyvaus zonos protokolo ataskaita, kurioje po dvidešimt vienos dienos izoliacijos galiausiai užgeso paskutinė Ebolos zonos signalinė lemputė.
+
+Garletas P. tikrino savo kostiumo rankogalio siūlę. Siūlė buvo tiesi, bet audinys – pavargęs nuo Marso dulkių ir trijų savaičių transatlantinio skrydžio bagažinėje. Jo portatyvas ausinėse tyliai leido lėtą *acid jazz* liniją, slopindama mechaninį pastato gaudesį. 
+
+– Pokyčiai vyksta net tada, kai niekas jų nematuoja, – tarė balsas iš šono.
+
+Garleto petį palietė manikiūruoti pirštai. Ilgos, kruopščiai prižiūrėtos nagų plokštelės, lengvas alyvų ir cheminių tirpiklių tvaikas. Ponia Wau Ku – Ilis. Vaikystės draugė, dabar vilkinti standų administracijos švarką, kurio atlape degė prieigos kodų šviesos diodas. Jos raudoni plaukai krito griežta linija ant skaitmeninio ženkliuko.
+
+Sėdint vestibiulio užeigėlėje prie žemo staliuko, pro kurio stiklą besileidžianti Marso saulė liejo kraujo raudonumo spindulius, pokalbis slypi formuluotėmis. Čia nebuvo vietos sentimentams. Žemė seniai dūlėjo už milijonų kilometrų, o Nigerijos biologinės izoliacijos pavyzdys skambėjo tolimame, beveik nereikšmingame kontekste. Čia, po C4 kvadrato stikliniu stogu, buvo skaičiuojami tik bandzinų plantacijų kreditai ir grynojo silicio likučiai.
+
+– Transformacija reikalauja kantrybės, Garletai, – pasakė Ilis, gurkšnodama karštą skystį iš popierinio puodelio. Jos balsas nesuvibravo net tada, kai netoliese praūžė bioprimatų streiko delegacija, barškinkit savo asmens žetonus į plastikines pertvaras.
+
+Tuo tarpu 16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo melsvame senuolių fotelyje tvyrojo tyla, pertraukiama tik ritmiško lašo, kristalizuojančio kriauklėje. Prie jo kojų, ant betono plokštės, lėtai ir užtikrintai judėjo vienišas indiškas tarakonas – gyvybės forma, kuriai nerūpėjo nei Marso administracijos dekretai, nei pasibaigę stebėjimo terminai Žemėje. Pijus išpūtė ploną RIP cigaretės dūmą su alyvų aromatu ir pasuko galvą į plazminį monitorių. Sistema veikia. Entropija lėtai, bet užtikrintai valgė paskutinius laidų izoliacijos sluoksnius.
+
+---
+
