@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179314,
-  "last_updated": "2026-11-14",
+  "cycle_id": 179315,
+  "last_updated": "2026-11-15",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.8,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.41,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_wau_ku_meeting",
-      "chapter": "Bioprimatų streikas",
-      "character_id": "wau_ku",
-      "setting": "Majų administracijos centro vestibiulis ir užeigėlė",
-      "text": "Zujant robotams ir kvaksint automatams, Garleto petį palietė manikiūruoti pirštai. Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis raudonais plaukais. Sėdint užeigėlėje prie besileidžiančios saulės, pokalbis liejosi bendromis formuluotėmis apie transformaciją ir Marso realybę."
+      "id": "fragment_garlet_broker_mars",
+      "chapter": "Bandzinai–Marso ateitis / Bioprimatų streikas",
+      "character_id": "garlet_p",
+      "setting": "Transporteris link Majų centro",
+      "text": "Senas Žemės makleris Garletas P. perskaitė apie Marse dalinamus sklypus ir bandzinų derlių. Persistatęs rankinį laikrodį į Marso laiką ir ausinėse pasileidęs acid jazz, jis skrodė raudonąją atmosferą transporteriu, pasiruošęs kurti kreditus savo žetone."
     },
-    "real_world_fact": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-    "emotional_load": 0.8
+    "real_world_fact": "Italy fines Meta €805m over accessing users' photos",
+    "emotional_load": 0.41
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179310,
-      "fact": "France accuses Iran of supermarket fridge hacking",
-      "fragment_id": "fragment_bauder_mars_c4",
-      "summary": "Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą kosminę radiaciją, nusėdusią ant stalo dulkėmis. Septyniolikmetis Bauderis užvert..."
-    },
-    {
       "cycle": 179311,
       "fact": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
       "fragment_id": "fragment_bauder_reception",
@@ -265,6 +259,12 @@
       "fact": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
       "fragment_id": "fragment_wau_ku_meeting",
       "summary": "Majų administracijos centro vestibiulyje tvyrojo sterilus, suslėgtas Marso oras, praskiestas sintetinių kiliminių danga sugeriama drėgme. Automatai kampe kvaksėjo monotoniškais cik..."
+    },
+    {
+      "cycle": 179315,
+      "fact": "Italy fines Meta €805m over accessing users' photos",
+      "fragment_id": "fragment_garlet_broker_mars",
+      "summary": "Senasis Žemės makleris Garletas P. patikslino kostiumo siūlę ties dešiniuoju šonu ir darsyk patraukė Marso laiko zonos rankenėlę. Kairėje ausinėje spengė *acid jazz* trimitas, bet ..."
     }
   ]
 }

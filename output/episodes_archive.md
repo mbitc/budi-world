@@ -630,3 +630,38 @@ Tuo tarpu 16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo melsvame senu
 
 ---
 
+## [ CIKLAS 179315 ] — 2026-11-15
+- **Faktas:** "Italy fines Meta €805m over accessing users' photos"
+- **Fragmentas:** Transporteris link Majų centro (`fragment_garlet_broker_mars`)
+- **Emocinis krūvis:** 0.41 | **Sentimentas:** neutral_drift
+
+Senasis Žemės makleris Garletas P. patikslino kostiumo siūlę ties dešiniuoju šonu ir darsyk patraukė Marso laiko zonos rankenėlę. Kairėje ausinėje spengė *acid jazz* trimitas, bet vestibiulio garsiakalbiai švilpė garsiau. Romos duomenų ir vaizdų priežiūros inspekcija ką tik užblokavo Majų administracijos centro serverių prieigą iš Žemės sektoriaus, skirdama 805 milijonų kreditų baudą už neteisėtą bioprimatų asmeninių fotografijų nuskaitymą be galutinio sutikimo protokolo. Stikliniai terminalai raudo, spjaudydami silicio ataskaitas.
+
+Ponia Wau Ku, sėdėdama po raudonų plaukų aureole, perbraukė nagais per stiklinio staliuko paviršių ir nusišypsojo.
+
+– Teisinė trintis, Garletai, – ištarė ji, švelniai paliesdama jo pakankamai sausą petį. – Jūsų Žemės archyvai per daug jautriai reaguoja į šviesą. Čia, po C4 kvadrato stiklu, niekas nepasiekia teismų. Bandzinų derlius auga pagal kiekvieno žetono svorį.
+
+Tuo tarpu 206-ojoje paralelėje, kur dumbležai tviskėjo sintetine vaivorykšte, Vauris spaudė dūzgiančio skuterio vairą. Jo delnai buvo juodi nuo propano-azoto rūgšties, kurios židinys dechlorizacijos stotyje šnypštė dešimtuoju intensyvumo lygiu. Izoliacijos indeksas siekė 85. Galvoje – tik deimantinio laikotarpio dulkės ir metalinis relinių jungiklių traškėjimas. Priešais jį ekranas mirksėjo: *Metos nuotraukų srautas ištrintas, liko tik pelenai ir silicio stygius*. Vauris nežiūrėjo į ekraną. Jis žiūrėjo į žemę po ratais – kietą, sušalusį betoną, permirkusį pramoninio tepalo ir drėgmės tvaiku.
+
+Viesbučio 16-ajame aukšte Pijus spoksojo į plazminį monitorių, kurio kampe lašėjo kriauklės čiaupas: *teliūsk... teliūsk...*. Alyvų dūmas nuo RIP cigaretės kilo prie geltonuojančių lubų. Vienišas indiškas tarakonas lėtai ropojo per plono stiklo lentelę, kurioje dar vakar buvo saugomi skaitmeniniai veidų šablonai.
+
+– Aja, – pakreipė galvą Pijus.
+
+Vestibiulyje Aja, dėvėdama beremius akinukus, tiksliai užrašė nurodymą į odinį sąsiuvinį ir subalansavo padėklą su triušio troškiniu. Jos izoliacijos indeksas buvo žemas, vos 30, o rankų judesiai – mechaniškai nepriekaištingi. 
+
+– Bauderi, – sušnibždėjo ji per vietinį radijo kanalą, – Romos nuoroda nutraukta. Ką darome su 805 milijonais?
+
+Bauderis Bauder ir Ko. krautuvėlėje atidarė silicio tirpalo užpildymo sistemą. Mechanizmas gergždė, skysčio lygis krito coliu per sekundę. Žemu balsu juokdamasis iš visos šios biurokratinės komedijos, jis atsisuko į melsvą barhatą ir perbraukė ranka per portatyvą su IRC kanalu `#budi`.
+
+– Nieko nedarome, – atsakė jis, užsiversdamas karšto šokolado puodelį. – Lai skaičiuoja žiedus. Marso dangus švarus, o Fobas jau slenka virš gelžbetoninių stogų.
+
+***
+
+**DIENOS ĮRAŠAS: KODAS 805-M**
+*Data: Marso ciklas 41.2 / Žemės laiku: Nesvarbu*
+*Objektas: Vaizdų bazės konfiskavimas ir silicio sąnaudos*
+
+Sistemos registre užfiksuota 805 milijonų kreditų bauda už neteisėtą fotofiksaciją. Vartotojų veidai nuskaityti be optinio sutikimo atstovų. Duomenys išmesti į C4 kvadrato deginimo krosnis. Kvapas primena karštą gumą ir seną plastiką. Garletas P. pasirašė sutartį dėl trijų bandzinų hektarų. Žetonas sumirgėjo žaliai. Vauris tebesėdi prie rūgšties židinio stoties pakraštyje. Tyla mechaninė, riebi, be trinties. Viskas veikia pagal nustatytą avarinių relių ciklą.
+
+---
+
