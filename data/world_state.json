@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179315,
-  "last_updated": "2026-11-15",
+  "cycle_id": 179316,
+  "last_updated": "2026-11-16",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.41,
+    "emotional_load": 0.45,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_garlet_broker_mars",
-      "chapter": "Bandzinai–Marso ateitis / Bioprimatų streikas",
-      "character_id": "garlet_p",
-      "setting": "Transporteris link Majų centro",
-      "text": "Senas Žemės makleris Garletas P. perskaitė apie Marse dalinamus sklypus ir bandzinų derlių. Persistatęs rankinį laikrodį į Marso laiką ir ausinėse pasileidęs acid jazz, jis skrodė raudonąją atmosferą transporteriu, pasiruošęs kurti kreditus savo žetone."
+      "id": "fragment_bauder_mars_c4",
+      "chapter": "Bauderio klajonės",
+      "character_id": "bauder",
+      "setting": "Marso PMD plantacijos, C4 kvadratas",
+      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
     },
-    "real_world_fact": "Italy fines Meta €805m over accessing users' photos",
-    "emotional_load": 0.41
+    "real_world_fact": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+    "emotional_load": 0.45
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179311,
-      "fact": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-      "fragment_id": "fragment_bauder_reception",
-      "summary": "Bauderio ir Ko. klientų priimamajame kondicionierius ūžė tolygiai, spausdamas 20 laipsnių celsijaus šaltį per melsvas plastiko plokštes. Vauris įgriuvo į minkštą barhato krėslą, o ..."
-    },
-    {
       "cycle": 179312,
       "fact": "Thousands march to mark Poland’s Independence Day",
       "fragment_id": "fragment_pijus_16th_floor",
@@ -265,6 +259,12 @@
       "fact": "Italy fines Meta €805m over accessing users' photos",
       "fragment_id": "fragment_garlet_broker_mars",
       "summary": "Senasis Žemės makleris Garletas P. patikslino kostiumo siūlę ties dešiniuoju šonu ir darsyk patraukė Marso laiko zonos rankenėlę. Kairėje ausinėje spengė *acid jazz* trimitas, bet ..."
+    },
+    {
+      "cycle": 179316,
+      "fact": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "fragment_id": "fragment_bauder_mars_c4",
+      "summary": "Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą naktinio dangaus spektrą. Deimas krito į vakarus, Fobas stūmėsi per zenitą, palik..."
     }
   ]
 }

@@ -665,3 +665,26 @@ Sistemos registre užfiksuota 805 milijonų kreditų bauda už neteisėtą fotof
 
 ---
 
+## [ CIKLAS 179316 ] — 2026-11-16
+- **Faktas:** "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday"
+- **Fragmentas:** Marso PMD plantacijos, C4 kvadratas (`fragment_bauder_mars_c4`)
+- **Emocinis krūvis:** 0.45 | **Sentimentas:** neutral_drift
+
+Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą naktinio dangaus spektrą. Deimas krito į vakarus, Fobas stūmėsi per zenitą, palikdamas silpną vibraciją C4 sektoriaus ventiliacijos velenuose. 
+
+Septyniolikmetis Bauderis užvertė kojas ant aliuminio plokštės stalo. Jo silicio tirpalo užpildymo sistema tyloje lašino klampų skystį į polimero rezervuarą. Portatyvo ekranas blyksėjo – IRC kanale `#budi` žibėjo vienintelis aktyvus nodas. Šalia stovėjo kavos aparatas, spjaudantis prasto skrudinimo pupelių nuovirą.
+
+– Žiūrėk, Bauli, – portatyvo garsiakalbis subrakšėjo pertrūkiu. Pijus iš šešioliktojo aukšto dūmė RIP cigaretę su alyvų aromatu, akimis lydėdamas vienišą indišką tarakoną, ropojantį per plazminio monitoriaus rėmą. – Vašingtone teismas užblokavo potvarkį. Sekmadienį „Šiukšlių salos“ golfo aikštynas neprivalo užsidaryti. Žemės biurokratai velniškai užsispyrę. Net po visko jie vis dar kovoja dėl sintetinės žolės plotų ir smėlio bunkeriuose paliktų nuorūkų.
+
+Bauderis nusijuokė, dantis įbedęs į šokolado plytelę. Jo izoliacijos indeksas siekė vos keturiasdešimt, o nuovargis buvo tik malonus raumenų gėrimas po septynių šimtų keturiasdešimties biopradų patikros.
+
+– Golfo aikštynas? – Bauderis pasitrynė nosį, kurioje vis dar laikėsi Marso dulkių kvapas. – Čia mes turime tik raudoną gruntą ir C4 kvadrato purvo baseinus. Jei kas nors pamėgintų Vašingtono stiliumi uždrausti mums judėti per dumbležus, 743 biopradai per dešimt minučių suvalgytų visus jų velniškus vėliavėlių stiebus.
+
+Tuo metu Majų administracijos centro vestibiulyje Garletas P. tikrino savo kostiumo siūlių tiesumą. Senas Žemės makleris svorio nesijautė, tačiau portatyvo ausinėse grojantis *acid jazz* skambėjo kaip išdilusios plokštelės traškėjimas. Ponia Wau Ku, sėdėdama prie užeigos staliuko, švelniai palytėjo jo petį manikiūruotais pirštais. Jos raudonų plaukų aureolė degė po halogeninėmis lempomis.
+
+– Nėra ko stebėtis, Garletai, – tarė ji, stumdama per stiklą savo administracijos prieigos kodą. – Žemėje žmonės laikosi įsikibę savo purvino smėlio lyg paskutinio oro filtro. Čia, C4 kvadrate, mes bent jau žinome, kad viskas – nuo dumbležų iki tų jūsų golfo laukų – galiausiai virsta siliciu ir dulkėmis.
+
+Senoji dechlorizacijos stotis tolumoje šnypštė propano-azoto rūgšties židiniu. Vauris sėdėjo tamsoje, spausdamas dūzgiančio skuterio vairą, ir stebėjo, kaip liepsna laižo metalo sienelę. Jo fatigue kornere degė šimtu procentų, o portatyvo ekrane mirgėjo pranešimas iš Bauderio krautuvėlės: silicio stoka pasiekė kritinę ribą, tačiau sekmadienis C4 kvadrate žadėjo būti ramesnis už Žemės teismų posėdžius. Čia teisėjų nebuvo. Tik Deimas, Fobas ir trys šimtai litrų sintetinio tepalo žarnose.
+
+---
+
