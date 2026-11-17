@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179316,
-  "last_updated": "2026-11-16",
+  "cycle_id": 179317,
+  "last_updated": "2026-11-17",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.45,
+    "emotional_load": 0.5,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_bauder_mars_c4",
-      "chapter": "Bauderio klajonės",
-      "character_id": "bauder",
-      "setting": "Marso PMD plantacijos, C4 kvadratas",
-      "text": "Septyniolikmetis Bauderis iš Funkse atskrido į Marsą laimės ieškoti. C4 kvadrate jis vadovavo 743 biopradams. Gelžbetoniniame pastate su stikliniu stogu jis užvertęs kojas ant stalo gėrėjosi Marso naktiniu dangumi bei Deimu ir Fobu, o dienomis IRC kanale #budi ieškojo pašnekovo."
+      "id": "fragment_pijus_16th_floor",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio 16-as aukštas",
+      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
     },
-    "real_world_fact": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-    "emotional_load": 0.45
+    "real_world_fact": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+    "emotional_load": 0.5
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179312,
-      "fact": "Thousands march to mark Poland’s Independence Day",
-      "fragment_id": "fragment_pijus_16th_floor",
-      "summary": "Šešioliktas aukštas kvepėjo sudegusiu tekstolitu ir drėgnu tinku. Pijus sėdėjo melsvame senuolių fotelyje, kojos atremtos į radiatoriaus briauną, kurios temperatūra neviršijo trisd..."
-    },
-    {
       "cycle": 179313,
       "fact": "Misiorowski and Schlittler win MLB Cy Young Awards",
       "fragment_id": "fragment_pijus_aje_meeting",
@@ -265,6 +259,12 @@
       "fact": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "fragment_id": "fragment_bauder_mars_c4",
       "summary": "Marso PMD plantacijos, C4 kvadratas. Gelžbetoninio pastato stiklinis stogas praleido ploną, rausvą naktinio dangaus spektrą. Deimas krito į vakarus, Fobas stūmėsi per zenitą, palik..."
+    },
+    {
+      "cycle": 179317,
+      "fact": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+      "fragment_id": "fragment_pijus_16th_floor",
+      "summary": "Vandens lašas iš griovizuoto žalvario čiaupo trenkdavosi į emalį lygiai kas tris sekundes ir trisdešimt šimtąsias. Pijaus dešinė ausis jau buvo išmokusi šį ritmą, pakeitusį bet kok..."
     }
   ]
 }

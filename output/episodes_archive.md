@@ -688,3 +688,21 @@ Senoji dechlorizacijos stotis tolumoje šnypštė propano-azoto rūgšties židi
 
 ---
 
+## [ CIKLAS 179317 ] — 2026-11-17
+- **Faktas:** "Supreme Court rebuffs Trump administration appeal over DEI funding cuts"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Vandens lašas iš griovizuoto žalvario čiaupo trenkdavosi į emalį lygiai kas tris sekundes ir trisdešimt šimtąsias. Pijaus dešinė ausis jau buvo išmokusi šį ritmą, pakeitusį bet kokį chronometrą. Šešioliktas aukštas kvepėjo drėgnu betonu, atšalusiu plazminio monitoriaus stiklu ir lengva, vos pastebima alyvų dūmo jona – Pijus traukė plonas *RIP* cigaretes, kurių pelenai byrėjo tiesiai ant nudėvėtos melamininės plokštės.
+
+Tarp klaviatūros ir švino sunkumo pelės tinklelio gulėjo trys šimtai gramų pilkos materijos: indiškas tarakonas, išgyvenęs tris sandarinimo ciklus ir branduolinio smulkiakalbio nuosėdas. Jo antenos virpėjo fiksuodamos nulinę entropiją. Pijus mintyse kompiliavo sąmoningo absoliuto sistemą – kodą, kuris privalėjo apdoroti Federalinio Aukščiausiojo Teismo atmestą apeliaciją dėl įvairovės ir lygybės biudžetų subsidijų. Stambios bylos metaduomenys plūdo per senuosius tinklus, degindami tranzistorius ir pulsuodami raudona skolos eilute ekrano kampe. Subsidijos buvo anuliuotos. Administracija neturėjo kuo padengti Majų plantacijų socialinės diversifikacijos biudžeto.
+
+Tuo metu aštuoniasdešimt kilometrų į pietus, Senojoje dechlorizacijos stotyje, Vauris sėdėjo ant apverstos kuro talpos ir spaudė dūzgiančio skuterio vairą. Jo nuovargis siekė šimtą procentų – kaulai skaudėjo nuo amžino propano-azoto rūgšties židinio šnypštimo ir skysto silicio trūkumo. Portatyvas ant dėžės traškėjo, transliuodamas Aukščiausiojo Teismo sprendimo rezonansą per subyrėjusius dažnius. Vauris nejudėjo. Jo izoliacijos indeksas perkopė aštuoniasdešimt penkis; deimantinio laikotarpio prisiminimai krito į liepsną kaip padžiūvę lapai.
+
+Bauderis (Bau) Baudero ir Ko. krautuvėlėje Marso stiklinio stogo šešėlyje tuo tarpu skaičiavo likučius. Silicio tirpalo užpildymo sistema pypsėjo, o IRC kanale `#budi` žiebėsi absurdiškos žinutės apie prarastus federalinius fondus. 
+– Tegul tie teisininkai patys kapojasi dumbležuose su savo diversifikacijos lentelėmis, – nusišypsojo Bau, perjungdamas kavos aparato slėgį.
+
+Šešioliktame aukšte Pijus užmerkė akis. Tarakonas lėtai darsyk pastūmė priekinę kojelę per *Enter* klavišą. Ekranas išmetė sisteminio audito eilutę: *Lėšų grąžinimas negalimas. Sistema autonominė.* Vanduo lašėjo toliau.
+
+---
+
