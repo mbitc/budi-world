@@ -706,3 +706,26 @@ Bauderis (Bau) Baudero ir Ko. krautuvėlėje Marso stiklinio stogo šešėlyje t
 
 ---
 
+## [ CIKLAS 179318 ] — 2026-11-18
+- **Faktas:** "William and Kate celebrate Earthshot Prize winners in Mumbai"
+- **Fragmentas:** Majų administracijos centro vestibiulis ir užeigėlė (`fragment_wau_ku_meeting`)
+- **Emocinis krūvis:** 0.77 | **Sentimentas:** industrial_paranoia
+
+Majų administracijos centro vestibiulis kvepėjo karštu siliciu, ozonu ir dezinfekuotu linoleumu. Virš galvų monotoniškai kvaksėjo automatai, siųsdami biogenomų ataskaitas į C4 kvadratą. Grindimis, skleisdami sausą metalinį dūzgimą, zujo valymo robotai, renkantys nuorūkas ir radioaktyvias Marso dulkes. 
+
+Garletas P. sugriežė batų padais į šlifuotą akmenį. Jo kostiumas, nepaisant dešimtmečių nusidėvėjimo, vis dar bandė imituoti Vakarykštės Žemės eleganciją – siūlės buvo tiesios, o rankinis laikrodis nustatytas tiksliu Marso laiku. Per portatyvo ausines tyliai grojo acid jazz, bet melodiją slopino bendras oro kondicionierių ūžesys. Garletas pirštais patikrino kelioninio krepšio užsegimą, kai jam ant peties nusileido manikiūruoti pirštai. 
+
+Tai buvo Ponia Wau Ku. Jos raudonų plaukų aureolė švietė dirbtinėje vestibiulio šviesoje kaip senių neoninių vamzdžių likučiai. Ilis. Vaikystės draugas iš tų laikų, kai Žemėje dar buvo leidžiama kvėpuoti atviru oru.
+
+– Garletai, – ištarė ji balsu, kuriame skambėjo beveik nulinė entropija. – Ekosistemos atsinaujinimo premijos vėl dalijamos Mumbajuje. O tu vis dar skaičiuoji bandzinų plantacijų kreditus dulkėse.
+
+Vestibiulio švieslentėse tuo metu mirgėjo pranešimai apie Mumbajaus laureatus – Williamą ir Kate, sveikinančius Žemės žaliosios energijos nugalėtojus. Milijonai kilometrų nuo čia, po drėgnais Žemės kupolais, kažkas vėl dalijo medalius už ekologinį naivumą, kol Marso stikliniai stogai traškėjo nuo radiacijos.
+
+– Verslas reikalauja apčiuopiamų vienetų, Ilis, – atsakė Garletas, koreguodamas portatyvo padėtį. – Žemės apdovanojimai neturi masės. Jie neturi svorio ant svarstyklių.
+
+Tuo tarpu 16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo melsvas senuolių fotelis kvepėjo alyvų dūmu nuo eilinės RIP cigaretės. Ant šlapios kriauklės krašto ritmingai lašėjo vanduo: *tik-tak, tik-tak*. Sienomis lėtai, taupydamas energiją, ropojo vienišas indiškas tarakonas – paskutinis biologinis gyvybės pėdsakas šiame betono sektoriuje. Pijaus nuovargis siekė šimtą procentų; jo izoliacijos indeksas bėgo į viršų, palikdamas jį vieną su plazminio monitoriaus šviesa.
+
+O toliau į šiaurę, Senojoje dechlorizacijos stotyje, Vauris spaudė dūzgiančio skuterio vairą. Jo pirštai buvo nutirpę nuo propano-azoto rūgšties židinio šnypštimo. Centrinis monitorius mirksėjo pranešimu apie silicio stoką, bet Vauris nežiūrėjo į ekranus. Jis žiūrėjo į ugnies liežuvį, kuris godžiai ryjo paskutines kuro atsargas. Pasaulis aplink jį dūmėjo, bet tamsoje deimantinio laikotarpio prisiminimai degė lėtai ir švariai, kaip ir priklauso daiktams, kurių niekas nebesaugo.
+
+---
+

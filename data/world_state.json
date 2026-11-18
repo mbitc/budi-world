@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179317,
-  "last_updated": "2026-11-17",
+  "cycle_id": 179318,
+  "last_updated": "2026-11-18",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.5,
-    "dominant_sentiment": "neutral_drift"
+    "emotional_load": 0.77,
+    "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_16th_floor",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio 16-as aukštas",
-      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
+      "id": "fragment_wau_ku_meeting",
+      "chapter": "Bioprimatų streikas",
+      "character_id": "wau_ku",
+      "setting": "Majų administracijos centro vestibiulis ir užeigėlė",
+      "text": "Zujant robotams ir kvaksint automatams, Garleto petį palietė manikiūruoti pirštai. Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis raudonais plaukais. Sėdint užeigėlėje prie besileidžiančios saulės, pokalbis liejosi bendromis formuluotėmis apie transformaciją ir Marso realybę."
     },
-    "real_world_fact": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
-    "emotional_load": 0.5
+    "real_world_fact": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "emotional_load": 0.77
   },
   "characters": [
     {
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 90,
+        "fatigue": 93,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 75,
+        "fatigue": 78,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 95,
+        "fatigue": 98,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 80,
+        "fatigue": 83,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179313,
-      "fact": "Misiorowski and Schlittler win MLB Cy Young Awards",
-      "fragment_id": "fragment_pijus_aje_meeting",
-      "summary": "Šešioliktame aukšte plazminio monitoriaus stiklas leido melsvą, skystą šviesą į dulkių sluoksnį. Pijus pasuko galvą į kriauklę: varis buvo padengtas žalsvomis apnašomis, o lašas po..."
-    },
-    {
       "cycle": 179314,
       "fact": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
       "fragment_id": "fragment_wau_ku_meeting",
@@ -265,6 +259,12 @@
       "fact": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
       "fragment_id": "fragment_pijus_16th_floor",
       "summary": "Vandens lašas iš griovizuoto žalvario čiaupo trenkdavosi į emalį lygiai kas tris sekundes ir trisdešimt šimtąsias. Pijaus dešinė ausis jau buvo išmokusi šį ritmą, pakeitusį bet kok..."
+    },
+    {
+      "cycle": 179318,
+      "fact": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "fragment_id": "fragment_wau_ku_meeting",
+      "summary": "Majų administracijos centro vestibiulis kvepėjo karštu siliciu, ozonu ir dezinfekuotu linoleumu. Virš galvų monotoniškai kvaksėjo automatai, siųsdami biogenomų ataskaitas į C4 kvad..."
     }
   ]
 }
