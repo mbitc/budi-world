@@ -729,3 +729,26 @@ O toliau į šiaurę, Senojoje dechlorizacijos stotyje, Vauris spaudė dūzgian�
 
 ---
 
+## [ CIKLAS 179319 ] — 2026-11-19
+- **Faktas:** "Health Canada approves new Eli Lilly GLP-1 pill for weight loss"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.77 | **Sentimentas:** industrial_paranoia
+
+Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte, Budi pakraštyje, Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinio liepsna, slopinamai ramindama praeities ilgesį. Vauris sėdėjo ant nusidėvėjusio silicio kilimėlio, spausdamas dūzgiančio skuterio vairą. Jo nuovargio indeksas siekė šimtą, izoliacija – aštuoniasdešimt penkis. Delnai bukas nuo vibracijos. Portatyvas ant metalinės spintelės mirksėjo pranešimu, gautu per Marso tranzito kanalą: *Health Canada approves new Eli Lilly GLP-1 pill for weight loss*. 
+
+Ekranas siūlė cheminę korekciją. Svorio, masės, riebalinio audinio tūrio sumažinimą. Vauris pažvelgė į savo alkūnes, aptrauktas pilkšva, dehidruota oda. Biocheminis apetito slopiklis iš Kanados serverių. Pasaulyje, kur vanduo maišomas su pramoniniu glikoliu, tableta nuo alkio atrodė kaip dar viena tuščia eilutė instrukcijoje. Jis pasuko ci-di grotuvo rankenėlę; relinis jungiklis subraškėjo, išgaudamas metalinį ošimą, primenantį girgždančius C4 kvadrato krumpliaračius.
+
+Tuo tarpu Bauderis (Bau) savo krautuvėlėje centre, 206-osios paralelės dumbležų kaimynystėje, tikrino silicio tirpalo užpildymo sistemą. Jo izoliacija siekė tik keturiasdešimt, o nuovargis – devyniasdešimt šešis, bet Bauderis šypsojosi, žiūrėdamas į stiklinį Marso stogą. 
+— Nauji vaistai masės kontrolei, — subombardavo jis žinute IRC kanalą `#budi`. — Galima pirkti tonomis. Mažiau ryšim, mažiau sversim. Idealu transportavimui raketose.
+Jo kavinukės kondicionierius vėsino patalpą, o silicio tirpalo aparatas pypsėjo, dozuodamas skystį į polietileno indus. Bauderis gurkšnojo tirštą kavą ir dairo pro langą, kur sintetinės vaivorykštės raižė naftos plėvelę gatvėse.
+
+Keliolika aukštų aukščiau, Pijaus 16-ajame viešbučio kambaryje, spengiančioje tuloje dulkės šoko saulės spindulyje. Pijaus nuovargis siekė šimtą, izoliacija – devyniasdešimt. Jis sėdėjo melsvame senuolių fotelyje, stebėdamas sienomis ropojantį vieništą indišką tarakoną. Ant plazminio monitoriaus mirgėjo tas pats pranešimas apie „Eli Lilly“ GLP-1 tabletes. Pijus lėtai užsitraukė RIP cigaretę su alyvų aromatu. Dūmas nusėdo ant jo asmens identifikavimo žetono. Algoritmas nesprendė, ar žmogus turi sverti mažiau; algoritmas skaičiavo tik energijos sąnaudas perėjimo metu. 
+
+Vestibiulyje Aja, dėvėdama beremius akinukus, stropiai užsirašinėjo nurodymus į užrašinę. Jos izoliacija – trisdešimt, nuovargis – aštuoniasdešimt vienas. Padėkle garavo triušio troškinys ir karštas šokoladas, skirtas Majų administracijos atstovams. 
+
+Majų administracijos centre Garletas P. tikrino savo kostiumo siūlių tiesumą. Jo fatigue rodiklis dūrė maksimumą, o ausinėse grojo acid jazz iš portatyvo. Ponia Wau Ku, raudonų plaukų aureole apgaubta administracijos vadovė, švelniai palietė jo petį manikiūruotais pirštais. 
+— Nauji metabolizmo reguliatoriai iš Žemės, — pasakė ji ramiu, aukštuomenės balsu, stebėdama švieslentes. — Mažiau resursų maistui. Efektyvumas.
+Administracijos automatai kvaksėjo, siųsdami ataskaitas į biogenomų kampus. Marso raudona dykuma už stiklo sulaikė vėją, o Vauris dechlorizacijos stotyje tebežiūrėjo į propano-azoto liepsną, spausdamas nebeveikiančio skuterio vairą. Vaistai atkeliavo, bet svoris nesumažėjo – geležis ir betonas svėrė tiek pat, kiek ir vakar.
+
+---
+
