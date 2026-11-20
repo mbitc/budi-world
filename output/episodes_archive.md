@@ -752,3 +752,26 @@ Administracijos automatai kvaksėjo, siųsdami ataskaitas į biogenomų kampus. 
 
 ---
 
+## [ CIKLAS 179320 ] — 2026-11-20
+- **Faktas:** "No mention of fossil fuels in latest COP31 draft deal"
+- **Fragmentas:** 206-oji paralelė link Askezi (`fragment_scooter_206`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Žalsvai elektrinis 206-osios paralelės dangus neturėjo kintamųjų. Vauris spaudė dūzgiančio skuterio gumines rankenas, pirštų sąnariai buvo pabalę nuo vibracijos, o silicio tirpalo pildymo indikatorius prietaisų skydelyje mirksėjo raudonai, pranešdamas apie skysčio deficitą sistemose. Pakelėje dumbležiai garavo prasto kuro nuotėkiu ir žmogaus išmatų tvaiku. Virš galvų zujantys sintetiniai vaivorykštiniai ekranai transliavo Marso Majų administracijos centro pranešimus. Šviežioje tarybos sutarties redakcijoje fossilinio kuro pakeitimo punktas buvo ištrintas tyliai, paliekant tik tuščią eilutę ir biurokratinį kodo numerį 0.5.
+
+Senojoje dechlorizacijos stotyje propano-azoto rūgšties židinys šnypštė. Vauris nukreipė skuterio priekinį ratą į betoninės rampą. Jo izoliacijos indeksas siekė 85, nuovargis – pilnus 100 punktų. Portatyvo c-di grotuve sukosi subraižytas diskas, skleisdamas metalinį traškėjimą, kurį pertraukė trumpi radijo ryšio signalai iš IRC kanalo `#budi`.
+
+– Čia Bau, – dzingtelėjo garsiakalbis Bauderio ir Ko. priimamajame. – Kol taryba derina nulinio poveikio ataskaitas su senais Žemės makleriais, mes skaičiuojame kavos aparatuose likusį slėgį. Garletas P. jau pasitikrino kostiumo siūles, bet jo kreditai žetone dega. Užsuk, Vauri, kol silicio tirpalas visiškai neužvirė.
+
+Vauris išjungė variklį. Metalas traškėjo vėstančioje oro srovėje. 
+
+Šešioliktame viešbučio aukšte Pijus netraukė akių nuo melsvo plazminio monitoriaus. Vienišas indiškas tarakonas lėtai ropojo per kilimėlį, palikdamas riebų pėdsaką ant sintetinių siūlų. Pijus patraukė RIP cigaretę su alyvų aromatu; dūmas ištirpo saulės spindulyje, kabančiame tarytum metalinių dulkių stulpas. 
+
+– Sistema veikia be klaidų, – pasakė Aja, įžengdama su padėklu, ant kurio pūpsojo triušio troškinys ir beremiai akinukai. Jos nuovargio koeficientas siekė 81, bet judesiai išliko tikslūs kaip laikrodžio mechanizmas. Ji padavė padėklą ant staliuko ir pažvelgė pro nevalytą langą į raudoną Marso dykumą, kur Majų bandzinų plantacijų C4 kvadrate blykčiojo biopradų stebėsenos sistemos.
+
+Apačioje, Majų administracijos centro vestibiulyje, ponia Wau Ku švelniu manikiūruotu pirštu braukė per stiklinį užeigos staliuko paviršių. Šalia stovintis Garletas P. koreguoja rankinį laikrodį į Marso laiką, o jo portatyvas ausinėse grojo monotonišką acid jazz melodiją. Žemės anglies sutarties nebuvimas protokoluose jiems reiškė tik naują tarifų lentelę, o ne katastrofą.
+
+Vauris užsitraukė gobtuvą, pasitaisė kuro talpą ir atsisėdo ant dūzgiančio skuterio. Metalinės durys užsidarė su hidrauliniu trenksmu. Pasaulis aplinkui tebebuvo sudarytas iš betono, nusidėvėjusio silicio, drėgmės ir dūmų, kurių niekas neketino keisti.
+
+---
+

@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179319,
-  "last_updated": "2026-11-19",
+  "cycle_id": 179320,
+  "last_updated": "2026-11-20",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.77,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.5,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_vauris_dechloris",
+      "id": "fragment_scooter_206",
       "chapter": "Budi liūdesys",
       "character_id": "vauris",
-      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
-      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
+      "setting": "206-oji paralelė link Askezi",
+      "text": "Ankstyvo pavasario rytą žalsvai elektriniam dangui pranešus apie silicio tirpalo stoką, Vauris atsisėdo ant dūzgiančio skuterio. Pakelėje pasimatė dumbležiai, dvokiantys išmatomis ir prasto kuro degėsiais, o viršuje žaižaravo sintetinės vaivorykštės. Skuterį perjungęs į auto pilotą, Vauris pasinėrė į ci-di grotuvo garsus."
     },
-    "real_world_fact": "Health Canada approves new Eli Lilly GLP-1 pill for weight loss",
-    "emotional_load": 0.77
+    "real_world_fact": "No mention of fossil fuels in latest COP31 draft deal",
+    "emotional_load": 0.5
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179315,
-      "fact": "Italy fines Meta €805m over accessing users' photos",
-      "fragment_id": "fragment_garlet_broker_mars",
-      "summary": "Senasis Žemės makleris Garletas P. patikslino kostiumo siūlę ties dešiniuoju šonu ir darsyk patraukė Marso laiko zonos rankenėlę. Kairėje ausinėje spengė *acid jazz* trimitas, bet ..."
-    },
-    {
       "cycle": 179316,
       "fact": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "fragment_id": "fragment_bauder_mars_c4",
@@ -265,6 +259,12 @@
       "fact": "Health Canada approves new Eli Lilly GLP-1 pill for weight loss",
       "fragment_id": "fragment_vauris_dechloris",
       "summary": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte, Budi pakraštyje, Vaurio beprasmiškos dienos slinko lėtai, kaip rytais..."
+    },
+    {
+      "cycle": 179320,
+      "fact": "No mention of fossil fuels in latest COP31 draft deal",
+      "fragment_id": "fragment_scooter_206",
+      "summary": "Žalsvai elektrinis 206-osios paralelės dangus neturėjo kintamųjų. Vauris spaudė dūzgiančio skuterio gumines rankenas, pirštų sąnariai buvo pabalę nuo vibracijos, o silicio tirpalo ..."
     }
   ]
 }
