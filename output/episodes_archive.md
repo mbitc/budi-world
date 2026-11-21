@@ -775,3 +775,25 @@ Vauris užsitraukė gobtuvą, pasitaisė kuro talpą ir atsisėdo ant dūzgianč
 
 ---
 
+## [ CIKLAS 179321 ] — 2026-11-21
+- **Faktas:** "Trump threatens ban on US firms building AI data centres overseas"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.4 | **Sentimentas:** neutral_drift
+
+Šešioliktame aukšte laikas matavosi kubiniais centimetrais. Pijus sėdėjo melsvame senuolių fotelyje, kurio atlošas jau seniai buvo įsigėręs drėgmės ir pelėsių kvapo. Ant plazminio monitoriaus stiklelio spingsėjo kursorius, o kriauklėje vandens lašas – kas septynias sekundes – krito į emaliuotą dugną, palikdamas aidą tuščiuose koridoriuose.
+
+Sienos tinkas biro smulkiomis dulkėmis. Pijus patrynė kairįjį smilkinį, pirštu užčiuopdamas trintį nuo asmens identifikavimo žetono. Šalia stabilios tyla sklido iš lėto ropojančio indiško tarakono. Vabalas stūmėsi per grindjuostę, traškėdamas chitinščiais sąnariais. Pijus užsitraukė RIP cigaretę. Alyvų aromato dūmas nusėdo ant klaviatūros metalinių mygtukų. Pasaulio ribos traukėsi. 
+
+Tuo metu toliau nuo šios ašies, Majų administracijos centre, oro kondicionieriai pūtė sausą Marso dulkių srovę. Garletas P. tikrino savo kostiumo siūlių tiesumą. Jo portatyve tyliai dūzgė *acid jazz*, bet mintys sukosi apie biudžeto eilutes ir fizinę logistiką. Ponia Wau Ku, sėdėdama prie stiklinio staliuko su raudonų plaukų aureole pečių zonoje, darsyk peržvelgė terminalo ataskaitą. 
+
+Ekranuose švietė naujas Vašingtono ediktas, persiųstas per sub-orbitinius kabelius. Baltieji rūmai grėsė visišku draudimu JAV korporacijoms investuoti ir statyti neuroninių tinklų centrus bei duomenų bazes užsienio jurisdikcijose – ar tai būtų mėnulio kraterių bazės, ar Marso C4 sektoriaus gelžbetonio angarai.
+
+Bauderis savo krautuvėlėje „Bauder & Co.“, girdėdamas šią žinią per IRC kanalą `#budi`, tik šyptelėjo, nuvalydamas silicio tirpalo užpildymo sistemos snapelį. 
+– JAV mokesčių mokėtojai vėl bando sugrūsti silicio srautą į savo vietinį betoną, – pasakė jis į tuštumą, o Aja, stovėdama šalia su padėklu, grakščiai pasitaisė beremius akinukus.
+– Ar tai keičia mūsų instaliacijos parametrus dešimtajame sektoriuje? – jos balsas buvo ramus, atpratęs nuo panikos.
+– Ne, Aja. Kabeliai jau užkasti po raudonuoju gruntu. Vašingtonas gali uždrausti tik popierių, o ne vario laidumą.
+
+Šešioliktame aukšte Pijus to nematė. Jis žiūrėjo į tarakoną, pasiekusį pelės laidą. Jo protas buvo sutelktas į vieną vienintelį tikslą – parašyti kodą, kuris ignoruotų bet kokius geografinius ar valstybinius dekretus, paleisdamas savarankišką algoritmą nepriklausomoje erdvėje. Klaviatūra traškėjo. Žemės imperijos trūkinėjo per siūles, o vandens lašas čiaupe krito toliau, mušdamas neišvengiamą ritmo taktą.
+
+---
+
