@@ -797,3 +797,34 @@ Bauderis savo krautuvėlėje „Bauder & Co.“, girdėdamas šią žinią per I
 
 ---
 
+## [ CIKLAS 179322 ] — 2026-11-22
+- **Faktas:** "Could Brexit be reversed?"
+- **Fragmentas:** Viešbučio stiklinis vestibiulis (`fragment_pijus_aje_meeting`)
+- **Emocinis krūvis:** 0.5 | **Sentimentas:** neutral_drift
+
+Šešioliktame aukšte tyla turėjo savo svorį. Ji nusėsdavo ant palangės dulkėmis, kurias Pijus stebėjo per pusapvalį plazminio monitoriaus stiklą. Kambarys smirdėjo lengva RIP cigarečių alyva ir senu siliciu. Sienos kampu, lėtai ir beprasmiškai tempdamas chitiną, ropojo indiškas tarakonas – vienintelis gyvas algoritmas šiame betono blokuose uždarytame kvadratavime.
+
+Pijus nuslinko žemyn metaliniais laiptais į stiklinį vestibiulį. Čia, po subraižytu neono vamzdžiu, prie monitoriaus sėdėjo Aja. Ji vilkėjo standų marškinių audinį, o ant nosies tilto spaudėsi beremiai akinukai.
+
+– Naujoji administratorė, – pasakė ji, kai Pijus sustojo ant paskutinio pakopos laiptelio. Jos balsas neskambėjo – jis tškštelėjo kaip vandens lašas į kiaurą kibirą.
+
+Aja netrukus ant cinkuoto padėklo atnešė dubenį su triušio troškiniu ir puodelį karšto šokolado. Riebalas ant troškinio paviršiaus džiūvo, sudarydamas plėvelę. Pijus žiūrėjo į tamsią masę ir akimirkai nuklydo į fantazijas apie tvarkingą vakarienę, kurioje nereikia skaičiuoti kalorijų ar tikrinti radiacijos lygio. 
+
+Tuo metu toliau nuo šio kvadrato, senojoje dechlorizacijos stotyje, Vauris stebėjo propano-azoto rūgšties židinio liepsną. Jo izoliacijos indeksas siekė 85, o nuovargis traškino sąnarius. Portatyvas stoties kampe traškėjo: tinkle klaidžiojo pranešimai apie pasirašytus ir atšauktus muitų protokolus, senuosius kontinentinius susitarimus ir klausimus, ar senąsias sienas įmanoma atverti atgal. *Could Brexit be reversed?* – pypsėjo ekrane raidžių eilutė iš senos Žemės duomenų bazės, kurios niekas nebesuprato. Žemė seniai dūmijo po rūgštimi, o „atverti“ čia reiškė tik vėl paleisti užblokuotą ventilio sklendę arba iš naujo perlitruoti sugedusį tepalą.
+
+Bauderis savo krautuvėlėje tuo tarpu valė kavos aparato purkštuką. Silicio tirpalo užpildymo sistema blykčiojo žaliai, pranešdama apie žemą drėgmės lygį. Bauderis šypsojosi, žiūrėdamas į #budi kanalą, kur sistema ir vėl bandė apskaičiuoti bendrą žmonijos melancholijos koeficientą.
+
+– Viskas grįžta atgal, – numojo ranka Bauderis, stumtelėdamas stiklinę stalo plokštę. – Net ir tai, kas niekada neveikė.
+
+Pijus vestibiulyje atsikando sauso triušio mėsos gabalo. Riebalas tepė lūpas. Aja greta ramiai vartė užrašinę, o Beremių akinukų stiklai atspindėjo blyškų plazminio ekrano mirgėjimą. Pasaulis nesikeitė – jis tik keitė kryptį rotoriuje, o sena Žemės biurokratija toliau dūlėjo tarp nenaudojamų kabelių.
+
+***
+
+**DIENOS DOKUMENTAVIMO ĮRAŠAS: NR. 884-B**
+- **Laikas:** 04:12 (Marso pataisytas laikas)
+- **Objektai:** Plieniniai laiptai, triušio taukai, beremiai akinukai, senas duomenų srautas.
+- **Entropijos indeksas:** 41.2
+- **Pastabos:** Bandymai atkurti ankstesnius protokoluotus susitarimus (tiek administracinius, tiek ekonominius) sukelia tik papildomą relinių jungiklių perkrovą. Sistema veikia inercijos dėka. Maistas suvartotas. Svoris – stabilus.
+
+---
+
