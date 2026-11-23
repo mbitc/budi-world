@@ -828,3 +828,34 @@ Pijus vestibiulyje atsikando sauso triušio mėsos gabalo. Riebalas tepė lūpas
 
 ---
 
+## [ CIKLAS 179323 ] — 2026-11-23
+- **Faktas:** "Miley Cyrus marries Maxx Morando in California ceremony"
+- **Fragmentas:** Transporteris link Majų centro (`fragment_garlet_broker_mars`)
+- **Emocinis krūvis:** 0.8 | **Sentimentas:** industrial_paranoia
+
+Transporterio padangos braškėdamas trynėsi į Marso C4 kvadrato bazaltą. Kabinoje tvyrojo perkaitinto silicio ir rūgšties tvaikas. Garletas P., buvęs Žemės makleris, pirštais braukė per kostiumo siūlių tiesumą. Jo delnas prakaitavo. Ausinėse monotoniškai dundėjo *acid jazz*, o rankinis laikrodis, persuktas į Marso laiką, tiksėjo per lėtai. Prietaisų skydelyje mirksėjo pranešimas iš Kalifornijos sektoriaus archyvų, persiųstas per vandenyno kabelius: „Miley Cyrus marries Maxx Morando in California ceremony. Emocinis krūvis: 0.8.“ 
+
+Garletas P. spragtelėjo jungikliu. Žemės popkultūros atabradai čia, raudonojoje dulkėje, skambėjo kaip trūkinėjanti gramofono plokštelė. Koks skirtumas, kas kam duoda įžadus po dirbtiniais Kalifornijos kupolais, kai Majų administracijos centras reikalauja gyvų žetonų už bandzinų plotus?
+
+Transporteris sustojo prie gelžbetoninio pastato su stikliniu stogu. Ponia Wau Ku jau laukė vestibiulyje. Jos raudonų plaukų aureolė žibėjo sausame Marso ore, o manikiūruoti pirštai ramiai lietė stiklinį užeigos staliuko paviršių. 
+
+– Vėluojate dešimt standartinių minučių, Garletai, – pasakė ji balse, kuriame girdėjosi senų Žemės biurų aidai. – Mūsų bioprimatų streikas C4 kvadrate ką tik baigėsi. Bandzinai dera, bet vandens debitas krenta. 
+
+Tuo tarpu Bauderiui priklausančioje krautuvėlėje ant 206-osios paralelės dumbležų pypsėjo silicio tirpalo užpildymo sistema. Bau sėdėjo prie kavos aparato, stebėdamas, kaip per IRC kanalą #budi plūsta pranešimai apie hormonų auditus ir Marso stiklo stogo įtrūkimus. Jis gurkšnojo karštą skystį ir juokėsi. 
+
+– Viskas tik mokesčiai ir santuokos sutartys, – pratarė Bau, žiūrėdamas į Ają, kuri stropiai beremiais akiniais rašėsi naujas troškinio normas užrašinėje. – Žmonės ieško tvarkos ten, kur beliko tik suodžiai.
+
+16-ajame viešbučio aukšte Pijus spoksojo į lubas. Jo melsvas senuolių fotelis kvepėjo *RIP* cigarečių alyvų dūmais. Sienomis lėtai, beveik matematiškai tiksliai rpojo vienišas indiškas tarakonas, ištrūkęs iš ventiliacijos šachtos. Kriauklėje kas tris sekundes lašėjo vanduo. Pijus patraukė dūmą, užsimerkė ir pasijautė visiškai tuščias. Izoliacijos indeksas siekė devyniasdešimt procentų. Jokios Miley Cyrus vestuvės, jokie bandzinai ir jokie makleriai negalėjo pasiekti šio aukšto armuoto betono.
+
+Tolyn į šiaurę, Senojoje dechlorizacijos stotyje, Vauris sėdėjo ant elektrinio skuterio sėdynės. Jo pirštai suspaudė dūzgiančio variklio rankeną. Propano-azoto rūgšties židinys šnypštė, spjaudydamas melsvą liepsną į tamsų, švininį dangų. Centrinis monitorius mirksėjo: „Silicio stoka. Izoliacija: 85.“ Vauris nejudėjo. Jis tiesiog žiūrėjo į ugnį ir laukė, kol pasaulis pagaliau nustos suktis.
+
+***
+
+**DIENOS ĮRAŠAS: [Sistemos logas #884-Marso_laikas]**
+*   **Objektas:** Transporterio maršrutas / Majų centras.
+*   **Entropija:** 48.2 (kilstelėjo dėl netvarkingų pranešimų iš Žemės archyvų apie Kalifornijos ceremonijas).
+*   **Resursų likutis:** Propano – 14%, silicio tirpalas – kritinis, vanduo bazėje – 320 litrų.
+*   **Pastaba:** Vartotojas Garletas P. įsigijo 0.4 ha bandzinų žemės C4 kvadrate mainais už tris skardines alyvuogių aliejaus ir veikiantį portatyvą su *acid jazz* įrašais. Sistema užregistravo sandorį be papildomų paklaidų.
+
+---
+
