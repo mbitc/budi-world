@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179323,
-  "last_updated": "2026-11-23",
+  "cycle_id": 179324,
+  "last_updated": "2026-11-24",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.8,
+    "emotional_load": 0.78,
     "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_garlet_broker_mars",
-      "chapter": "Bandzinai–Marso ateitis / Bioprimatų streikas",
-      "character_id": "garlet_p",
-      "setting": "Transporteris link Majų centro",
-      "text": "Senas Žemės makleris Garletas P. perskaitė apie Marse dalinamus sklypus ir bandzinų derlių. Persistatęs rankinį laikrodį į Marso laiką ir ausinėse pasileidęs acid jazz, jis skrodė raudonąją atmosferą transporteriu, pasiruošęs kurti kreditus savo žetone."
+      "id": "fragment_vauris_dechloris",
+      "chapter": "Budi liūdesys",
+      "character_id": "vauris",
+      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
+      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
     },
-    "real_world_fact": "Miley Cyrus marries Maxx Morando in California ceremony",
-    "emotional_load": 0.8
+    "real_world_fact": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+    "emotional_load": 0.78
   },
   "characters": [
     {
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 85,
+        "fatigue": 88,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 90,
+        "fatigue": 93,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179319,
-      "fact": "Health Canada approves new Eli Lilly GLP-1 pill for weight loss",
-      "fragment_id": "fragment_vauris_dechloris",
-      "summary": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte, Budi pakraštyje, Vaurio beprasmiškos dienos slinko lėtai, kaip rytais..."
-    },
-    {
       "cycle": 179320,
       "fact": "No mention of fossil fuels in latest COP31 draft deal",
       "fragment_id": "fragment_scooter_206",
@@ -265,6 +259,12 @@
       "fact": "Miley Cyrus marries Maxx Morando in California ceremony",
       "fragment_id": "fragment_garlet_broker_mars",
       "summary": "Transporterio padangos braškėdamas trynėsi į Marso C4 kvadrato bazaltą. Kabinoje tvyrojo perkaitinto silicio ir rūgšties tvaikas. Garletas P., buvęs Žemės makleris, pirštais braukė..."
+    },
+    {
+      "cycle": 179324,
+      "fact": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
+      "fragment_id": "fragment_vauris_dechloris",
+      "summary": "### DIENOS ĮRAŠAS: ENTROPIJA IR KETURIŲ ŠALIŲ LINIJA\n\nSeni reliniai jungikliai Budi pakraštyje tądien traškėjo kitaip. 206-osios paralelės dumbležuose sintetinių vaivorykščių švies..."
     }
   ]
 }

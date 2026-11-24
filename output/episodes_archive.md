@@ -859,3 +859,28 @@ Tolyn į šiaurę, Senojoje dechlorizacijos stotyje, Vauris sėdėjo ant elektri
 
 ---
 
+## [ CIKLAS 179324 ] — 2026-11-24
+- **Faktas:** "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.78 | **Sentimentas:** industrial_paranoia
+
+### DIENOS ĮRAŠAS: ENTROPIJA IR KETURIŲ ŠALIŲ LINIJA
+
+Seni reliniai jungikliai Budi pakraštyje tądien traškėjo kitaip. 206-osios paralelės dumbležuose sintetinių vaivorykščių šviesa drėgname asfalte mirgėjo riebia naftos plėvele, o portatyvų ekranuose be perstojo šokinėjo nauji protokolo parametrai iš Žemės ir Marso perimetro. 
+
+Vauris sėdėjo senojoje dechlorizacijos stotyje. Izoliacijos indeksas siekė 85, nuovargis – visus šimtą procentų. Jo pirštai, atpratę nuo bet kokio žmogiško kontakto, lietė įkaitusį propano-azoto rūgšties židinio metalą. Židinys šnypštė, slopindamas švininio dangaus svorį. Centrinis monitorius mirksėjo pranešimu apie silicio stoką, tačiau Vaurio dėmesį patraukė iš C4 kvadrato atitempta transliacija.
+
+Žemės makleris Garletas P., tikrindamas savo kostiumo siūlių tiesumą Majų administracijos centre, atmetė ausines su *acid jazz* įrašu. Ponia Wau Ku, švelniai paliesdama jo petį manikiūruotu pirštu, ramiu aukštuomenės balsu pranešė:
+– Keturios pusės reikalauja stalo. Vašingtonas, Europa, Maskva ir mūsų perimetro atstovai. Kuo greičiau. Deimas ir Fobas jau naktiniame danguje, o biopradų stebėsenos sistemos dzvingteli kas trys sekundės. Nebėra laiko koreguoti rankinių laikrodžių.
+
+Bauderis Budi krautuvėlėje tuo metu perstatė silicio tirpalo užpildymo sistemą. Jo portatyve mirksėjo IRC kanalas `#budi`, o mechanizmas pypsėjo skaičiuodamas skystį. Bau nusijuokė pro šalį žvelgdamas į stiklinį Marso stogą:
+– Keturių šalių taikos derybos? Jie vis dar bando padalinti dykumą, kurioje net vandens skaitikliai užšąla nuo paprasčiausios melancholijos. Tegul atsiunčia keturis generolus su gervėmis – aš jiems pilsiu karšto šokolado, kol subyrės paskutiniai varžtai.
+
+Pijaus 16-ajame aukšte viešbutyje kabojo spengianti tyla. Melsvame senuolių fotelyje sėdintis algoritmuotojas traukė lengvą RIP cigaretę su alyvų aromatu, stebėdamas, kaip per sieną ropoja vienišas indiškas tarakonas. Kriauklėje kas kelias sekundes tiksliai lašėjo čiaupas. Aja, nešdama padėklą su triušio troškiniu, tyliai užsirašė nurodymus savo užrašinėje, jos beremiai akinukai sužibėjo silpnoje saulės šviesoje.
+
+– Jos reikalauja keturių krypčių susitikimo, – tarė Pijus, nežiūrėdamas į Ają. – Algoritmas nenumato taikos. Algoritmas numato tik slėgio kritimą vamzdynuose. Jei visi keturi susės prie vieno stalo, propano-azoto židiniai Budi pakraštyje tiesiog užvirs.
+
+Vauris stotyje patraukė elektrinio skuterio vairą, išjungė ci-di grotuvą ir leido židinio šnypštimui užpildyti visą kambario tūrį. Švininis rūkas už lango tirštėjo. Pasaulis reikalavo sutarties, bet metalas reikalavo tik tepalo ir laiko.
+
+---
+
