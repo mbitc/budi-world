@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179324,
-  "last_updated": "2026-11-24",
+  "cycle_id": 179325,
+  "last_updated": "2026-11-25",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.78,
-    "dominant_sentiment": "industrial_paranoia"
+    "emotional_load": 0.25,
+    "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_vauris_dechloris",
-      "chapter": "Budi liūdesys",
-      "character_id": "vauris",
-      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
-      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
+      "id": "fragment_pijus_16th_floor",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio 16-as aukštas",
+      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
     },
-    "real_world_fact": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-    "emotional_load": 0.78
+    "real_world_fact": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "emotional_load": 0.25
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 100,
+        "fatigue": 98,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 100,
+        "fatigue": 98,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 100,
+        "fatigue": 98,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 88,
+        "fatigue": 86,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 100,
+        "fatigue": 98,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 93,
+        "fatigue": 91,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179320,
-      "fact": "No mention of fossil fuels in latest COP31 draft deal",
-      "fragment_id": "fragment_scooter_206",
-      "summary": "Žalsvai elektrinis 206-osios paralelės dangus neturėjo kintamųjų. Vauris spaudė dūzgiančio skuterio gumines rankenas, pirštų sąnariai buvo pabalę nuo vibracijos, o silicio tirpalo ..."
-    },
-    {
       "cycle": 179321,
       "fact": "Trump threatens ban on US firms building AI data centres overseas",
       "fragment_id": "fragment_pijus_16th_floor",
@@ -265,6 +259,12 @@
       "fact": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
       "fragment_id": "fragment_vauris_dechloris",
       "summary": "### DIENOS ĮRAŠAS: ENTROPIJA IR KETURIŲ ŠALIŲ LINIJA\n\nSeni reliniai jungikliai Budi pakraštyje tądien traškėjo kitaip. 206-osios paralelės dumbležuose sintetinių vaivorykščių švies..."
+    },
+    {
+      "cycle": 179325,
+      "fact": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "fragment_id": "fragment_pijus_16th_floor",
+      "summary": "Šešioliktame aukšte vandens lašas krito į emaliuotą kriauklę kas tiksliai 4,2 sekundės. Pijus patraukė ploną, alyvų aromato dūmą kvepiančią RIP cigaretę ir užpūtė į plazminio monit..."
     }
   ]
 }

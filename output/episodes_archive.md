@@ -884,3 +884,26 @@ Vauris stotyje patraukė elektrinio skuterio vairą, išjungė ci-di grotuvą ir
 
 ---
 
+## [ CIKLAS 179325 ] — 2026-11-25
+- **Faktas:** "Huawei found guilty of stealing trade secrets but acquitted of racketeering"
+- **Fragmentas:** Viešbučio 16-as aukštas (`fragment_pijus_16th_floor`)
+- **Emocinis krūvis:** 0.25 | **Sentimentas:** neutral_drift
+
+Šešioliktame aukšte vandens lašas krito į emaliuotą kriauklę kas tiksliai 4,2 sekundės. Pijus patraukė ploną, alyvų aromato dūmą kvepiančią RIP cigaretę ir užpūtė į plazminio monitoriaus stiklą. Ekranas mirgėjo, rodydamas teisminio registro nuorašą iš Berlyno archyvų, persiųstą per Marso retransliatorių. 
+
+„Huawei“ byla baigėsi. Teismas pripažino kaltę dėl komercinių paslapčių vagystės, bet atmetė kaltinimus reketu. Žetonų srautai C4 kvadrate akimirksniu persiskirstė 0,3 procento į Majų administracijos naudai. Pijus priglaudė pirštą prie klaviatūros tarpų. Jokio reketo. Tik švarus, mechaninis kodų nutekėjimas per silicio kabelių kanalus. Intelektinė nuosavybė be prievartos – grynas algoritminis plėšimas, paliekantis tik sausas sąskaitas ir nusidėvėjusio silicio nuolaužas.
+
+Sienomis lėtai šliaužė indiškas tarakonas. Jo chitininis kiautas tamsiai žėrėja dulkėse. Pijus stebėjo vabzdžio kojelių trakštelėjimą ant tapeto siūlės. Izoliacijos indeksas siekė devyniasdešimt procentų, nuovargis – aštuoniasdešimt aštuonis. 
+
+Tuo metu Bauderio krautuvėlėje, žemai po Marso stikliniu stogu, silicio tirpalo užpildymo sistema pypsėjo kas tris sekundes. Bauderis (Bau) gurkšnojo karštą kavą ir žiūrėjo į IRC langą kanale `#budi`. Garletas P., tikrindamas savo kostiumo siūlių tiesumą, guldė ant stiklinio staliuko bandzinų plantacijų verslo planą. Ponia Wau Ku, sėdėdama šalia su raudonų plaukų aureole, švelniai pirštų galiukais lietė stiklą.
+
+– Jie pavogė specifikacijas, bet neįrodė smurto, – pasakė Garletas P., reguliuodamas rankinį laikrodį į Marso laiką. Jo portatyve tyliai grojo acid jazz. – Klasikinis balansas. Pasaulis ir vėl teisus taikydamas baudas, bet palikdamas erdvės naujiems sandoriams.
+
+– Viskas remiasi laidais ir pralaidumu, – Bau nusijuokė, stumdamas stiklinę stoties prieigą į priekį. – Niekas nebekuria savo. Visi tik skolinasi schemas, kol procesoriai išdžiūsta.
+
+Tuo tarpu per dumbležus, pro sintetines vaivorykštes ir propano-azoto rūgšties tvaiką, Vauris stūmė dūzgiančio skuterio vairą. Jo izoliacijos indeksas siekė aštuoniasdešimt penkis, nuovargis blykčiojo ties devyniasdešimt aštuoniais. Dechlorizacijos stoties centrinis monitorius nepaliaujamai pranešė apie silicio stoką. Vauris sustojo prie gelžbetoninės sienos, išjungė variklį ir atsisuko į horizontą, kur ruda dykuma susiliejo su švinuotu dangumi. 
+
+Viršuje, šešioliktame aukšte, Pijus baigė įrašinėti kodo eilutes. Tarakonas dingo už grindjuostės. Čiaupo lašas sumušė dar vieną laiko intervalą.
+
+---
+
