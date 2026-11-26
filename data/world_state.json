@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179325,
-  "last_updated": "2026-11-25",
+  "cycle_id": 179326,
+  "last_updated": "2026-11-26",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.25,
+    "emotional_load": 0.42,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_16th_floor",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio 16-as aukštas",
-      "text": "Padžiuvęs tamsaus gymio Pijus tūnojo apleistame 16-o aukšto kambaryje. Kompiuterio tyla ir vandens lašėjimas iš čiaupo skaidė erdvę į mechaniškus laiko intervalus. Pijus sekė akimis vienišą indišką tarakoną, minkė klaviatūrą ir svajojo sukurti sąmoningą absoliuto sistemą."
+      "id": "fragment_wau_ku_meeting",
+      "chapter": "Bioprimatų streikas",
+      "character_id": "wau_ku",
+      "setting": "Majų administracijos centro vestibiulis ir užeigėlė",
+      "text": "Zujant robotams ir kvaksint automatams, Garleto petį palietė manikiūruoti pirštai. Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis raudonais plaukais. Sėdint užeigėlėje prie besileidžiančios saulės, pokalbis liejosi bendromis formuluotėmis apie transformaciją ir Marso realybę."
     },
-    "real_world_fact": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-    "emotional_load": 0.25
+    "real_world_fact": "Macy’s Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
+    "emotional_load": 0.42
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179321,
-      "fact": "Trump threatens ban on US firms building AI data centres overseas",
-      "fragment_id": "fragment_pijus_16th_floor",
-      "summary": "Šešioliktame aukšte laikas matavosi kubiniais centimetrais. Pijus sėdėjo melsvame senuolių fotelyje, kurio atlošas jau seniai buvo įsigėręs drėgmės ir pelėsių kvapo. Ant plazminio ..."
-    },
-    {
       "cycle": 179322,
       "fact": "Could Brexit be reversed?",
       "fragment_id": "fragment_pijus_aje_meeting",
@@ -265,6 +259,12 @@
       "fact": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "fragment_id": "fragment_pijus_16th_floor",
       "summary": "Šešioliktame aukšte vandens lašas krito į emaliuotą kriauklę kas tiksliai 4,2 sekundės. Pijus patraukė ploną, alyvų aromato dūmą kvepiančią RIP cigaretę ir užpūtė į plazminio monit..."
+    },
+    {
+      "cycle": 179326,
+      "fact": "Macy’s Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
+      "fragment_id": "fragment_wau_ku_meeting",
+      "summary": "Majų administracijos centro vestibiulyje dešimčių kvadratinių metrų polikarbonato vitrinos praleido išretėjusį, rausvą Marso vidurdienį. Oro kondicionieriai dūzgė tonu žemiau normo..."
     }
   ]
 }

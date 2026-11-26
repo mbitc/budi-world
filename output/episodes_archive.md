@@ -907,3 +907,30 @@ Viršuje, šešioliktame aukšte, Pijus baigė įrašinėti kodo eilutes. Tarako
 
 ---
 
+## [ CIKLAS 179326 ] — 2026-11-26
+- **Faktas:** "Macy’s Thanksgiving Day Parade postponed to Saturday due to expected bad weather"
+- **Fragmentas:** Majų administracijos centro vestibiulis ir užeigėlė (`fragment_wau_ku_meeting`)
+- **Emocinis krūvis:** 0.42 | **Sentimentas:** neutral_drift
+
+Majų administracijos centro vestibiulyje dešimčių kvadratinių metrų polikarbonato vitrinos praleido išretėjusį, rausvą Marso vidurdienį. Oro kondicionieriai dūzgė tonu žemiau normos – ketvirtadienio slėgis krito. Vokiški pneumatiniai automatai kampuose kas septynias sekundes kvaksėjo, išspjaudami geltonas silicio plokšteles su pranešimais: *Dėmesio. Dėl viršutinių sluoksnių cikloninio fronto ir dulkių pliūpsnio Didysis Padėkos paradas perkeliamas į šeštadienį.*
+
+Garletas P. sugriežtino kašmyro švarko sagą. Jo portatyvas, laidu sujungtas su ausinėmis, grojo lėtą, traškantį acid jazz – baterijos lygis rodė 12 procentų. Marso laikas nesutapo su Žemės ciklais jau trisdešimt metų, o rankinio laikrodžio ciferblatas vėl vėlavo keturiomis minutėmis. 
+
+– Vėjas virš C4 kvadrato neša per daug smėlio, – pasakė Garletas. Jo balso tembras buvo sausas, kaip nusidėvėjęs kontaktinis relės jungiklis.
+
+Ponia Wau Ku – vaikystės draugas Ilis, kurio plaukai dabartinėje realybėje spindėjo nenatūralia, chemiškai palaikoma raudona spalva – palinko prie jo. Jos manikiūruoti, steriliai nupoliruoti pirštai švelniai, beveik nejuntamai palietė Garleto petį per sintetinio audinio trintį. 
+
+– Paradas palauks, Garletai. Bandzinai plantacijose vis tiek dar nesubrendo, o bioprimatų streikas administracijos koridoriuose baigsis, kai tik išjungsim vandens tiekimą ketvirtajame sektoriuje. Žemė toli. Čia tik mes ir šitie metaliniai paukščiai.
+
+Šalia zuja autonominiai valymo robotai, šepečiais šveisdami teraco grindis nuo nusidėvėjusio silicio dulkių. 
+
+Tuo metu 206-ojoje paralelėje, dumbležų tvaike, Vaurio elektrinis skuteris prarado sukibimą su šlapia alyvos plėvele. Vauris, susilenkęs virš rankenų, jautė, kaip 98 procentų nuovargis degina akiduobes. Jo gūžtoje, Senojoje dechlorizacijos stotyje, propano-azoto rūgšties židinys šnypštė monotoniškai – centrinis monitorius mirksėjo raudonai, primindamas apie silicio stoką rezervuare. Izoliacijos indeksas siekė 85; jis jau neatskyrė, ar girdi realų vėjo gūsį, ar tik senų magnetinių juostų triukšmą savo ci-di grotuve.
+
+Bauderis, sėdėdamas savo krautuvėlėje po vėsiu melsvu barhato skliautu, stebėjo terminalą. IRC kanalas `#budi` gyvavo beprasmiškais pranešimais apie hormonų auditus ir gedimus C4 sektoriuje. 
+
+– Paradas nukeltas į šeštadienį, – pranešė Bauderis pro atidarytą langelį Ajai, kuri stovėjo vestibiulyje su padėklu, nešdama triušio troškinį. Aja trumpam sustojo, pakėlė beremius akiniukus ir silpnai nusišypsojo – jos izoliacijos indeksas buvo žemas, vos trisdešimt, bet nuovargis jau spaudė smilkinius drėgna plėvele.
+
+Aukščiau, viešbučio 16-ajame aukšte, Pijus sėdėjo melsvame senuolių fotelyje. Plazminis monitorius metė melsvą atspindį į jo skruostą. Priešais, ant kriauklės krašto, tikslais intervalais lašėjo vanduo. Sienomis lėtai ropojo vienišas indiškas tarakonas – vienintelė gyva sąmoninga sistema šioje betono ir pelėsių celėje. Pijus įtraukė lengvą RIP cigaretės su alyvų aromatu dūmą, užsimerkė ir pasuko galvą į saulės spindulį, kuriame dulkės džiūvo lyg neegzistuojančios žvaigždutės. Paradas nevyks. Šeštadienis bus toks pat pilkas ir utilitarus kaip ir ketvirtadienis.
+
+---
+
