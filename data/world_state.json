@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179326,
-  "last_updated": "2026-11-26",
+  "cycle_id": 179327,
+  "last_updated": "2026-11-27",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,7 +23,7 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.42,
+    "emotional_load": 0.5,
     "dominant_sentiment": "neutral_drift"
   },
   "external_signal": {
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_wau_ku_meeting",
-      "chapter": "Bioprimatų streikas",
-      "character_id": "wau_ku",
-      "setting": "Majų administracijos centro vestibiulis ir užeigėlė",
-      "text": "Zujant robotams ir kvaksint automatams, Garleto petį palietė manikiūruoti pirštai. Tai buvo Ponia Wau Ku – atpažintas vaikystės draugas Ilis raudonais plaukais. Sėdint užeigėlėje prie besileidžiančios saulės, pokalbis liejosi bendromis formuluotėmis apie transformaciją ir Marso realybę."
+      "id": "fragment_pijus_aje_meeting",
+      "chapter": "Šešioliktas Pijaus aukštas",
+      "character_id": "pijus",
+      "setting": "Viešbučio stiklinis vestibiulis",
+      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
     },
-    "real_world_fact": "Macy’s Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
-    "emotional_load": 0.42
+    "real_world_fact": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
+    "emotional_load": 0.5
   },
   "characters": [
     {
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179322,
-      "fact": "Could Brexit be reversed?",
-      "fragment_id": "fragment_pijus_aje_meeting",
-      "summary": "Šešioliktame aukšte tyla turėjo savo svorį. Ji nusėsdavo ant palangės dulkėmis, kurias Pijus stebėjo per pusapvalį plazminio monitoriaus stiklą. Kambarys smirdėjo lengva RIP cigare..."
-    },
-    {
       "cycle": 179323,
       "fact": "Miley Cyrus marries Maxx Morando in California ceremony",
       "fragment_id": "fragment_garlet_broker_mars",
@@ -265,6 +259,12 @@
       "fact": "Macy’s Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
       "fragment_id": "fragment_wau_ku_meeting",
       "summary": "Majų administracijos centro vestibiulyje dešimčių kvadratinių metrų polikarbonato vitrinos praleido išretėjusį, rausvą Marso vidurdienį. Oro kondicionieriai dūzgė tonu žemiau normo..."
+    },
+    {
+      "cycle": 179327,
+      "fact": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
+      "fragment_id": "fragment_pijus_aje_meeting",
+      "summary": "Šešioliktajame aukšte oras smirdėjo drėgnu tinku ir alyvų dūmais. Pijus spaudė dešinės rankos nykščiu plazminio monitoriaus briauną, tikrindamas pikselių blukimą. Ekrano gelmėje, p..."
     }
   ]
 }
