@@ -1,6 +1,6 @@
 {
-  "cycle_id": 179327,
-  "last_updated": "2026-11-27",
+  "cycle_id": 179328,
+  "last_updated": "2026-11-28",
   "narrative_arc": {
     "title": "Askezi: Budi ir Marso fragmentai",
     "current_milestone_index": 0,
@@ -23,8 +23,8 @@
     ]
   },
   "telemetry": {
-    "emotional_load": 0.5,
-    "dominant_sentiment": "neutral_drift"
+    "emotional_load": 0.8,
+    "dominant_sentiment": "industrial_paranoia"
   },
   "external_signal": {
     "pulse": -0.3,
@@ -35,14 +35,14 @@
   },
   "current_episode": {
     "fragment": {
-      "id": "fragment_pijus_aje_meeting",
-      "chapter": "Šešioliktas Pijaus aukštas",
-      "character_id": "pijus",
-      "setting": "Viešbučio stiklinis vestibiulis",
-      "text": "Stikliniame vestibiulyje prie plazminio monitoriaus sėdėjo šatenė Aja berėmiais akinukais. Pijui nusileidus, ji prisistatė esanti naujoji administratorė. Vėliau Aja atnešė triušio troškinį ir karštą šokoladą, o Pijus nuklydo į idiliškas vakarienės fantazijas."
+      "id": "fragment_vauris_dechloris",
+      "chapter": "Budi liūdesys",
+      "character_id": "vauris",
+      "setting": "Senoji dechlorizacijos stotis, Budi pakraštys",
+      "text": "Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį."
     },
-    "real_world_fact": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
-    "emotional_load": 0.5
+    "real_world_fact": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "emotional_load": 0.8
   },
   "characters": [
     {
@@ -51,7 +51,7 @@
       "archetype": "Dechlorizacijos bokšto atsiskyrėlis ir keliautojas",
       "location": "senoji_dechlorizacijos_stotis",
       "dynamic_state": {
-        "fatigue": 98,
+        "fatigue": 100,
         "isolation_index": 85,
         "obsession": "Propano-azoto rūgšties židinio liepsna ir deimantinio laikotarpio prisiminimai"
       },
@@ -73,7 +73,7 @@
       "archetype": "Funkse rekrutas, buvęs Marso C4 vadovas, dabartinis krautuvėlės savininkas",
       "location": "bauder_and_co_krautuvele",
       "dynamic_state": {
-        "fatigue": 98,
+        "fatigue": 100,
         "isolation_index": 40,
         "obsession": "IRC channel #budi, lengvabūdiškas požiūris į gyvenimą ir hormonų auditai"
       },
@@ -94,7 +94,7 @@
       "archetype": "Viešbučio 16-o aukšto algoritmuotojas ir mąstytojas",
       "location": "viesbucio_16_aukstas",
       "dynamic_state": {
-        "fatigue": 98,
+        "fatigue": 100,
         "isolation_index": 90,
         "obsession": "Sąmoningos sistemos sukūrimas ir indiškas tarakonas"
       },
@@ -116,7 +116,7 @@
       "archetype": "Naujoji viešbučio administratorė",
       "location": "viesbucio_vestibiulis_ir_kavinuke",
       "dynamic_state": {
-        "fatigue": 86,
+        "fatigue": 90,
         "isolation_index": 30,
         "obsession": "Stropus nurodymų vykdymas ir grakšti tvarka"
       },
@@ -137,7 +137,7 @@
       "archetype": "Senas Žemės makleris ir finansų laimės ieškotojas",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 98,
+        "fatigue": 100,
         "isolation_index": 50,
         "obsession": "Bandzinų plantacijų verslo planas ir kreditai žetone"
       },
@@ -158,7 +158,7 @@
       "archetype": "Aukštojo rango Majų administracijos vadovė",
       "location": "maju_administracijos_centras",
       "dynamic_state": {
-        "fatigue": 91,
+        "fatigue": 95,
         "isolation_index": 35,
         "obsession": "Aukštuomenės elegancija ir senų Žemės ryšių transformacija"
       },
@@ -237,12 +237,6 @@
   ],
   "history": [
     {
-      "cycle": 179323,
-      "fact": "Miley Cyrus marries Maxx Morando in California ceremony",
-      "fragment_id": "fragment_garlet_broker_mars",
-      "summary": "Transporterio padangos braškėdamas trynėsi į Marso C4 kvadrato bazaltą. Kabinoje tvyrojo perkaitinto silicio ir rūgšties tvaikas. Garletas P., buvęs Žemės makleris, pirštais braukė..."
-    },
-    {
       "cycle": 179324,
       "fact": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
       "fragment_id": "fragment_vauris_dechloris",
@@ -265,6 +259,12 @@
       "fact": "Sanchez's big gamble: Will Spain swing from Socialists to hard right?",
       "fragment_id": "fragment_pijus_aje_meeting",
       "summary": "Šešioliktajame aukšte oras smirdėjo drėgnu tinku ir alyvų dūmais. Pijus spaudė dešinės rankos nykščiu plazminio monitoriaus briauną, tikrindamas pikselių blukimą. Ekrano gelmėje, p..."
+    },
+    {
+      "cycle": 179328,
+      "fact": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+      "fragment_id": "fragment_vauris_dechloris",
+      "summary": "### DIENOS ĮRAŠAS: ENTROPIJOS INDEKSAS 0.8 / LOKACIJA: BUDI / 206-OJI PARALELĖ\n\nPo švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacij..."
     }
   ]
 }

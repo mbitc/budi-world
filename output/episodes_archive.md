@@ -966,3 +966,24 @@ Pijus užmerkė akis. Triušio troškinio kvapas sumišo su RIP cigarečių dūm
 
 ---
 
+## [ CIKLAS 179328 ] — 2026-11-28
+- **Faktas:** "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind"
+- **Fragmentas:** Senoji dechlorizacijos stotis, Budi pakraštys (`fragment_vauris_dechloris`)
+- **Emocinis krūvis:** 0.8 | **Sentimentas:** industrial_paranoia
+
+### DIENOS ĮRAŠAS: ENTROPIJOS INDEKSAS 0.8 / LOKACIJA: BUDI / 206-OJI PARALELĖ
+
+Po švininio atspalvio sukaustytu dangumi driekėsi surūdijusio geležies miestas. Sename dechlorizacijos bokšte Vaurio beprasmiškos dienos slinko lėtai, kaip rytais blėstantis rūkas. Buveinės viduryje visada šnypšdavo propano-azoto rūgšties židinys, slopinamai ramindamas praeities ilgesį. Metalinėse talpose slėgis svyravo ties kritine 2.4 barų riba, o centrinis monitorius blykčiojo pranešimais apie kritinę silicio stoką.
+
+Vauris spaudė dūzgiančio skuterio vairą, braukdamas per 206-ąją paralelę, kur dumbležų tvaikas – pelėsių, išmatų ir prasto kuro mišinys – lipo prie kombinezono audinio. Čia, tarp sintetinių vaivorykštėmis tviskančių holografinių reklamų, kurios siūlė Marso bandzinų plantacijų akcijas, vyko judėjimas, nepaklūstantis jokiai biurokratinei matavimo sistemai. 
+
+Apatiniuose kvartaluose, ant drėgno, tepaluotos alyvos ištepto betono plokščių, jaunimas trankė padus. Tai buvo mechaninis, kapotas *mara* ritmas, atkurtas iš senų Žemės serverių fragmentų, įrašytų į nutrintas kasetes. Kiekvienas judesys – sausas, kampuotas, be jokių organinių gražumų – tarnavo kaip vienintelis fizinis skydas nuo kasdienio trinties indekso. Kojų dunksėjimas į gelžbetonį girdėjosi net per variklio gaudesį: *tšk-tšk-bum*. Prakaitas korozijos veikiamos odos porose maišėsi su radioaktyviomis dulkėmis.
+
+– Triukšmo lygis viršija leistinas normas, – pasakė Aja, stovėdama viešbučio vestibiulyje su beremiais akinukais ant nosies. Jos pirštai laikė padėklą su triušio troškiniu, kurio riebalų plėvelė atspindėjo blyškią neoninių lempų šviesą. Šalia, Bauderiui ir Ko. priimamajame, silicio tirpalo užpildymo sistema ritmiškai pypsėjo, skaičiuodama skystį litrais. Bauderis dairėsi į Marso stiklinį stogą, kur degaudamas Deimas traukė paskui save ploną dulkių uodegą, ir pusbalsiu juokėsi iš perspausto sistemos rimtumo.
+
+Tuo tarpu 16-ajame aukšte Pijus spoksojo į lubas. Kriauklėje kas tris sekundes lašėjo surūdijęs čiaupas, o sienomis, palikdamas blizgų gleivių pėdsaką, ropoja vienišas indiškas tarakonas. Pijus patraukė RIP cigaretę su alyvų aromatu, stebėdamas, kaip melsvas dūmas tirpsta saulės spindulyje. 
+
+Majų administracijos centre Garletas P. tikrino kostiumo siūlių tiesumą, rankiniu laikrodžiu koreguodamas laiką į Marso zoną, o ponia Wau Ku švelniai lietė jo petį manikiūruotu pirštu, siūlydama pasirašyti bandzinų plantacijų kreditų sutartis. Viskas aplinkui traškėjo, dūzgė ir skaičiavo save pačius, kol *mara* ritmas iš apačios atsimušė į pamatus, siųsdamas žemę stuburu per visą Budi visatos konstrukciją.
+
+---
+
